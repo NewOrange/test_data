@@ -1,0 +1,100 @@
+{"text": "为玩家提供棋牌、游戏、娱乐、工具等优质服务。", "labels": [[5, 7, "service"], [8, 10, "service"], [11, 13, "service"], [14, 16, "service"], [19, 20, "service"]], "meta": {"model_predict": 1, "name": "春秋网络"}, "name": "春秋网络"}
+{"text": "北京以梦以泉科技是一家移动软件管理解决方案及移动软件管理(MSM)服务商，目前主打面向快消零售企业的新型SaaS服务创业", "labels": [[11, 21, "service"], [22, 28, "domain"], [31, 32, "service"], [33, 34, "service"]], "meta": {"model_predict": 1, "name": "北京以梦以泉科技"}, "name": "北京以梦以泉科技"}
+{"text": "公司处于初创期，产品二次迭代中，寻求天使轮投资。", "labels": [], "meta": {"model_predict": 1, "name": "北京以梦以泉科技"}, "name": "北京以梦以泉科技"}
+{"text": "好东西网是一家网购精品推荐和导购网站，发现、分享和帮你寻找网上商城中真正好东西的平台。上海耶客网络科技有限公司旗下网站。", "labels": [[7, 11, "service"], [32, 33, "service"]], "meta": {"model_predict": 1, "name": "好东西网"}, "name": "好东西网"}
+{"text": "nullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnull", "labels": [], "meta": {"model_predict": 1, "name": "水一方"}, "name": "水一方"}
+{"text": "ullnullnullnullnullnullnullnullnullnullnullnullnullnullnullnulln", "labels": [], "meta": {"model_predict": 1, "name": "水一方"}, "name": "水一方"}
+{"text": "llnullnullnull", "labels": [], "meta": {"model_predict": 1, "name": "水一方"}, "name": "水一方"}
+{"text": "划动时代是一家移动营销SAAS解决方案提供商，主打产品为会葩（huipar），为会议活动主办方提供整体解决方案", "labels": [[7, 13, "service"], [49, 51, "service"], [52, 55, "service"]], "meta": {"model_predict": 1, "name": "划动时代"}, "name": "划动时代"}
+{"text": "帮助客户构建移动营销场景，增强用户转化，挖掘会后营销长尾，提升用户粘度。", "labels": [[6, 7, "service"], [7, 10, "domain"], [10, 11, "service"]], "meta": {"model_predict": 1, "name": "划动时代"}, "name": "划动时代"}
+{"text": "安投安是一个互联网金融理财分享平台，致力于为对资金安全性有严格要求的投资者提供安全可靠、本息保障、方便快捷的高端理财服务", "labels": [[6, 7, "domain"], [8, 15, "domain"], [54, 60, "service"]], "meta": {"model_predict": 1, "name": "安投安"}, "name": "安投安"}
+{"text": "隶属于上海汇投网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "安投安"}, "name": "安投安"}
+{"text": "驿元科技是一家企业协同办公软件开发商", "labels": [], "meta": {"model_predict": 1, "name": "驿元科技"}, "name": "驿元科技"}
+{"text": "其开发的\"驿客移动办公\"服务平台主要包括自定义考勤管理、工作上报管理、灵活的审批定义、客户关系管理、知识文档管理等功能", "labels": [[4, 5, "domain"], [7, 10, "domain"], [20, 27, "service"], [28, 34, "service"], [36, 37, "service"], [38, 42, "service"], [43, 49, "service"], [50, 56, "service"]], "meta": {"model_predict": 1, "name": "驿元科技"}, "name": "驿元科技"}
+{"text": "旨在为中小企业全面提升团队执行力和领导掌控力。", "labels": [], "meta": {"model_predict": 1, "name": "驿元科技"}, "name": "驿元科技"}
+{"text": "壹康复是一个O2O模式的理疗平台，为用户提供上门的理疗服务，隶属于杭州佳育康网络技术有限公司。", "labels": [[6, 11, "service"], [13, 14, "domain"], [23, 24, "service"], [25, 29, "service"]], "meta": {"model_predict": 1, "name": "壹康复"}, "name": "壹康复"}
+{"text": "金立是一家手机研发生产在公司，同时也为手机用户提供软件技术支持和服务", "labels": [[5, 7, "domain"], [25, 30, "service"], [33, 34, "service"]], "meta": {"model_predict": 1, "name": "金立"}, "name": "金立"}
+{"text": "通过开发的Amigo生态系统及应用、故事锁屏、超长截屏、ami换机、出国助手以及儿童乐园等手机应用功能", "labels": [[11, 12, "service"], [45, 47, "service"]], "meta": {"model_predict": 1, "name": "金立"}, "name": "金立"}
+{"text": "公司致力于为广大用户带来更加实用的体验。", "labels": [], "meta": {"model_predict": 1, "name": "金立"}, "name": "金立"}
+{"text": "熊猫私厨是一个私房美食O2O平台，让厨艺爱好者能将自己的“拿手好菜”分享给别人，获取收益", "labels": [[7, 15, "domain"], [32, 33, "service"]], "meta": {"model_predict": 1, "name": "熊猫私厨"}, "name": "熊猫私厨"}
+{"text": "同时为消费者提供无添加剂、无防腐剂的健康新鲜的美食。", "labels": [], "meta": {"model_predict": 1, "name": "熊猫私厨"}, "name": "熊猫私厨"}
+{"text": "深圳市国云电子商务（国云电商）是一家专注于帮助传统中、小企业以最低的付出取得“互联网+”成功转型的公司", "labels": [[4, 5, "domain"]], "meta": {"model_predict": 1, "name": "国云电商"}, "name": "国云电商"}
+{"text": "旗下产品有业务蜘蛛、冠名网等。", "labels": [], "meta": {"model_predict": 1, "name": "国云电商"}, "name": "国云电商"}
+{"text": "深圳蚁群信息技术有限公司是一家跨境电商行业内平台建设、工业设计成果交易以及相关行业商务应用服务开发与运营为一体的公司", "labels": [[41, 43, "service"], [43, 44, "domain"], [45, 46, "service"]], "meta": {"model_predict": 1, "name": "蚁群科技"}, "name": "蚁群科技"}
+{"text": "致力于深度拓展跨境电商行业资源，提高商务效率，降低企业供应链成本，建立更受海外客户信赖的贸易监管体系，改善企业产品创新困境。", "labels": [[9, 13, "service"], [14, 15, "service"], [38, 40, "service"], [41, 43, "service"], [45, 46, "service"]], "meta": {"model_predict": 1, "name": "蚁群科技"}, "name": "蚁群科技"}
+{"text": "我爱洗车是一家为车主提供上门洗车O2O服务的公司，凯利卡尔(北京)科技服务有限公司旗下产品。", "labels": [[12, 21, "service"]], "meta": {"model_predict": 1, "name": "我爱洗车"}, "name": "我爱洗车"}
+{"text": "昂特兰德是一个综合影视媒体社区，致力于发布影视产业、艺术品金融、国际观光旅游投资和宗教应用（禅修）产业的相关内容", "labels": [[9, 15, "domain"], [20, 25, "service"], [26, 31, "service"], [32, 40, "service"], [42, 45, "service"]], "meta": {"model_predict": 1, "name": "昂特兰德"}, "name": "昂特兰德"}
+{"text": "隶属于北京达观天下影业有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "昂特兰德"}, "name": "昂特兰德"}
+{"text": "“我在”是一款基于地理位置的在线旅游ＡＰＰ，或者说是社交旅游ＡＰＰ，主打游侠社交，即走到哪里社交就到哪里", "labels": [[15, 21, "service"], [26, 30, "domain"], [30, 33, "service"], [36, 40, "domain"]], "meta": {"model_predict": 1, "name": "我在"}, "name": "我在"}
+{"text": "让用户在旅游的过程中就享受分享和社交的乐趣。用户不仅可以在拍照的图片中插入一小段语音，此外“我在”还可以有周边景点推荐。", "labels": [[14, 15, "service"], [16, 18, "service"], [30, 31, "service"], [33, 34, "service"], [35, 36, "service"]], "meta": {"model_predict": 1, "name": "我在"}, "name": "我在"}
+{"text": "沐腾科技是一家移动互联网初创公司，主打产品为一款移动社交通讯产品--喷喷，主要针对90、00后群体。", "labels": [[7, 12, "domain"], [24, 31, "domain"]], "meta": {"model_predict": 1, "name": "喷喷"}, "name": "喷喷"}
+{"text": "潮玩是一个面向个人的移动端娱乐活动社交平台，用户可以随时随地的找到自己喜欢的娱乐活动、或是兴趣相同的好友，参与社交互动", "labels": [[10, 21, "domain"], [38, 42, "service"], [46, 47, "service"], [48, 49, "service"], [51, 52, "service"], [55, 56, "domain"], [58, 59, "service"]], "meta": {"model_predict": 1, "name": "潮玩社交"}, "name": "潮玩社交"}
+{"text": "或者组织活动等，菠萝城旗下APP。", "labels": [[0, 1, "service"], [1, 2, "domain"], [3, 4, "service"]], "meta": {"model_predict": 1, "name": "潮玩社交"}, "name": "潮玩社交"}
+{"text": "同时提供物联智能集成方案、移动互联网终端和网络大数据应用领域方向的服务。隶属于武汉豪事达科技有限公司。", "labels": [[4, 12, "service"], [13, 20, "service"], [21, 28, "domain"], [34, 35, "service"]], "meta": {"model_predict": 1, "name": "豪事达"}, "name": "豪事达"}
+{"text": "安鲜水果是一个针对成都市区的美味水果外送服务平台，致力于提供安全新鲜的都市鲜果服务，隶属于四川安鲜电子商务有限公司。", "labels": [[14, 20, "domain"], [37, 39, "domain"], [48, 49, "domain"]], "meta": {"model_predict": 1, "name": "安鲜水果"}, "name": "安鲜水果"}
+{"text": "眯客是一个全新的酒店预订移动应用，兼具娱乐、分享等交互体验功能，上海乐住信息技术有限公司旗下产品。", "labels": [[8, 12, "service"], [12, 15, "domain"], [19, 20, "service"]], "meta": {"model_predict": 1, "name": "眯客"}, "name": "眯客"}
+{"text": "中体动力是一家主打体育竞技训练信息监测及大数据服务的公司，打造运动数据监控分析服务平台。", "labels": [[9, 18, "service"], [20, 25, "service"], [33, 41, "service"]], "meta": {"model_predict": 1, "name": "中体动力"}, "name": "中体动力"}
+{"text": "微习惯是一个日常生活好习惯养成应用、主打生活中的打卡神器，隶属于福州谷德网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "微习惯"}, "name": "微习惯"}
+{"text": "笨鸟海淘是一家第三方转运物流服务商，为海淘提供物流解决方案，隶属于深圳市笨鸟海淘互联网有限公司。", "labels": [[7, 16, "domain"], [23, 29, "service"]], "meta": {"model_predict": 1, "name": "笨鸟海淘"}, "name": "笨鸟海淘"}
+{"text": "安心金融是一个点对点（P2C）互联网理财平台，致力于提供安全、有担保、高收益的固定收益互联网理财服务", "labels": [[13, 14, "domain"], [15, 19, "domain"], [40, 41, "service"], [42, 50, "service"]], "meta": {"model_predict": 1, "name": "安心金融"}, "name": "安心金融"}
+{"text": "隶属于北京紫御乾坤投资管理有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "安心金融"}, "name": "安心金融"}
+{"text": "北京空空科技有限公司是一家手机游戏及娱乐应用开发商，旗下产品有《微星座》等。", "labels": [[13, 23, "domain"]], "meta": {"model_predict": 1, "name": "北京空空科技"}, "name": "北京空空科技"}
+{"text": "抢先花是北京恒达众富科技旗下的一个提供消费借贷服务的初创公司，主要是围绕个人消费还款的信用记录来提供借贷服务", "labels": [[19, 25, "domain"], [38, 40, "domain"], [50, 54, "service"]], "meta": {"model_predict": 1, "name": "抢先花"}, "name": "抢先花"}
+{"text": "打造大学生专属的【先花后还】服务。", "labels": [[11, 12, "service"]], "meta": {"model_predict": 1, "name": "抢先花"}, "name": "抢先花"}
+{"text": "探鹿是一家大学生兼职平台，除了免收中介费之外，通过平台方的保障机制让兼职更安全。北京蓝众时代网络科技有限公司旗下产品。", "labels": [[29, 30, "domain"], [31, 32, "service"]], "meta": {"model_predict": 1, "name": "探鹿"}, "name": "探鹿"}
+{"text": "爱情银行是一个恋爱社交平台，拥有视频互动、一键美颜、动态贴纸等功能，情侣用户可通过平台记录恋爱点滴、爱情清单、纪念日等内容", "labels": [[9, 12, "domain"], [16, 20, "service"], [21, 25, "service"], [26, 30, "service"], [34, 38, "domain"], [51, 54, "service"]], "meta": {"model_predict": 1, "name": "爱情银行"}, "name": "爱情银行"}
+{"text": "同时平台支持阅后即焚、点对点通讯等功能。", "labels": [[8, 9, "service"], [13, 16, "service"]], "meta": {"model_predict": 1, "name": "爱情银行"}, "name": "爱情银行"}
+{"text": "沪爱健康是一家高新医疗生物科技和医疗健康管理公司，致力于为每一个家庭和个人提供完善的“私人医生管家”服务", "labels": [[7, 15, "domain"], [16, 22, "domain"], [43, 49, "service"]], "meta": {"model_predict": 1, "name": "沪爱健康"}, "name": "沪爱健康"}
+{"text": "产品线包括：基因检测、细胞存储、细胞美容、保健产品、绿色就医、智慧体检、医疗咨询等全方位健康医疗服务。", "labels": [[0, 1, "service"], [6, 8, "service"], [9, 10, "service"], [11, 15, "service"], [16, 20, "service"], [21, 25, "service"], [26, 30, "service"], [31, 35, "service"], [36, 40, "service"], [44, 46, "service"], [46, 50, "domain"]], "meta": {"model_predict": 1, "name": "沪爱健康"}, "name": "沪爱健康"}
+{"text": "神盾快运是一家同城货运智能调度平台，主要是利用移动互联网提供同城货运智能叫车服务。瓦雷拉数据技术（上海）有限公司旗下产品。", "labels": [[8, 12, "domain"], [31, 40, "service"], [41, 42, "domain"], [43, 44, "service"], [44, 45, "domain"]], "meta": {"model_predict": 1, "name": "神盾快运"}, "name": "神盾快运"}
+{"text": "青岛菜鸟智能科技是一家专注于智能骑行的科技公司，主打产品为“骑遇智能骑行系统”，由智能硬件“鸟蛋”和骑行软件“骑遇”组成。", "labels": [[14, 15, "domain"], [16, 18, "domain"]], "meta": {"model_predict": 1, "name": "鸟蛋骑遇智能"}, "name": "鸟蛋骑遇智能"}
+{"text": "币换宝是一个比特币本地消费平台，香蕉广告（北京）有限公司旗下产品。", "labels": [[8, 14, "domain"]], "meta": {"model_predict": 1, "name": "币换宝"}, "name": "币换宝"}
+{"text": "那好网是一个K12阶段、中小学“直播互动”线上教育平台，隶属于北京那好教育科技有限公司。", "labels": [[16, 17, "service"], [17, 20, "domain"], [21, 22, "domain"], [23, 26, "domain"]], "meta": {"model_predict": 1, "name": "那好网"}, "name": "那好网"}
+{"text": "微时代是一家广告平台，专注于微信广告的营销代理", "labels": [[14, 18, "service"]], "meta": {"model_predict": 1, "name": "深圳微时代"}, "name": "深圳微时代"}
+{"text": "提供的服务包括全国各城市微信广告投放、一手货源微营销代理、各类生活用品微营销代理、微生活信息网广告、加盟代理网广告、大中小型网站", "labels": [[10, 18, "service"], [19, 28, "service"], [31, 40, "service"], [41, 49, "service"], [52, 55, "service"], [56, 57, "service"], [62, 64, "service"]], "meta": {"model_predict": 1, "name": "深圳微时代"}, "name": "深圳微时代"}
+{"text": "众平台开发。", "labels": [], "meta": {"model_predict": 1, "name": "深圳微时代"}, "name": "深圳微时代"}
+{"text": "趣连旅行是一款出境游即时预定平台，为游客提供目的地旅游即时消费线上预定和购买服务，包括当地餐饮、娱乐、休闲、购物等", "labels": [[6, 7, "service"], [7, 8, "domain"], [9, 12, "domain"], [24, 35, "service"], [36, 40, "service"], [43, 47, "service"], [48, 50, "service"], [51, 53, "service"], [54, 56, "service"]], "meta": {"model_predict": 1, "name": "趣连旅行"}, "name": "趣连旅行"}
+{"text": "主打日韩当地消费资讯和旅游产品，主要通过趣连Wifi的绑定导入用户流量，有效获得用户资源。", "labels": [[6, 10, "domain"], [11, 15, "domain"], [40, 42, "service"], [43, 44, "service"]], "meta": {"model_predict": 1, "name": "趣连旅行"}, "name": "趣连旅行"}
+{"text": "北京大河马网络科技有限公司于2014年底成立，主做手机H5游戏业务，我们立志于做优质偏重度的H5游戏", "labels": [[25, 26, "domain"], [27, 32, "domain"], [48, 50, "service"]], "meta": {"model_predict": 1, "name": "大河马网络"}, "name": "大河马网络"}
+{"text": "带给玩家更好的H5游戏体验。", "labels": [[9, 13, "domain"]], "meta": {"model_predict": 1, "name": "大河马网络"}, "name": "大河马网络"}
+{"text": "果酱直播秀场，美女在线视频直播，同城交友约会聊天秀场，美女视频直播平台", "labels": [[0, 1, "service"], [2, 3, "service"], [7, 9, "service"], [10, 15, "service"], [18, 19, "service"], [20, 21, "service"], [23, 24, "service"], [25, 26, "service"], [27, 33, "service"], [34, 35, "service"]], "meta": {"model_predict": 1, "name": "果酱直播"}, "name": "果酱直播"}
+{"text": "美女主播、在读校花、萌妹子、小鲜肉、网红美女、模特、草根偶像、奇葩怪才、附近到同城、国内到海外，应有尽有，总有一款适合你。", "labels": [[0, 2, "service"], [8, 9, "service"], [12, 13, "service"], [15, 17, "service"], [18, 22, "service"], [28, 29, "service"]], "meta": {"model_predict": 1, "name": "果酱直播"}, "name": "果酱直播"}
+{"text": "【同城美女】地理位置锚定，跨省分市，等您来看！【台湾美女】不一样的嗲声，给你不同的味道。", "labels": [[1, 5, "service"], [6, 8, "service"], [9, 10, "service"], [11, 12, "service"], [24, 28, "service"]], "meta": {"model_predict": 1, "name": "果酱直播"}, "name": "果酱直播"}
+{"text": "【明星直播】直接连线一线明星空降中。7*24小时全天候美女为您表演！一分钟都不能落下的精彩瞬间时时刻刻陪伴你！你渴望", "labels": [[1, 2, "service"], [3, 4, "service"]], "meta": {"model_predict": 1, "name": "果酱直播"}, "name": "果酱直播"}
+{"text": "你寂寞。我赞歌，我献舞。音视频切换模式让你既能节省流量的消耗还能依然听到美女主播的动人歌声！千万用户同时在线", "labels": [[12, 16, "service"], [17, 18, "service"], [36, 37, "domain"], [41, 42, "domain"], [43, 44, "service"]], "meta": {"model_predict": 1, "name": "果酱直播"}, "name": "果酱直播"}
+{"text": "上千直播间同时开播，更多选择带来更多妙趣。每月活动奖品让你目不暇接！实物奖虚拟奖让你拿到手酸！", "labels": [[2, 4, "service"], [34, 36, "service"], [37, 39, "service"]], "meta": {"model_predict": 1, "name": "果酱直播"}, "name": "果酱直播"}
+{"text": "只要你打开我们就会让你不虚此行！", "labels": [], "meta": {"model_predict": 1, "name": "果酱直播"}, "name": "果酱直播"}
+{"text": "更新内容：-【年度活动】预热，酷炫头像框，流光勋章等你获得！~-【年度活动】预热，新增霸屏位，霸占让你心动的主播！~", "labels": [[7, 8, "service"], [16, 20, "service"], [21, 25, "service"], [33, 35, "service"], [35, 36, "domain"]], "meta": {"model_predict": 1, "name": "果酱直播"}, "name": "果酱直播"}
+{"text": "-【年度活动】年度图标上线！~-其他一系列小调整和小优化。-修复bug。", "labels": [[2, 4, "service"], [4, 6, "service"], [7, 13, "service"]], "meta": {"model_predict": 1, "name": "果酱直播"}, "name": "果酱直播"}
+{"text": "天津开发区埃尼科技发展有限公司是一家关注生态环保领域或技术创新产业链的公司，致力于将荷兰先进的生态环保技术引进国内并推广应用", "labels": [[21, 26, "domain"], [27, 31, "domain"], [31, 32, "service"]], "meta": {"model_predict": 1, "name": "埃尼科技"}, "name": "埃尼科技"}
+{"text": "将国外先进的技术创新成果根据中国的项目实际情况进行转化，并在国内市场形成产品的系列化、产业化。", "labels": [[33, 36, "service"]], "meta": {"model_predict": 1, "name": "埃尼科技"}, "name": "埃尼科技"}
+{"text": "八荣网是一家专注于比特币等虚拟资产抵押服务的P2P借贷和互联网金融平台，北京十星宝电子商务科技有限公司旗下产品。", "labels": [[9, 12, "service"], [13, 21, "domain"], [22, 23, "domain"], [24, 27, "domain"], [28, 33, "domain"]], "meta": {"model_predict": 1, "name": "八荣网"}, "name": "八荣网"}
+{"text": "宅外卖是一家外卖服务网站，以高校校园&周边订餐、配送为切入口，用免费快递等粘性服务", "labels": [[8, 9, "service"], [14, 18, "service"], [19, 23, "service"], [27, 28, "service"], [31, 32, "service"]], "meta": {"model_predict": 1, "name": "宅外卖"}, "name": "宅外卖"}
+{"text": "主推高毛利和重复消费频次高的自营品牌咖啡、饮料、蛋糕、休闲食品、鲜花等的互联网品牌管理公司。", "labels": [[4, 5, "service"], [7, 8, "service"], [16, 17, "service"], [17, 20, "service"], [21, 23, "service"], [24, 26, "service"], [27, 31, "service"], [32, 34, "service"], [36, 42, "domain"]], "meta": {"model_predict": 1, "name": "宅外卖"}, "name": "宅外卖"}
+{"text": "又又是一个基于真实好友关系的手机婚恋社区，让用户帮助朋友介绍恋爱对象，赢才骏励科技（北京）有限公司旗下产品。", "labels": [[14, 20, "service"]], "meta": {"model_predict": 1, "name": "又又"}, "name": "又又"}
+{"text": "妈妈味道是一家主打C2C模式的特色私房菜外卖平台，支持客户端、微信、电话等形式的下单，可配送或上门自提", "labels": [[15, 21, "service"], [27, 29, "service"], [31, 33, "service"], [34, 36, "service"]], "meta": {"model_predict": 1, "name": "妈妈的菜"}, "name": "妈妈的菜"}
+{"text": "妈妈味道（北京）科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "妈妈的菜"}, "name": "妈妈的菜"}
+{"text": "美页是一个让用户可以快速制作精美设计作品的工具，支持制作幻灯片/宣传册/相册/简历等，思来乐（上海）信息科技有限公司开发", "labels": [[10, 13, "service"], [14, 16, "service"], [17, 18, "service"], [19, 20, "service"], [26, 28, "service"], [28, 32, "service"], [32, 35, "service"]], "meta": {"model_predict": 1, "name": "美页"}, "name": "美页"}
+{"text": "旗下还有SlideIdea等产品。", "labels": [], "meta": {"model_predict": 1, "name": "美页"}, "name": "美页"}
+{"text": "律金所是一个P2P借贷平台，采用P2P+O2O模式，以专业律师为风控基础，独创融入式金融法律风险管控体系", "labels": [[6, 13, "domain"], [18, 19, "service"], [44, 50, "service"], [51, 52, "service"]], "meta": {"model_predict": 1, "name": "律金所"}, "name": "律金所"}
+{"text": "为广大机构、企业及合格投资者提供专业、高效、安全的金融资产交易相关服务及投融资顾问服务。", "labels": [[25, 32, "service"], [33, 34, "service"], [36, 39, "service"], [40, 41, "service"]], "meta": {"model_predict": 1, "name": "律金所"}, "name": "律金所"}
+{"text": "“喵吧”是一个专门提供免费本地生活服务商品的移动平台。结合最新移动科技AR增强现实技术给用户互动体验", "labels": [[13, 21, "service"]], "meta": {"model_predict": 1, "name": "南京喵吧互动网络"}, "name": "南京喵吧互动网络"}
+{"text": "目前的免费商品已经覆盖了南京全城，包含了各式各样的吃喝玩乐。", "labels": [], "meta": {"model_predict": 1, "name": "南京喵吧互动网络"}, "name": "南京喵吧互动网络"}
+{"text": "奇遇派是一个单身旅行交友平台，用同城活动、周末游、周边游等活动帮助优秀单身者交友。杭州奇遇派网络科技有限公司旗下产品。", "labels": [[6, 13, "domain"]], "meta": {"model_predict": 1, "name": "奇遇派"}, "name": "奇遇派"}
+{"text": "新石器世纪科技是一家创新设计团队。致力于设计研究、工业设计、结构工程、产品定制领域，为客户提供富有创造性的价值提升服务", "labels": [], "meta": {"model_predict": 1, "name": "新石器世纪科技"}, "name": "新石器世纪科技"}
+{"text": "服务客户包括联想、西门子、美的、GE、国家电网、中船重工、霍尼韦尔、中国银行、农业银行等。", "labels": [[0, 1, "service"], [39, 40, "domain"]], "meta": {"model_predict": 1, "name": "新石器世纪科技"}, "name": "新石器世纪科技"}
+{"text": "木瓜韩妆，韩国化妆品团购网站，联合多家韩国化妆品一线品牌,在线销售提供最低折扣的韩妆化妆品", "labels": [], "meta": {"model_predict": 1, "name": "木瓜韩妆"}, "name": "木瓜韩妆"}
+{"text": "东翌互联（北京）信息技术有限公司旗下网站。", "labels": [], "meta": {"model_predict": 1, "name": "木瓜韩妆"}, "name": "木瓜韩妆"}
+{"text": "北京泰凯科技有限公司是一家专注于手机应用开发的公司，泰凯即tiekeeper，意为通过科技的力量加强", "labels": [[16, 20, "domain"]], "meta": {"model_predict": 1, "name": "泰凯科技"}, "name": "泰凯科技"}
+{"text": "“你我车”是一个专注于真实透明个人二手车交易的O2O服务平台，致力于为个人用户提供优质二手车交易服务。", "labels": [[13, 15, "domain"], [16, 17, "service"], [17, 22, "domain"], [23, 28, "domain"], [43, 50, "service"]], "meta": {"model_predict": 1, "name": "你我车平台"}, "name": "你我车平台"}
+{"text": "车先生是一个致力于S2C二手车交易服务的平台，通过网络寄售平台+体验服务中心的模式，促成买卖双方交易。", "labels": [[9, 18, "service"], [32, 34, "service"], [35, 36, "service"]], "meta": {"model_predict": 1, "name": "车先生"}, "name": "车先生"}
+{"text": "北京安易信科技有限公司是一家从事软件研发和互联网信息服务的公司，致力于企业管理类软件的开发，帮助企业进行资源和流程的整合与优化", "labels": [[17, 18, "service"], [21, 22, "service"], [22, 28, "domain"], [41, 42, "domain"]], "meta": {"model_predict": 1, "name": "安易信"}, "name": "安易信"}
+{"text": "帮助企业在互联网时代建立有力的竞争优势。", "labels": [], "meta": {"model_predict": 1, "name": "安易信"}, "name": "安易信"}
+{"text": "留学小助手是一款针对留学生群体的移动应用，可以为各阶段的留学生提供全方位的工具和信息,并提供留学交流平台", "labels": [[13, 14, "service"], [16, 17, "domain"], [18, 19, "service"], [48, 50, "domain"], [51, 52, "service"]], "meta": {"model_predict": 1, "name": "留学小助手"}, "name": "留学小助手"}
+{"text": "让用户充分分享留学经验。", "labels": [], "meta": {"model_predict": 1, "name": "留学小助手"}, "name": "留学小助手"}
+{"text": "爱妮微（AnyV）是一个微信公众推广平台，收录了各种类型的微信公众号以及微信网页版、微信电脑客户端的使用方法", "labels": [[13, 15, "domain"], [36, 39, "service"], [40, 41, "service"], [42, 46, "service"]], "meta": {"model_predict": 1, "name": "爱妮微"}, "name": "爱妮微"}
+{"text": "致力于为用户查找微信公众号提供便利。", "labels": [], "meta": {"model_predict": 1, "name": "爱妮微"}, "name": "爱妮微"}
+{"text": "好问律师是一个手机上的法律问答及咨询服务平台，为有法律需求的用户智能化匹配律师、提供定制与咨询服务", "labels": [[11, 13, "service"], [14, 15, "service"], [16, 17, "domain"], [18, 20, "domain"], [42, 44, "service"], [45, 49, "service"]], "meta": {"model_predict": 1, "name": "好问律师"}, "name": "好问律师"}
+{"text": "主打嘀嘀打车式法律服务新模式。好问（北京）科技有限公司旗下产品。", "labels": [[5, 11, "service"]], "meta": {"model_predict": 1, "name": "好问律师"}, "name": "好问律师"}
+{"text": "小区快点是一款向小区居民提供快速消费品的在线购买和优质的线下配送服务的电子商务平台，广州亿牛信息科技有限公司旗下", "labels": [[14, 19, "service"], [21, 22, "service"], [28, 34, "service"], [35, 39, "domain"]], "meta": {"model_predict": 1, "name": "小区快点"}, "name": "小区快点"}
+{"text": "易游乐租网是互联网O2O社区房产生活服务平台，致力于通过线上平台对接线下直营化管理，增加服务的透明度和标准化", "labels": [[0, 2, "domain"], [6, 20, "domain"], [34, 35, "service"], [36, 41, "service"], [53, 54, "service"]], "meta": {"model_predict": 1, "name": "易游乐租"}, "name": "易游乐租"}

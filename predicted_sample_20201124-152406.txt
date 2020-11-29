@@ -1,0 +1,100 @@
+{"text": "杭州玉衡科技有限公司是一个APP制作公司，致力于为中小企业量身打造高品质，高性能APP支持iOS，Android", "labels": [], "meta": {"model_predict": 1, "name": "玉衡科技"}, "name": "玉衡科技"}
+{"text": "Web等多平台应用。", "labels": [], "meta": {"model_predict": 1, "name": "玉衡科技"}, "name": "玉衡科技"}
+{"text": "快先生洗车是一款洗车自动付款系统，当车辆进入洗车屋内后，系统自动识别车牌号并对相应的账号进行扣款。", "labels": [[7, 14, "service"], [22, 27, "service"], [32, 35, "service"]], "meta": {"model_predict": 1, "name": "快先生洗车"}, "name": "快先生洗车"}
+{"text": "水果营行是一家水果生鲜电商及O2O服务，通过网站及线下连锁店的方式提供水果交易服务，水果营行控股有限公司旗下产品", "labels": [[7, 9, "service"], [9, 13, "domain"], [14, 16, "service"], [16, 19, "domain"], [35, 38, "service"]], "meta": {"model_predict": 1, "name": "水果营行"}, "name": "水果营行"}
+{"text": "母公司是香港联和国际集团。", "labels": [], "meta": {"model_predict": 1, "name": "水果营行"}, "name": "水果营行"}
+{"text": "嘟嘟运货是一家园区型专线运输管理saas系统提供商", "labels": [], "meta": {"model_predict": 1, "name": "嘟嘟运货"}, "name": "嘟嘟运货"}
+{"text": "致力于为物流专线运输企业解决提货、配送信息化资源共享、有效降低成本、提升品牌经营。", "labels": [[4, 10, "service"], [15, 16, "service"], [17, 24, "service"]], "meta": {"model_predict": 1, "name": "嘟嘟运货"}, "name": "嘟嘟运货"}
+{"text": "知自行是一家从事旅游行业的互联网公司。公司致力于境外自由行服务的探索，为用户提供更好的旅游服务", "labels": [[8, 12, "domain"], [13, 16, "domain"], [43, 47, "service"]], "meta": {"model_predict": 1, "name": "知自行"}, "name": "知自行"}
+{"text": "公司目前的主要业务是境外自由行的方案设计以及线下渠道的拓展。", "labels": [[22, 26, "service"]], "meta": {"model_predict": 1, "name": "知自行"}, "name": "知自行"}
+{"text": "聚梦空间是一家企业共享办公社区，目前已经覆盖了上海市70余处核心商圈，并建立了22个服务中心", "labels": [], "meta": {"model_predict": 1, "name": "聚梦空间"}, "name": "聚梦空间"}
+{"text": "已为1000多家企业提供了优质的办公服务，隶属于聚梦空间信息科技(上海)有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "聚梦空间"}, "name": "聚梦空间"}
+{"text": "抓钱猫是国内知名的互联网理财平台，成立于2014年8月，目前已经完成B轮融资", "labels": [[9, 14, "domain"], [34, 38, "service"]], "meta": {"model_predict": 1, "name": "抓钱猫"}, "name": "抓钱猫"}
+{"text": "获得国资参股企业大连鼎晟投资管理有限公司2亿元人民币投资。抓钱猫致力于用前沿的技术及整合资源，以“安全理财”为服务核心", "labels": [[49, 50, "service"]], "meta": {"model_predict": 1, "name": "抓钱猫"}, "name": "抓钱猫"}
+{"text": "多重健全的风控管理体系，来保障广大投资者的财富，实现安全高收益增长。", "labels": [[5, 6, "service"]], "meta": {"model_predict": 1, "name": "抓钱猫"}, "name": "抓钱猫"}
+{"text": "网利宝是一个主打理财服务和“网上私人银行”服务的互联网金融创业公司，为用户提供个性化和定制化的私人理财服务", "labels": [[9, 12, "domain"], [14, 20, "domain"], [24, 29, "domain"], [41, 53, "service"]], "meta": {"model_predict": 1, "name": "网利宝"}, "name": "网利宝"}
+{"text": "北京网利科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "网利宝"}, "name": "网利宝"}
+{"text": "欧拉早教是一家集教育培训、教育研发、教育娱乐、等业务于一体的文化产业公司，专注于提高国内幼儿教育的产业运营及标准", "labels": [[5, 6, "service"], [7, 12, "service"], [13, 15, "service"], [15, 17, "domain"], [18, 22, "service"]], "meta": {"model_predict": 1, "name": "欧拉早教"}, "name": "欧拉早教"}
+{"text": "公司涉及国际化早教课程、亲子游泳、幼儿舞蹈培训、数学思维、音乐课程、美术课程等多个平台型业务。", "labels": [[8, 11, "service"], [12, 16, "service"], [17, 23, "service"], [24, 28, "service"], [29, 33, "service"], [34, 38, "service"]], "meta": {"model_predict": 1, "name": "欧拉早教"}, "name": "欧拉早教"}
+{"text": "爱贷网是一个互联网金融信息服务平台，主要面向中小企业及有消费需求的群体，为优质用户提供小微信用贷，并提供多种消费场景的消费贷。", "labels": [[6, 15, "domain"], [43, 48, "service"], [54, 57, "service"], [59, 62, "domain"]], "meta": {"model_predict": 1, "name": "爱贷网"}, "name": "爱贷网"}
+{"text": "华芯通是一家服务器芯片研发商，公司定位为设计与开发基于ARM架构的服务器芯片", "labels": [[6, 11, "domain"], [33, 34, "service"]], "meta": {"model_predict": 1, "name": "华芯通"}, "name": "华芯通"}
+{"text": "主要针对大数据计算、云存储、安全、网络和高性能计算等领域进行开发，把设计与系统平台搭建结合。", "labels": [[5, 9, "service"], [10, 13, "service"], [14, 16, "domain"], [17, 19, "domain"], [20, 23, "domain"], [23, 25, "service"]], "meta": {"model_predict": 1, "name": "华芯通"}, "name": "华芯通"}
+{"text": "鼎复数据是一家企业服务公司，提供金融大数据企业级应用服务，运用先进的计算机和大数据技术", "labels": [[19, 26, "service"], [39, 42, "domain"], [42, 43, "service"]], "meta": {"model_predict": 1, "name": "鼎复数据"}, "name": "鼎复数据"}
+{"text": "为各类金融投资机构提供高效、便捷、专业的金融分析平台，帮助客户进行快速研究与决策。", "labels": [[20, 26, "service"]], "meta": {"model_predict": 1, "name": "鼎复数据"}, "name": "鼎复数据"}
+{"text": "HOOLI是一个数据分析平台，帮助企业用户实现数据集中管理，提供实时索引统计、实时告警、准确预测潜在漏洞及洞察用户行为等服务", "labels": [[8, 14, "domain"], [41, 43, "service"], [46, 52, "service"], [53, 58, "service"]], "meta": {"model_predict": 1, "name": "互利科技"}, "name": "互利科技"}
+{"text": "北京互利科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "互利科技"}, "name": "互利科技"}
+{"text": "鑫合汇是一个在线借贷和融资服务网站，其前身叫：云融资，主打专业短期理财服务，帮助2万多家中小微企业解决短期融资需求", "labels": [[6, 10, "service"], [11, 13, "service"], [13, 15, "domain"], [23, 26, "domain"], [31, 35, "domain"], [46, 47, "service"], [51, 57, "service"]], "meta": {"model_predict": 1, "name": "鑫合汇"}, "name": "鑫合汇"}
+{"text": "隶属于杭州鑫合汇互联网金融服务有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "鑫合汇"}, "name": "鑫合汇"}
+{"text": "如风达快递成立于2008年，前身为凡客诚品旗下自建物流部门，目前主打区域型COD物流配送网络服务。", "labels": [[37, 48, "service"]], "meta": {"model_predict": 1, "name": "如风达快递"}, "name": "如风达快递"}
+{"text": "峰快递集团成立于2010年11月，是一家主要经营国际、国内快递及相关业务的服务型企业。", "labels": [], "meta": {"model_predict": 1, "name": "全峰快递"}, "name": "全峰快递"}
+{"text": "团贷网是一家P2P网络借贷服务平台，向借款人和出借人提供信息搜集、信息公布、信息交互、借贷撮合等服务", "labels": [[6, 15, "domain"], [34, 37, "service"], [38, 42, "service"], [43, 47, "service"]], "meta": {"model_predict": 1, "name": "团贷网"}, "name": "团贷网"}
+{"text": "小微企业及个人可通过平台申请贷款或融资，有闲置资金的用户可通过平台出借给借款人。", "labels": [[14, 15, "service"]], "meta": {"model_predict": 1, "name": "团贷网"}, "name": "团贷网"}
+{"text": "位面游戏致力于互联网手机游戏的开发与应用，主打产品为手游《最终契约》。", "labels": [[7, 14, "domain"]], "meta": {"model_predict": 1, "name": "位面游戏"}, "name": "位面游戏"}
+{"text": "咪蒙是一家原创自媒体，专注于为用户提供原创性的文章，隶属于北京十月初五影视传媒有限公司。", "labels": [[7, 9, "domain"]], "meta": {"model_predict": 1, "name": "咪蒙"}, "name": "咪蒙"}
+{"text": "熊猫直播（前身是熊猫TV）是一个电子竞技游戏直播服务平台，而后延伸为综合类娱乐直播平台，上海熊猫互娱文化有限公司旗下产品。", "labels": [[16, 21, "domain"], [21, 23, "service"], [23, 26, "domain"], [37, 41, "domain"]], "meta": {"model_predict": 1, "name": "熊猫直播"}, "name": "熊猫直播"}
+{"text": "创业松鼠是一个去中心化的全球创业组织，组织热爱科技的人，在一个周末的时间内，创造出有意思的东西，通过线上社区和高频线下活动", "labels": [[55, 56, "service"]], "meta": {"model_predict": 1, "name": "创业松鼠"}, "name": "创业松鼠"}
+{"text": "发现创新者、链接更多资源。", "labels": [], "meta": {"model_predict": 1, "name": "创业松鼠"}, "name": "创业松鼠"}
+{"text": "享骑电单车是一家有站无桩式共享电单车运营商。运营一年半以来，享骑始终坚持为用户提供安全可靠、绿色环保、轻松出行的产品", "labels": [[10, 18, "service"], [57, 58, "service"]], "meta": {"model_predict": 1, "name": "享骑电单车"}, "name": "享骑电单车"}
+{"text": "致力于解决城市中10公里以内的中短途出行问题。", "labels": [], "meta": {"model_predict": 1, "name": "享骑电单车"}, "name": "享骑电单车"}
+{"text": "红岭创投为红岭创投电子商务股份有限公司旗下的互联网金融服务平台。2009年3月正式上线运营", "labels": [[22, 28, "domain"]], "meta": {"model_predict": 1, "name": "红岭创投"}, "name": "红岭创投"}
+{"text": "平台上的主要产品为房易贷、个人周转等标的投资，借款用户可在平台申请借款，其还款方式支持按月、季等进行分期", "labels": [[9, 10, "service"], [23, 26, "domain"]], "meta": {"model_predict": 1, "name": "红岭创投"}, "name": "红岭创投"}
+{"text": "投资者可在平台选择任一项目进行投资。平台致力于为拥有闲散资金的个人投资者提供一个安全的投资渠道，为借款者解决资金问题。", "labels": [[43, 47, "service"]], "meta": {"model_predict": 1, "name": "红岭创投"}, "name": "红岭创投"}
+{"text": "巧达数据是一家提供互联网招聘工具及服务的科技公司，主要通过提供高品质的免费招聘管理系统，让HR业者工作高效且轻松便利", "labels": [[9, 16, "service"], [35, 43, "service"]], "meta": {"model_predict": 1, "name": "巧达数据"}, "name": "巧达数据"}
+{"text": "为企业客户缩短招聘周期并降低招聘成本。", "labels": [], "meta": {"model_predict": 1, "name": "巧达数据"}, "name": "巧达数据"}
+{"text": "雕刻时光是一家咖啡馆品牌，以电影主题的特色起家，产品除咖啡相关产品外，还推出了家庭套餐、牛排、红酒等产品", "labels": [[27, 28, "service"]], "meta": {"model_predict": 1, "name": "雕刻时光"}, "name": "雕刻时光"}
+{"text": "北京艺丰雕刻时光咖啡文化有限责任公司旗下。", "labels": [], "meta": {"model_predict": 1, "name": "雕刻时光"}, "name": "雕刻时光"}
+{"text": "爱招聘是一个AI招聘助手插件，利用了算法分析和人工职能系统，力图在每个传统的招聘流程的节点上提升招聘效率", "labels": [[7, 12, "domain"], [12, 14, "service"], [24, 29, "service"]], "meta": {"model_predict": 1, "name": "爱招聘"}, "name": "爱招聘"}
+{"text": "通过聚合搜索、简历订阅等功能，爱招聘将为你提供定制化的智能服务，让你花最少的时间找到最想要的人才", "labels": [[7, 8, "service"], [27, 31, "service"]], "meta": {"model_predict": 1, "name": "爱招聘"}, "name": "爱招聘"}
+{"text": "武汉智寻天下科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "爱招聘"}, "name": "爱招聘"}
+{"text": "莎翁少儿家庭英语是一家外教英语培训服务提供商，主要为3-12岁的孩子提供外教服务，采用5-6人的小班教学模式", "labels": [[11, 13, "service"], [13, 14, "domain"], [14, 17, "service"], [17, 19, "domain"], [33, 40, "service"], [48, 54, "service"]], "meta": {"model_predict": 1, "name": "莎翁少儿家庭英语"}, "name": "莎翁少儿家庭英语"}
+{"text": "短简历是一家主打轻快短小简历、提供互联网招聘服务的公司，隶属于北京轻快科技有限公司。", "labels": [[17, 24, "service"]], "meta": {"model_predict": 1, "name": "短简历"}, "name": "短简历"}
+{"text": "种豆宝于2018年4月上线运营，由杭州卷豆网络有限公司提供服务，实际控制人为蘑菇街联合创始人、CEO陈琪", "labels": [], "meta": {"model_predict": 1, "name": "种豆宝"}, "name": "种豆宝"}
+{"text": "总经理为蘑菇街联合创始人、COO魏一博。", "labels": [], "meta": {"model_predict": 1, "name": "种豆宝"}, "name": "种豆宝"}
+{"text": "甜心摇滚沙拉是一个主打主食沙拉的O2O电商品牌，致力于为女性用户等提供办公室白领工作餐，北京甜心良品餐饮管理有限公司旗下网站。", "labels": [[16, 22, "domain"]], "meta": {"model_predict": 1, "name": "甜心摇滚沙拉"}, "name": "甜心摇滚沙拉"}
+{"text": "短裤视频（coo!短裤）是一个生产和分享“又短又酷”视频的多媒体品牌，上海达达文化传播有限公司旗下产品", "labels": [[0, 4, "service"], [5, 6, "service"]], "meta": {"model_predict": 1, "name": "短裤视频"}, "name": "短裤视频"}
+{"text": "团队成员来自《One一个》、《南方周末》等。", "labels": [], "meta": {"model_predict": 1, "name": "短裤视频"}, "name": "短裤视频"}
+{"text": "萌芽熊童子是一家多肉植物糖果罐供应商，专注于原创植宠形象萌芽熊童子。", "labels": [[9, 15, "service"]], "meta": {"model_predict": 1, "name": "上海植宠"}, "name": "上海植宠"}
+{"text": "成长保是在线K12素质教育知名品牌，专注于4-12岁儿童的思维力训练。通过在线互动直播课堂，提供高质量的课程和服务", "labels": [[39, 44, "service"], [52, 54, "service"], [55, 57, "service"]], "meta": {"model_predict": 1, "name": "成长保"}, "name": "成长保"}
+{"text": "让孩子在有趣的交互体验中，提升语言逻辑、数理逻辑、记忆力、专注力等，培养孩子成为一个独立思考的人。", "labels": [], "meta": {"model_predict": 1, "name": "成长保"}, "name": "成长保"}
+{"text": "爱屋吉屋是一家房产O2O综合服务提供商，业务覆盖租房、买房、二手房等。由满懿（上海）房地产咨询有限公司开发。", "labels": [[7, 10, "domain"], [10, 11, "service"], [11, 16, "domain"], [25, 26, "service"], [27, 29, "service"], [30, 33, "service"], [42, 43, "service"]], "meta": {"model_predict": 1, "name": "爱屋吉屋"}, "name": "爱屋吉屋"}
+{"text": "腾爱医生是互联网医疗服务解决方案提供商，是给医生、医生团队和医疗机构用的产品，需要授权绑定微信公众号一起使用", "labels": [[5, 16, "service"], [25, 27, "domain"], [30, 33, "domain"]], "meta": {"model_predict": 1, "name": "腾爱医生"}, "name": "腾爱医生"}
+{"text": "患者无需下载App，直接在相应的微信公众号看科普文章、留言咨询。医生和团队使用腾爱医生App来管理微信公众号和患者", "labels": [], "meta": {"model_predict": 1, "name": "腾爱医生"}, "name": "腾爱医生"}
+{"text": "通过微信公众号和腾爱医生App来为患者提供医疗服务。腾爱医生分为基础版本和高级版本", "labels": [[21, 25, "service"]], "meta": {"model_predict": 1, "name": "腾爱医生"}, "name": "腾爱医生"}
+{"text": "基础版本比较适合医生个人和医疗机构用来管理微信公众号和患者，高级版本可以用来搭建线上医疗付费服务。", "labels": [[13, 16, "service"], [39, 48, "service"]], "meta": {"model_predict": 1, "name": "腾爱医生"}, "name": "腾爱医生"}
+{"text": "创投圈是一家互联网创业投资服务平台", "labels": [[6, 15, "domain"]], "meta": {"model_predict": 1, "name": "创投圈"}, "name": "创投圈"}
+{"text": "目前已经建立起「创投圈vc.cn」互联网股权融资平台、旗下自有「拓璞基金」、大数据「创业谱」三位一体的战略布局", "labels": [], "meta": {"model_predict": 1, "name": "创投圈"}, "name": "创投圈"}
+{"text": "北京海蓝创景投资咨询有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "创投圈"}, "name": "创投圈"}
+{"text": "把把脉是一个中医健康服务平台，帮助打造中医生个人品牌，同时利用中医大数据辅助医生为大众提供个性化的健康管理和养生服务。", "labels": [[7, 12, "domain"], [49, 53, "service"], [54, 58, "service"]], "meta": {"model_predict": 1, "name": "把把脉"}, "name": "把把脉"}
+{"text": "有融网是一个第三方债权交易金融信息服务平台，通过平台和法律机构对项目的甄选", "labels": [[6, 19, "domain"]], "meta": {"model_predict": 1, "name": "有融网"}, "name": "有融网"}
+{"text": "目的是为投资人提供高收益、低风险、安全可靠的债权项目。平台由在金融", "labels": [], "meta": {"model_predict": 1, "name": "有融网"}, "name": "有融网"}
+{"text": "法律行业从业多年的资深人士和互联网金融行业专业团队共同研发创立。", "labels": [[14, 19, "domain"]], "meta": {"model_predict": 1, "name": "有融网"}, "name": "有融网"}
+{"text": "步步高网上商城以及云猴是步步高旗下的产品。步步高是湖南本土的零售商", "labels": [[0, 4, "service"]], "meta": {"model_predict": 1, "name": "云猴"}, "name": "云猴"}
+{"text": "步步高电子商务有限责任公司是已上市公司步步高商业连锁股份有限公司的全资子公司，", "labels": [], "meta": {"model_predict": 1, "name": "云猴"}, "name": "云猴"}
+{"text": "米茶屋，定位于准新人的社会化分享导购社区，打造一站式的婚礼服务平台。", "labels": [[11, 19, "domain"], [27, 31, "domain"]], "meta": {"model_predict": 1, "name": "米茶屋"}, "name": "米茶屋"}
+{"text": "帮帮企业合作平台隶属于二零二五（北京）文化传播有限公司，是一个为创新企业提供商业合作解决方案的服务平台，以咨询解决方案为入口", "labels": [[38, 46, "service"], [47, 51, "service"], [53, 59, "service"]], "meta": {"model_predict": 1, "name": "帮帮企业合作平台"}, "name": "帮帮企业合作平台"}
+{"text": "运用互惠共生的合作手段，把创新创业企业连接和协同起来，聚焦于品牌、渠道、市场领域的合作。", "labels": [], "meta": {"model_predict": 1, "name": "帮帮企业合作平台"}, "name": "帮帮企业合作平台"}
+{"text": "宜贷网是一家互联网金融平台，主要经营P2P网络借贷金融信息中介服务，隶属于上海易贷网金融信息服务有限公司。", "labels": [[6, 11, "domain"], [20, 33, "service"], [38, 39, "service"], [40, 41, "service"], [41, 45, "domain"]], "meta": {"model_predict": 1, "name": "宜贷网"}, "name": "宜贷网"}
+{"text": "深圳三锤投资管理有限公司为中国资本市场顶尖的新型投资银行，专注于为国内新三板挂牌和拟挂牌企业提供一流“董秘+”服务", "labels": [], "meta": {"model_predict": 1, "name": "三锤资本"}, "name": "三锤资本"}
+{"text": "以大数据为基础，为三板企业提供国内顶级高性价比的董秘增值、并购服务、战略咨询。", "labels": [], "meta": {"model_predict": 1, "name": "三锤资本"}, "name": "三锤资本"}
+{"text": "诚壹科技前身为金立手机海外事业部，主要从事手机产品及配件的生产、软硬件系统研发、手机产品国际贸易等业务", "labels": [[7, 13, "domain"], [21, 28, "service"], [32, 37, "service"], [40, 44, "service"]], "meta": {"model_predict": 1, "name": "诚壹科技"}, "name": "诚壹科技"}
+{"text": "产品与服务遍及欧洲、亚北美、拉美、非洲、南亚等30多个国家和地区。", "labels": [[0, 2, "service"]], "meta": {"model_predict": 1, "name": "诚壹科技"}, "name": "诚壹科技"}
+{"text": "快递驿站是一家以O2O模式运营的第三方代收发快件服务平台，致力于为用户与社区居民打造安全、便捷、自由的代收快件服务", "labels": [[8, 13, "service"], [16, 26, "domain"], [51, 52, "service"], [54, 55, "service"], [55, 56, "domain"], [56, 57, "service"]], "meta": {"model_predict": 1, "name": "快递驿站"}, "name": "快递驿站"}
+{"text": "驿步天下（北京）科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "快递驿站"}, "name": "快递驿站"}
+{"text": "玖富微理财是一个互联网理财服务网站，通过行业宝等产品为用户提供和定制理财计划等，隶属于北京玖富时代投资顾问有限公司。", "labels": [[8, 16, "domain"], [32, 38, "service"]], "meta": {"model_predict": 1, "name": "玖富微理财"}, "name": "玖富微理财"}
+{"text": "往来是一个手机上的社交礼物推荐及导购应用，用户可以发布各种愿望、有可能获取礼物等。往来（北京）科技有限公司旗下产品。", "labels": [[9, 15, "service"]], "meta": {"model_predict": 1, "name": "往来科技"}, "name": "往来科技"}
+{"text": "父母帮是一款老人健康管理软件，除了能提供各项常见的健康数据记录，还能协助老人进行手机各种常用功能的设置，让老人生活更轻松。", "labels": [[25, 27, "domain"], [27, 30, "service"], [40, 48, "service"]], "meta": {"model_predict": 1, "name": "父母帮"}, "name": "父母帮"}
+{"text": "优客旅游是一家开放式旅游同业B2B平台，致力于推动国内旅行社行业信息化建设。太原市旅迹文化传媒有限公司旗下产品。", "labels": [[10, 17, "domain"], [27, 30, "domain"]], "meta": {"model_predict": 1, "name": "优客旅游"}, "name": "优客旅游"}
+{"text": "恩雪天使是一个殡葬领域的电子商务平台及人文社交媒体，深圳恩雪天使网络服务有限公司旗下网站。", "labels": [[12, 18, "domain"], [21, 24, "domain"]], "meta": {"model_predict": 1, "name": "恩雪天使"}, "name": "恩雪天使"}
+{"text": "爱互融是一个消费金融平台，初期的切入点是大学生的消费分期。成都汇众信息技术有限公司旗下产品。", "labels": [[6, 12, "domain"]], "meta": {"model_predict": 1, "name": "爱互融"}, "name": "爱互融"}
+{"text": "聚土地是一个主打特色农产品的电子商务网站，致力于将土地流转与农产品电商结合起来，浙江侬联电子商务有限公司旗下产品。", "labels": [[8, 13, "service"], [14, 15, "service"]], "meta": {"model_predict": 1, "name": "聚土地"}, "name": "聚土地"}
+{"text": "电商说是一家专注电商行业的垂直媒体平台，主要提供电商领域有价值的行业信息，打造电商爱好者、从业者信息交流与合作的开放平台。", "labels": [[8, 12, "domain"], [13, 17, "domain"]], "meta": {"model_predict": 1, "name": "电商说"}, "name": "电商说"}
+{"text": "青年菜君是一家主打O2O模式的网上卖菜服务平台，用户可以在线订菜、到门店取菜，才俊青年（北京）科技有限公司旗下网站。", "labels": [[15, 21, "domain"]], "meta": {"model_predict": 1, "name": "青年菜君"}, "name": "青年菜君"}
+{"text": "厅客是一个帮助服务业人士和用户对接的P2P服务交易平台", "labels": [[18, 25, "service"]], "meta": {"model_predict": 1, "name": "厅客"}, "name": "厅客"}
+{"text": "主要涵盖的生活服务类别包括：星座咨询、职业建议、爱情顾问、旅游推荐、插图设计、艺术课程、服装搭配、摄影摄像等", "labels": [[5, 6, "service"], [15, 18, "service"], [20, 23, "service"], [24, 28, "service"], [29, 33, "service"], [34, 38, "service"], [39, 43, "service"], [44, 48, "service"], [49, 53, "service"]], "meta": {"model_predict": 1, "name": "厅客"}, "name": "厅客"}
+{"text": "以及汇聚个人服务生产力，核心技术团队主要出自BAT，有扎实的技术基础。", "labels": [], "meta": {"model_predict": 1, "name": "厅客"}, "name": "厅客"}
+{"text": "漫画帮是一个手机上的阅读工具，支持离线看漫画、多爪机同步等，上海元酷网络科技有限公司旗下产品。", "labels": [[0, 2, "service"], [10, 11, "service"], [17, 22, "service"]], "meta": {"model_predict": 1, "name": "漫画帮"}, "name": "漫画帮"}
+{"text": "口语角儿是一个专为广大口语爱好者准备的一款社交互动式“口语练习神器”。北京聪明糖科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "口语角儿"}, "name": "口语角儿"}
+{"text": "带客通是一个基于微信的、可以激活社交关系的全民营销工具，目前主打房地产营销服务，西安曲江智讯互动营销策划有限公司旗下。", "labels": [[14, 18, "domain"], [32, 33, "service"]], "meta": {"model_predict": 1, "name": "带客通"}, "name": "带客通"}
+{"text": "美味盒子是一个提供企业IT解决方案的平台，为有需要进行网站开发的客户找到合适的自由职业的开发者。", "labels": [[9, 17, "service"]], "meta": {"model_predict": 1, "name": "美味盒子"}, "name": "美味盒子"}
+{"text": "安坦是一个儿童安全座椅网络销售平台，致力于传播儿童安全保护知识，提供儿童安全保护知识咨询，做童安全专家，让妈妈安心，宝宝舒坦。", "labels": [[10, 15, "domain"], [34, 35, "service"], [36, 42, "service"], [42, 43, "domain"]], "meta": {"model_predict": 1, "name": "安坦"}, "name": "安坦"}
+{"text": "春秋网络是一家专注于棋牌游戏开发和棋牌游戏运营的高科技互联网公司，致力于结合电玩游戏和竞技棋牌游戏", "labels": [[10, 16, "domain"], [17, 23, "domain"], [24, 29, "domain"], [40, 42, "domain"], [43, 46, "domain"], [46, 49, "service"]], "meta": {"model_predict": 1, "name": "春秋网络"}, "name": "春秋网络"}

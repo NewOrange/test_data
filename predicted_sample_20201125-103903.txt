@@ -1,0 +1,100 @@
+{"text": "金米旅游是一个主打出境游的个性化海外旅行社产品和线路服务，提供“一站式”的旅游服务购买平台。", "labels": [[16, 23, "service"], [24, 28, "service"], [37, 42, "domain"]], "meta": {"model_predict": 1, "name": "金米旅游"}, "name": "金米旅游"}
+{"text": "好乐智出国留学网为想出国留学的人群提供一对一在线咨询服务，支持手机、固定电话、电脑三种方式，咨询收费按时计算。", "labels": [[21, 22, "service"], [23, 28, "service"], [29, 30, "service"], [31, 33, "service"], [34, 38, "service"], [39, 45, "service"], [46, 54, "service"]], "meta": {"model_predict": 1, "name": "好乐智出国留学网"}, "name": "好乐智出国留学网"}
+{"text": "快子创意是一家新型高效率社会化媒体营销传播创意供应商，为各类客户在24小时之内提供创意解决方案。", "labels": [[10, 12, "service"], [12, 13, "domain"], [13, 17, "service"], [17, 19, "domain"], [41, 47, "service"]], "meta": {"model_predict": 1, "name": "快子创意"}, "name": "快子创意"}
+{"text": "五星汇是一家专注于提供高端“机票+酒店”自由行产品的在线旅游服务商。优讯网(北京)信息服务有限公司旗下网站。", "labels": [[15, 16, "service"], [27, 28, "service"], [28, 32, "domain"]], "meta": {"model_predict": 1, "name": "五星汇"}, "name": "五星汇"}
+{"text": "悠悠校园是一个将社交元素带入课堂教学及校园生活的全新校园学习平台，为真实校园里的老师和学生提供简单实用的在线服务。", "labels": [[10, 12, "service"], [19, 23, "service"], [48, 51, "service"], [52, 56, "service"]], "meta": {"model_predict": 1, "name": "悠悠校园"}, "name": "悠悠校园"}
+{"text": "上海趣保网络科技是一家专注于保险的信息咨询公司，提供第三方保险产品搜索比价和导购服务，旗下有APP护驾、趣保保险等。", "labels": [[18, 20, "domain"], [26, 27, "service"], [28, 37, "service"], [39, 42, "service"], [46, 47, "service"], [47, 51, "service"], [52, 56, "service"]], "meta": {"model_predict": 1, "name": "趣保科技"}, "name": "趣保科技"}
+{"text": "好学网是一个新的企业社会化学习平台，在云端帮助企业更好地进行培训管理、团队学习和员工非正式学习交流。", "labels": [[47, 49, "service"]], "meta": {"model_predict": 1, "name": "好学网"}, "name": "好学网"}
+{"text": "同去是一个让用户发布活动信息、参与朋友活动或聚会的移动社交应用。", "labels": [[10, 14, "service"], [18, 20, "service"], [23, 25, "service"], [25, 26, "domain"], [26, 31, "service"]], "meta": {"model_predict": 1, "name": "同去"}, "name": "同去"}
+{"text": "黑方糖是一家买家评价信息整合平台。通过整合买家评价", "labels": [[9, 12, "domain"]], "meta": {"model_predict": 1, "name": "黑方糖"}, "name": "黑方糖"}
+{"text": "提供“个性化筛选”、“排行榜”、“比价”、“限时特价导航”等功能帮助用户更简单的选择商品。", "labels": [[5, 8, "service"], [24, 28, "service"]], "meta": {"model_predict": 1, "name": "黑方糖"}, "name": "黑方糖"}
+{"text": "爱品图隶属于北京远博畅享科技有限公司，是个提供创意作品分享和交易，包括插画、版画、油画的艺术图片分享应用。", "labels": [[24, 29, "service"], [30, 32, "service"], [35, 37, "service"], [38, 40, "service"], [41, 44, "service"], [44, 52, "service"]], "meta": {"model_predict": 1, "name": "爱品图"}, "name": "爱品图"}
+{"text": "维度品牌是一家品牌创建与管理服务商，模式为品牌创建、持有及交易；亦致力于品牌管理服务，帮助企业完善品牌识别、建立及更新品牌形象", "labels": [[8, 9, "domain"], [9, 11, "domain"], [12, 16, "domain"], [39, 41, "domain"]], "meta": {"model_predict": 1, "name": "维度品牌"}, "name": "维度品牌"}
+{"text": "并以传播手段与消费者沟通。", "labels": [], "meta": {"model_predict": 1, "name": "维度品牌"}, "name": "维度品牌"}
+{"text": "租租看是一个租房社交平台，帮助扎寻合适的租房室友。", "labels": [[6, 11, "domain"], [20, 24, "service"]], "meta": {"model_predict": 1, "name": "租租看"}, "name": "租租看"}
+{"text": "联合理财是一家金融行业的B2B2C门户网站，聚集有全国上万家连锁理财门店相关信息。", "labels": [[7, 9, "domain"]], "meta": {"model_predict": 1, "name": "联合理财"}, "name": "联合理财"}
+{"text": "浙江安晟教育咨询有限公司是一家提供留学生职场培训及实习就业的教育机构，主要提供“留学管家”和“留学宝”服务。", "labels": [[19, 23, "service"], [42, 44, "service"]], "meta": {"model_predict": 1, "name": "安晟国际"}, "name": "安晟国际"}
+{"text": "深圳市圈聚科技有限公司旗下。", "labels": [], "meta": {"model_predict": 1, "name": "爱秀吧"}, "name": "爱秀吧"}
+{"text": "创腾科技是一家从事电子商务技术研发与推广的互联网公司。公司致力于通过互联网把产品以零售或小批量的形式销售", "labels": [[9, 13, "service"], [13, 15, "domain"]], "meta": {"model_predict": 1, "name": "创腾"}, "name": "创腾"}
+{"text": "目前公司的主要业务是线上平台的建设以及线下渠道的整合拓展。", "labels": [[10, 14, "service"], [16, 17, "service"], [19, 23, "service"]], "meta": {"model_predict": 1, "name": "创腾"}, "name": "创腾"}
+{"text": "麦圈是一个专业的商业圈子移动管理平台，深圳市圈聚科技有限公司旗下。", "labels": [[8, 16, "domain"]], "meta": {"model_predict": 1, "name": "麦圈"}, "name": "麦圈"}
+{"text": "营养膳食指南，是一个食物营养定量分析推荐应用。", "labels": [[10, 18, "service"]], "meta": {"model_predict": 1, "name": "营养膳食指南"}, "name": "营养膳食指南"}
+{"text": "推推共享是一款手机、电脑、平板等多设备文件推送共享软件。北京风奇讯网络技术有限公司旗下。", "labels": [[5, 9, "service"], [10, 12, "service"], [13, 15, "service"]], "meta": {"model_predict": 1, "name": "推推共享"}, "name": "推推共享"}
+{"text": "旗下时空情缘为单身人士提供娱乐互动、婚恋交友服务。", "labels": [[13, 14, "service"], [18, 24, "service"]], "meta": {"model_predict": 1, "name": "时空情缘"}, "name": "时空情缘"}
+{"text": "游戏部落（机普洛游戏网），专业的手机游戏媒体门户网站，隶属于中媒文化传媒有限公司，内容涵盖苹果、安卓等手机游戏热门垂直领域。", "labels": [[0, 2, "domain"], [16, 21, "domain"], [21, 23, "service"], [51, 59, "domain"]], "meta": {"model_predict": 1, "name": "游戏部落"}, "name": "游戏部落"}
+{"text": "上海泉游软件有限公司是一家手机游戏开发商，产品有《幻境魔灵》等。", "labels": [[13, 19, "domain"]], "meta": {"model_predict": 1, "name": "上海泉游"}, "name": "上海泉游"}
+{"text": "乐换是一个基于移动端的熟人圈二手物品交易平台。", "labels": [[14, 20, "domain"]], "meta": {"model_predict": 1, "name": "乐换"}, "name": "乐换"}
+{"text": "榜单客是一个主打生活购物榜单服务的网站，提供购物建议和导购营销推广等。", "labels": [[8, 15, "domain"], [22, 27, "service"], [27, 32, "service"]], "meta": {"model_predict": 1, "name": "榜单客"}, "name": "榜单客"}
+{"text": "酒店冰室提供手机客户端预订酒店服务，隶属于深圳市冰释科技有限公司。", "labels": [[0, 2, "service"], [6, 17, "service"]], "meta": {"model_predict": 1, "name": "酒店冰室"}, "name": "酒店冰室"}
+{"text": "物本购商城隶属于杭州物本投资管理有限公司，是一个垂直类O2O商业模式的食品电子商务网站。", "labels": [[0, 1, "domain"], [1, 3, "domain"], [24, 32, "domain"], [35, 39, "domain"]], "meta": {"model_predict": 1, "name": "物本购商城"}, "name": "物本购商城"}
+{"text": "病患如我是一个病患交流社区，是一个病友互动社区及分享网站，厦门鹅卵石网络科技有限公司旗下网站。", "labels": [[9, 12, "domain"], [19, 22, "domain"]], "meta": {"model_predict": 1, "name": "病患如我"}, "name": "病患如我"}
+{"text": "深圳市安天地科技有限公司是一家安防产品的提供商", "labels": [[16, 18, "service"], [18, 19, "domain"]], "meta": {"model_predict": 1, "name": "安天地科技"}, "name": "安天地科技"}
+{"text": "致力于安防监控及防盗或防灾报警系统工程、楼宇的可视对讲系统工程及智能化工程、考勤门禁系统工程、弱电消防系统工程、智能停车场管理系", "labels": [[9, 10, "service"], [24, 31, "service"], [32, 37, "service"], [38, 46, "service"], [47, 55, "service"], [56, 64, "service"]], "meta": {"model_predict": 1, "name": "安天地科技"}, "name": "安天地科技"}
+{"text": "工程的设计等服务。", "labels": [[0, 1, "service"]], "meta": {"model_predict": 1, "name": "安天地科技"}, "name": "安天地科技"}
+{"text": "创梦者是一家专注的技术学术讨论,前沿的科技资讯新闻,以及智能硬件结构拆解,电子产品评测等内容的科技媒体", "labels": [[9, 14, "service"], [19, 20, "service"], [28, 36, "service"], [37, 43, "service"], [49, 51, "domain"]], "meta": {"model_predict": 1, "name": "创梦者"}, "name": "创梦者"}
+{"text": "致力于将技术社区全面化综合化，将互联网技术公开化，打破技术交流瓶颈。为码农or极客提供属于自己的自留地", "labels": [[50, 51, "domain"]], "meta": {"model_predict": 1, "name": "创梦者"}, "name": "创梦者"}
+{"text": "在技术与生活中寻找属于程序员的价值。", "labels": [[9, 10, "service"]], "meta": {"model_predict": 1, "name": "创梦者"}, "name": "创梦者"}
+{"text": "拍普是一个车联网服务系统，支持车辆健康评估、驾驶行为智能分析等。隶属于上海佳付乐信息技术有限公司。", "labels": [[5, 10, "domain"], [26, 30, "service"]], "meta": {"model_predict": 1, "name": "拍普"}, "name": "拍普"}
+{"text": "土椒网隶属于深圳市土椒科技有限公司，是个提供儿童生活用品分享推荐的儿童社会化购物分享社区。", "labels": [[0, 1, "service"], [25, 28, "service"], [36, 37, "service"], [37, 44, "domain"]], "meta": {"model_predict": 1, "name": "土椒网"}, "name": "土椒网"}
+{"text": "咚咚健身是一个提供专业无器械健身方案和工具的在线健身平台，隶属于上海动叶信息科技有限公司。", "labels": [[10, 11, "service"], [11, 18, "service"], [22, 26, "service"]], "meta": {"model_predict": 1, "name": "咚咚健身"}, "name": "咚咚健身"}
+{"text": "致力于为驾驶学员群体提供学车咨询、报名、产品和高效率的信息服务。", "labels": [[12, 16, "service"], [21, 22, "service"], [27, 31, "service"]], "meta": {"model_predict": 1, "name": "驾校超市"}, "name": "驾校超市"}
+{"text": "比赛日是一个新的体育社交移动应用，北京智创赛点科技有限公司旗下。", "labels": [[8, 14, "domain"]], "meta": {"model_predict": 1, "name": "比赛日"}, "name": "比赛日"}
+{"text": "皮埃尔是一个社交化锻炼应用。", "labels": [[6, 12, "domain"]], "meta": {"model_predict": 1, "name": "皮埃尔"}, "name": "皮埃尔"}
+{"text": "隶属于深圳市快易信息技术有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "城市味道"}, "name": "城市味道"}
+{"text": "型男网，是一个以高端男士时尚生活分享为主的图片类分享网站。", "labels": [[8, 18, "service"], [21, 22, "service"], [24, 28, "service"]], "meta": {"model_predict": 1, "name": "型男网"}, "name": "型男网"}
+{"text": "正源食派果蔬帮是一个水果蔬菜配送服务商，为北京地区餐馆提供采购托管服务，覆盖时令果蔬、商务礼品等。", "labels": [[10, 17, "domain"], [32, 35, "service"], [38, 42, "service"], [43, 47, "service"]], "meta": {"model_predict": 1, "name": "正源食派果蔬帮"}, "name": "正源食派果蔬帮"}
+{"text": "御诚资产是一个线上投资平台，致力于提供投资咨询、对房地产、农业项目、工业项目、能源产业、矿产业的投资管理等服务", "labels": [[19, 23, "service"], [24, 28, "service"], [29, 33, "service"], [34, 38, "service"], [39, 43, "service"], [44, 48, "service"], [48, 52, "service"]], "meta": {"model_predict": 1, "name": "御诚资产"}, "name": "御诚资产"}
+{"text": "隶属于武汉御诚资产管理有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "御诚资产"}, "name": "御诚资产"}
+{"text": "达人工是一个知识、经验、专业技能交易平台和个性化服务市场。隶属于北京达仁工信息技术有限公司。", "labels": [[15, 18, "domain"]], "meta": {"model_predict": 1, "name": "达人工"}, "name": "达人工"}
+{"text": "名校直播是一个主打校园活动的直播视频网站，为大学校园各类活动、讲座提供直播解决方案与视频直播及存储服务", "labels": [[9, 13, "service"], [14, 18, "service"], [34, 35, "service"], [35, 42, "service"], [42, 46, "service"], [47, 51, "service"]], "meta": {"model_predict": 1, "name": "名校直播"}, "name": "名校直播"}
+{"text": "隶属于南京五十岚数字科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "名校直播"}, "name": "名校直播"}
+{"text": "亿言堂是一家专注于酒店点评的垂直搜索数据分析服务商，帮助用户找寻靠谱的酒店。隶属于嘉兴亿言堂信息科技有限公司。", "labels": [[14, 16, "domain"], [16, 18, "service"], [18, 24, "service"], [33, 34, "service"], [36, 37, "service"]], "meta": {"model_predict": 1, "name": "亿言堂"}, "name": "亿言堂"}
+{"text": "墨筹是一个开放式内容孵化及众筹集平台，致力于帮助优秀的创作者完成作品筹资及推广，并协助其寻找第一批粉丝", "labels": [[6, 8, "service"], [8, 11, "domain"], [46, 47, "service"], [48, 51, "service"]], "meta": {"model_predict": 1, "name": "墨筹"}, "name": "墨筹"}
+{"text": "北京易彩优联通讯科技有限公司旗下。", "labels": [], "meta": {"model_predict": 1, "name": "墨筹"}, "name": "墨筹"}
+{"text": "麦田圈是一个个人职业能力展示及社交互动平台，帮助创业者找到合适的人及团队。", "labels": [[7, 12, "domain"], [15, 19, "domain"]], "meta": {"model_predict": 1, "name": "麦田圈"}, "name": "麦田圈"}
+{"text": "秀秀是一个展示个人魅力的游戏化社交娱乐平台，惠州市三联科技有限公司开发。", "labels": [[12, 20, "domain"]], "meta": {"model_predict": 1, "name": "秀秀"}, "name": "秀秀"}
+{"text": "微听，一个新的有声读物移动应用，整合了有声小说、名家点评、培训讲座等内容。", "labels": [[8, 14, "service"], [25, 26, "service"], [26, 27, "service"], [27, 28, "service"], [29, 33, "service"]], "meta": {"model_predict": 1, "name": "微听"}, "name": "微听"}
+{"text": "涌泉，是一个以健康为主题的问答社区。", "labels": [[13, 17, "service"]], "meta": {"model_predict": 1, "name": "涌泉"}, "name": "涌泉"}
+{"text": "爱听爱说是一个以语音为主的娱乐互动社区，专注于语音微博和个人电台，为声音爱好者提供个人广播、语音类娱乐产品", "labels": [[8, 9, "service"], [13, 14, "service"], [14, 18, "domain"], [42, 45, "service"], [46, 53, "service"]], "meta": {"model_predict": 1, "name": "爱听爱说"}, "name": "爱听爱说"}
+{"text": ".厦门兴启正网络科技有限公司旗下。", "labels": [], "meta": {"model_predict": 1, "name": "爱听爱说"}, "name": "爱听爱说"}
+{"text": "大学城疯向标，是一款关注专注广州大学城活动娱乐资讯的手机应用。", "labels": [[17, 21, "service"], [21, 24, "domain"], [26, 28, "domain"]], "meta": {"model_predict": 1, "name": "大学城疯向标"}, "name": "大学城疯向标"}
+{"text": "爱角落是一个主打婚礼服务的网站，提供婚礼专属网站、App等服务。", "labels": [[18, 24, "service"], [25, 28, "service"]], "meta": {"model_predict": 1, "name": "爱角落"}, "name": "爱角落"}
+{"text": "淘乐乐软件是一个面向淘宝卖家的电子商务软件服务商，产品有淘乐乐关怀宝、推荐宝、营销王、外链王、安全宝等。", "labels": [[15, 23, "domain"]], "meta": {"model_predict": 1, "name": "淘乐乐软件"}, "name": "淘乐乐软件"}
+{"text": "中国宠物身份信息网是一个宠物身份证及找寻信息服务网站，为宠物制作个性化的二维码“宠物牌”。", "labels": [[13, 14, "service"], [19, 25, "service"]], "meta": {"model_predict": 1, "name": "中国宠物信息网"}, "name": "中国宠物信息网"}
+{"text": "多易网是乐生互动旗下的一个网页游戏平台，致力于网页游戏的开发、策划、运营、维护。", "labels": [[13, 18, "domain"], [23, 27, "domain"]], "meta": {"model_predict": 1, "name": "多易网"}, "name": "多易网"}
+{"text": "礼享圈是一家主打礼品定制服务的在线商城，为企业提供礼品解决方案，隶属于上海麦凯图实业有限公司。", "labels": [[8, 14, "service"], [25, 31, "service"]], "meta": {"model_predict": 1, "name": "礼享圈"}, "name": "礼享圈"}
+{"text": "乐录是一款记录生活点点滴滴的手机视频录制APP。上海海祈信息科技有限公司旗下产品。", "labels": [[11, 13, "service"], [14, 20, "service"]], "meta": {"model_predict": 1, "name": "乐录"}, "name": "乐录"}
+{"text": "暴走购物是一个电子商务优惠导购网站。", "labels": [], "meta": {"model_predict": 1, "name": "暴走购物"}, "name": "暴走购物"}
+{"text": "蚁众科技是一个移动应用方案提供商，致力于移动互联网新媒体", "labels": [[7, 12, "service"], [22, 28, "domain"]], "meta": {"model_predict": 1, "name": "蚁众"}, "name": "蚁众"}
+{"text": "通过APP、手机H5网站、运营推广和电子商务等手段提供移动互联网项目解决方案，隶属于上海蚁众信息科技有限公司。", "labels": [[6, 9, "service"], [27, 38, "service"]], "meta": {"model_predict": 1, "name": "蚁众"}, "name": "蚁众"}
+{"text": "中国好导游是一个导游服务、一站式旅游服务业电子商务网站，由上海众瀚游信息科技有限公司开发运营。", "labels": [[9, 12, "domain"], [14, 25, "domain"]], "meta": {"model_predict": 1, "name": "中国好导游"}, "name": "中国好导游"}
+{"text": "北京掌游移动科技有限公司成立于2013年，是一家手机游戏公司，旗下运营《一战到底》等手机游戏。", "labels": [[24, 28, "domain"], [42, 46, "domain"]], "meta": {"model_predict": 1, "name": "一战到底"}, "name": "一战到底"}
+{"text": "你选我猜，一个社会化推荐平台，帮用户挑选最合适的礼品。", "labels": [[7, 12, "domain"], [24, 26, "service"]], "meta": {"model_predict": 1, "name": "你选我猜"}, "name": "你选我猜"}
+{"text": "玩事儿/Playings，是基于位置服务的手机游戏对战互动应用。", "labels": [[21, 25, "domain"], [27, 30, "domain"]], "meta": {"model_predict": 1, "name": "玩事儿"}, "name": "玩事儿"}
+{"text": "网店在线隶属于东莞旺城同科网络科技有限公司，是一个淘宝店铺转让、拍拍店铺转让等网店转让信息收集与发布的网店交易平台。", "labels": [[26, 29, "service"], [32, 33, "service"], [39, 40, "service"], [51, 55, "service"]], "meta": {"model_predict": 1, "name": "网店在线"}, "name": "网店在线"}
+{"text": "苏州艾美可网络科技有限公司是一家集网络服务应用，软件开发，网络形象设计，网络营销", "labels": [[17, 22, "domain"], [24, 25, "service"], [29, 35, "service"], [36, 40, "service"]], "meta": {"model_predict": 1, "name": "珂居网"}, "name": "珂居网"}
+{"text": "网站运营及空间域名服务为一体的专业化网络服务公司，珂居网是公司旗下一站式装修服务平台。", "labels": [[18, 19, "service"], [19, 22, "domain"]], "meta": {"model_predict": 1, "name": "珂居网"}, "name": "珂居网"}
+{"text": "团队通是一个移动办公平台，支持跨平台办公、内部协同、商务服务等，隶属于北京啦啦互动网络科技有限公司。", "labels": [[6, 11, "domain"], [26, 27, "service"]], "meta": {"model_predict": 1, "name": "团队通"}, "name": "团队通"}
+{"text": "简部网隶属于常州简部网络科技有限公司，为消费者提供专业的本地美发预约指南。", "labels": [[28, 35, "service"]], "meta": {"model_predict": 1, "name": "简部网"}, "name": "简部网"}
+{"text": "内涵社区是国内最大的综合娱乐社区，内容涉及段子、笑图、语录、自拍、极品、秘密等类型，支持网友自主发表、审核、评论", "labels": [[10, 16, "domain"], [27, 28, "service"], [31, 32, "service"], [34, 35, "service"], [55, 56, "service"]], "meta": {"model_predict": 1, "name": "内涵段子"}, "name": "内涵段子"}
+{"text": "还可以将好笑的段子、图片分享给好友。同时，内涵社区是中国区娱乐版第一名，网络热辣段子发源地《内涵段子》、《内涵社区》APP官网", "labels": [[10, 14, "service"], [29, 30, "service"], [30, 31, "domain"]], "meta": {"model_predict": 1, "name": "内涵段子"}, "name": "内涵段子"}
+{"text": "今日头条旗下产品，于2018年4月10日正式关停服务。", "labels": [[20, 26, "service"]], "meta": {"model_predict": 1, "name": "内涵段子"}, "name": "内涵段子"}
+{"text": "北京点逸时代科技是一家汽车后O2O服务提供商，主打产品为“汽车澡堂”，提供洗车服务。", "labels": [[11, 19, "service"], [37, 41, "service"]], "meta": {"model_predict": 1, "name": "点逸时代"}, "name": "点逸时代"}
+{"text": "爱每叮是一个让大家管理、收藏、分享自己“拥有”、“想要”商品的社区，北京明日时尚信息技术有限公司旗下。", "labels": [], "meta": {"model_predict": 1, "name": "爱每叮"}, "name": "爱每叮"}
+{"text": "消息速递是一个信息传递工具，让信息更方便的从电脑传递到手机，由北京读图时代网络科技有限公司开发。", "labels": [[7, 9, "domain"], [9, 13, "service"], [22, 26, "service"]], "meta": {"model_predict": 1, "name": "消息速递"}, "name": "消息速递"}
+{"text": "同城搜搜隶属于重庆网冠文化传播有限公司，是一个同城信息搜索引擎。", "labels": [], "meta": {"model_predict": 1, "name": "同城搜搜"}, "name": "同城搜搜"}
+{"text": "爱展览是一个展览行业信息及社区网站，隶属于北京独秀文化传播有限公司。", "labels": [[7, 12, "service"], [13, 17, "service"]], "meta": {"model_predict": 1, "name": "爱展览"}, "name": "爱展览"}
+{"text": "咔朴范儿是一家明星自媒体服务应用，为明星制作和运营专属APP并打造够范儿的你，与粉丝互动娱乐等", "labels": [[7, 14, "domain"], [40, 46, "service"]], "meta": {"model_predict": 1, "name": "咔朴范儿"}, "name": "咔朴范儿"}
+{"text": "北京远景华图信息技术有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "咔朴范儿"}, "name": "咔朴范儿"}
+{"text": "万花筒视频是一个面向智能电视盒子的视频APP应用，是专为高清屏与遥控操作设计的视频播放平台", "labels": [[1, 3, "service"], [17, 19, "domain"], [28, 29, "service"], [39, 45, "service"]], "meta": {"model_predict": 1, "name": "万花筒视频"}, "name": "万花筒视频"}
+{"text": "聚合了优酷、爱奇艺等各大主流视频网站的视频内容，提供直播和点播服务，北京读图时代网络科技有限公司旗下。", "labels": [[15, 18, "service"], [19, 21, "service"], [26, 28, "service"], [29, 30, "service"]], "meta": {"model_predict": 1, "name": "万花筒视频"}, "name": "万花筒视频"}
+{"text": "清源教育是一家计算机相关领域的在线教育培训网站，提供视频教学辅导、社区互动等功能。", "labels": [[15, 21, "service"], [26, 32, "service"], [33, 37, "service"]], "meta": {"model_predict": 1, "name": "清源教育"}, "name": "清源教育"}
+{"text": "果冻旅行网成立于2012年，由美国、新加坡等多国留学生会负责人发起与组建", "labels": [], "meta": {"model_predict": 1, "name": "果冻旅行"}, "name": "果冻旅行"}
+{"text": "致力于搭建一个为国内企业联结国际市场与优秀国际人才的平台。", "labels": [], "meta": {"model_predict": 1, "name": "果冻旅行"}, "name": "果冻旅行"}
+{"text": "学都网是上海惠然网络科技有限公司旗下网站，是一个在线教育分享平台。", "labels": [[24, 30, "domain"]], "meta": {"model_predict": 1, "name": "学都网"}, "name": "学都网"}
+{"text": "拍购是一个拍照购物移动应用，主打“拍啥就能买啥”，基于拍照提供找寻同款、比价、导购等，北京同创网讯技术有限公司旗下。", "labels": [[5, 12, "domain"], [34, 35, "service"]], "meta": {"model_predict": 1, "name": "拍购"}, "name": "拍购"}
+{"text": "聚新网是一个综合类的B2C电商网站，以每天特价和优惠的方式销售3C电器、家居、服饰等，湖南湘潭腾悦商贸有限公司旗下。", "labels": [[29, 31, "service"], [31, 35, "service"], [37, 38, "service"], [40, 41, "service"]], "meta": {"model_predict": 1, "name": "聚新网"}, "name": "聚新网"}
+{"text": "北京新思易佳科技是一家为多屏互动用户提供服务的数字互动增值服务运营商，主打产品为3D体感运动机“宅动”。", "labels": [[21, 22, "service"], [23, 31, "service"], [40, 47, "service"]], "meta": {"model_predict": 1, "name": "北京新思易佳科技"}, "name": "北京新思易佳科技"}
+{"text": "哪旅游网是一个旅游资讯、问答、导购服务网站，隶属于上海嗨易网络科技有限公司。", "labels": [[7, 11, "service"], [12, 14, "service"], [15, 19, "service"]], "meta": {"model_predict": 1, "name": "哪旅游网"}, "name": "哪旅游网"}
+{"text": "威锋商城，专业经营苹果配件的B2C商城，聚焦在垂直的苹果配件及其相关商品领域。威锋网旗下新产品。", "labels": [], "meta": {"model_predict": 1, "name": "威锋商城"}, "name": "威锋商城"}
+{"text": "贝壳应用中心是一个移动应用下载和推广平台，旗下贝壳助手是一款集APP下载，APP分享，文件管理于一体的ios应用程序", "labels": [[1, 2, "service"]], "meta": {"model_predict": 1, "name": "贝壳应用中心"}, "name": "贝壳应用中心"}

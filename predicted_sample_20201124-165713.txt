@@ -1,0 +1,100 @@
+{"text": "小组涨是一个海外证券投资在线交易平台，通过密切关注全球热门主题与投资焦点，为用户设计出丰富多样的股票组合", "labels": [[6, 8, "service"], [8, 9, "domain"], [9, 10, "service"], [10, 11, "domain"], [11, 12, "service"], [28, 29, "service"], [30, 31, "service"], [33, 34, "service"]], "meta": {"model_predict": 1, "name": "小组涨"}, "name": "小组涨"}
+{"text": "与普通投资者分享专业的投资知识。", "labels": [[11, 15, "service"]], "meta": {"model_predict": 1, "name": "小组涨"}, "name": "小组涨"}
+{"text": "傲洽招聘是一个移动互联网求职社交平台，致力于通过视频简历和微简历，给求职者提供有尊严的面试，隶属于北京傲洽在线科技有限公司。", "labels": [[7, 13, "domain"], [14, 15, "domain"]], "meta": {"model_predict": 1, "name": "傲洽招聘"}, "name": "傲洽招聘"}
+{"text": "游禅网络是一家游戏开发商，主要研发方向包括移动端MMORPG游戏开发和客户端3D游戏开发。", "labels": [[7, 12, "domain"], [23, 32, "service"], [38, 39, "domain"], [39, 43, "service"]], "meta": {"model_predict": 1, "name": "游禅网络"}, "name": "游禅网络"}
+{"text": "买烟网是一家电子烟产品的垂直电商，隶属于深圳云爵科技有限公司。", "labels": [[12, 14, "domain"]], "meta": {"model_predict": 1, "name": "买烟网"}, "name": "买烟网"}
+{"text": "约教练是一家手机上的教练相约和预订O2O平台，用户可通过地理位置，价格，教练点评，筛选出最适合自己的教练", "labels": [], "meta": {"model_predict": 1, "name": "约教练"}, "name": "约教练"}
+{"text": "隶属于北京动脉互联科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "约教练"}, "name": "约教练"}
+{"text": "快创业是一家服务于创业者和创业公司的网站，为其提供法律、财务、人事招聘、融资方面的服务。徐州盈创网络科技有限公司旗下产品。", "labels": [[25, 27, "service"], [28, 30, "service"], [31, 32, "service"], [33, 35, "service"], [36, 40, "service"]], "meta": {"model_predict": 1, "name": "快创业"}, "name": "快创业"}
+{"text": "虾逛是一款商城内位置服务LBS服务APP，为消费者提供更便捷更准确的购物餐饮体验，同时为商城打造智能化升级与O2O闭环", "labels": [[9, 10, "domain"], [10, 11, "service"], [11, 12, "domain"], [12, 14, "domain"], [14, 15, "service"], [15, 17, "domain"], [37, 38, "domain"], [39, 40, "domain"]], "meta": {"model_predict": 1, "name": "虾逛互动"}, "name": "虾逛互动"}
+{"text": "深圳市志展云图信息科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "虾逛互动"}, "name": "虾逛互动"}
+{"text": "汽车美容养护网是一个汽车美容养护行业平台，致力于提升国内汽车美容养护行业信息化水平及自主品牌意识", "labels": [[29, 38, "service"]], "meta": {"model_predict": 1, "name": "汽车美容养护网"}, "name": "汽车美容养护网"}
+{"text": "帮助汽车美容养护店、改装店、汽车修理店等各类汽车后市场服务公司开展O2O（线上线下）的服务，隶属于佛山市小舟科技有限公司。", "labels": [[4, 7, "service"], [14, 19, "service"], [22, 24, "domain"], [24, 25, "service"], [25, 26, "domain"], [26, 27, "service"]], "meta": {"model_predict": 1, "name": "汽车美容养护网"}, "name": "汽车美容养护网"}
+{"text": "多多宝是一个开放式的金融电子凭证服务平台，为消费者免费提供吃、喝、玩、乐等生活优惠。通过多多宝免费获取各类商家的折扣优惠", "labels": [[10, 13, "domain"], [13, 14, "service"], [14, 15, "domain"], [16, 17, "domain"]], "meta": {"model_predict": 1, "name": "多多宝"}, "name": "多多宝"}
+{"text": "绑定优惠于银联卡，刷卡即可享受各种折扣优惠，基于银行卡刷卡交易流程完美地完成O2O商业模式闭环", "labels": [[5, 8, "service"], [24, 29, "service"], [37, 44, "service"]], "meta": {"model_predict": 1, "name": "多多宝"}, "name": "多多宝"}
+{"text": "为广大商家提供了一种全新的营销利器。", "labels": [[13, 15, "domain"]], "meta": {"model_predict": 1, "name": "多多宝"}, "name": "多多宝"}
+{"text": "学翼宝是一个专业的教育招生平台，利用大数据分析技术，招生渠道无缝对接技术及广告智能分发技术，帮助广告主实现招生信息精准传播", "labels": [[9, 15, "domain"], [22, 23, "service"], [23, 24, "domain"], [24, 25, "service"], [26, 27, "service"], [28, 36, "service"], [37, 45, "service"], [49, 50, "service"], [60, 61, "service"]], "meta": {"model_predict": 1, "name": "学翼宝"}, "name": "学翼宝"}
+{"text": "同时有效控制广告投放费用。", "labels": [[6, 12, "service"]], "meta": {"model_predict": 1, "name": "学翼宝"}, "name": "学翼宝"}
+{"text": "杭州彩家网络是一家为城市住宅小区提供O2O整体物业服务解决方案的网络平台，主打产品七彩家是一个小区服务助手", "labels": [[18, 28, "service"], [47, 51, "service"]], "meta": {"model_predict": 1, "name": "七彩家"}, "name": "七彩家"}
+{"text": "为业主提供线上线下物业及生活服务。", "labels": [[5, 11, "service"], [12, 16, "service"]], "meta": {"model_predict": 1, "name": "七彩家"}, "name": "七彩家"}
+{"text": "小圆桌是一个重视产品设计的中高端的众包平台，致力于从主流互联网招募，让一线产品设计师利用闲置时间", "labels": [[28, 30, "domain"], [30, 31, "service"], [31, 32, "domain"], [35, 39, "service"]], "meta": {"model_predict": 1, "name": "小圆桌"}, "name": "小圆桌"}
+{"text": "帮助真正注重质量的初创企业完成产品设计。隶属于北京锥芒科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "小圆桌"}, "name": "小圆桌"}
+{"text": "阿尔昆是一个投资咨询平台，致力于为草根创业准备一切资源，隶属于宜昌阿尔昆投资咨询有限公司。", "labels": [[8, 9, "domain"], [24, 25, "service"]], "meta": {"model_predict": 1, "name": "阿尔昆"}, "name": "阿尔昆"}
+{"text": "赢多多是一家专注于互联网理财的金融平台，主打优质理财，低门槛提供年化8%-15%的稳健型理财产品", "labels": [[9, 14, "domain"], [15, 17, "domain"], [45, 46, "domain"], [46, 47, "service"], [47, 48, "domain"]], "meta": {"model_predict": 1, "name": "赢多多"}, "name": "赢多多"}
+{"text": "所有投资产品均为担保机构全额本息担保标和实地调查认证标。", "labels": [[26, 27, "service"]], "meta": {"model_predict": 1, "name": "赢多多"}, "name": "赢多多"}
+{"text": "抢鲜购是一个生鲜垂直电商品牌，2016年1月关闭。", "labels": [[8, 9, "domain"], [9, 10, "service"], [10, 11, "domain"]], "meta": {"model_predict": 1, "name": "抢鲜购"}, "name": "抢鲜购"}
+{"text": "行李网是一家O2O模式的行李托运、派送服务网站，隶属于北京德迅创想科技有限公司。", "labels": [[7, 9, "service"]], "meta": {"model_predict": 1, "name": "行李网"}, "name": "行李网"}
+{"text": "发起人是一家服务于社群经济线下活动的互联网科技公司，致力于为用户提供简单、便捷的线下活动，提前筹人筹资", "labels": [[40, 41, "service"], [42, 43, "service"]], "meta": {"model_predict": 1, "name": "发起人"}, "name": "发起人"}
+{"text": "隶属于湖南云连天地网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "发起人"}, "name": "发起人"}
+{"text": "微友是一个在线商圈社区，提供用户周边商圈的吃喝玩乐购的及时讯息，并能和左邻右舍圈友交流、组织活动。隶属于武汉微圈科技有限公司。", "labels": [[8, 11, "service"], [21, 25, "service"], [40, 41, "service"], [42, 43, "service"], [44, 47, "service"]], "meta": {"model_predict": 1, "name": "微友"}, "name": "微友"}
+{"text": "足球控是一个专注于足球领域的体育社交移动应用，提供赛事资讯、比赛直播、球员信息等，广州赛点科技有限公司旗下产品。", "labels": [[9, 11, "domain"], [14, 20, "domain"], [25, 29, "service"], [30, 34, "service"], [35, 39, "service"]], "meta": {"model_predict": 1, "name": "足球控"}, "name": "足球控"}
+{"text": "卡卡二手车是一个二手车交易平台。广州跃享网络科技有限公司旗下产品。", "labels": [[8, 10, "domain"], [10, 11, "service"], [11, 12, "domain"], [12, 13, "service"]], "meta": {"model_predict": 1, "name": "卡卡二手车"}, "name": "卡卡二手车"}
+{"text": "大师有空是一个用户与大师直接沟通的问答社区，产品主要面向国学、佛学、易学、心理等领域的大师、机构和个人", "labels": [[14, 15, "service"], [18, 21, "service"]], "meta": {"model_predict": 1, "name": "大师有空"}, "name": "大师有空"}
+{"text": "用户通过平台可以实现快速咨询服务，并且可以与大师电话或者视频，以及面对面的线下约见，实现与大师之间真实的交流互动", "labels": [[8, 9, "service"], [10, 15, "service"], [22, 23, "service"], [24, 25, "service"], [29, 30, "service"], [39, 40, "service"], [55, 56, "domain"]], "meta": {"model_predict": 1, "name": "大师有空"}, "name": "大师有空"}
+{"text": "公司致力于成为国内一流的身心服务平台，隶属于北京趣生活网络科技有限公司。", "labels": [[12, 16, "domain"]], "meta": {"model_predict": 1, "name": "大师有空"}, "name": "大师有空"}
+{"text": "橙学是一个教育招生平台，由移动招生广告分享平台（橙学APP）和橙学招生广告展示平台（橙学网）两部分组成", "labels": [[5, 8, "domain"], [9, 10, "domain"], [15, 16, "domain"], [16, 17, "service"], [17, 18, "domain"], [18, 19, "service"], [19, 20, "domain"], [20, 21, "service"], [21, 23, "domain"]], "meta": {"model_predict": 1, "name": "橙学"}, "name": "橙学"}
+{"text": "打通院校、升学咨询师、学生之间互联互通路径,开创众包招生、大众助学新模式。", "labels": [[31, 36, "service"]], "meta": {"model_predict": 1, "name": "橙学"}, "name": "橙学"}
+{"text": "深圳市腾粤文化传媒有限公司是一家广告公关公司，致力于腾讯汽车网关于深圳区域的一切相关内容运营", "labels": [], "meta": {"model_predict": 1, "name": "腾粤传媒"}, "name": "腾粤传媒"}
+{"text": "与汽车厂家以及各大汽车经销商有紧密的合作关系，负责为客户订做线上推广宣传方案以及线下的策划执行活动。", "labels": [[33, 34, "service"]], "meta": {"model_predict": 1, "name": "腾粤传媒"}, "name": "腾粤传媒"}
+{"text": "北京锥芒科技是一家主打互联网和移动应用开发外包公司。", "labels": [[11, 14, "domain"], [15, 20, "domain"], [21, 22, "domain"]], "meta": {"model_predict": 1, "name": "锥芒科技"}, "name": "锥芒科技"}
+{"text": "飞华互动是一家计算机软件制作公司。主要制作网络游戏以及手机应用。隶属于天津飞华信息技术有限公司。", "labels": [[21, 25, "service"], [27, 31, "service"]], "meta": {"model_predict": 1, "name": "飞华互动"}, "name": "飞华互动"}
+{"text": "叁友科技是一家致力于打造体育文化类的大型平台的公司，并针对此路线方针，发展成为国内顶尖的体育文化类的科技型企业", "labels": [[44, 46, "domain"], [47, 48, "domain"]], "meta": {"model_predict": 1, "name": "叁友科技"}, "name": "叁友科技"}
+{"text": "三位股东同是足球专业出身，成立伊始研发各个行业软件的外包项目，并且有着足够的项目案例。", "labels": [], "meta": {"model_predict": 1, "name": "叁友科技"}, "name": "叁友科技"}
+{"text": "安徽散客旅游服务网是一个B2B2C旅游电子商务网站和自助游资讯及预订平台，致力于打造成为以“自助游”为核心特色的综合型旅游网站", "labels": [[12, 24, "service"], [26, 31, "service"], [59, 61, "domain"], [61, 62, "service"], [62, 63, "domain"]], "meta": {"model_predict": 1, "name": "安徽散客旅游服务网"}, "name": "安徽散客旅游服务网"}
+{"text": "隶属于安徽我要遛遛信息技术有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "安徽散客旅游服务网"}, "name": "安徽散客旅游服务网"}
+{"text": "运动邦是一个服务于健身领域的O2O平台，针对健身会所、教练、会员、健身品牌等目标人群，提供找教练、找会所、运动商城等", "labels": [[9, 11, "domain"], [16, 17, "domain"], [33, 37, "service"], [39, 42, "service"], [46, 48, "service"], [50, 52, "service"], [53, 57, "service"]], "meta": {"model_predict": 1, "name": "运动邦"}, "name": "运动邦"}
+{"text": "实现智能化在线管理和开放式互动服务。贝乐运动科技无锡有限公司旗下网站。", "labels": [[6, 8, "service"], [12, 16, "service"]], "meta": {"model_predict": 1, "name": "运动邦"}, "name": "运动邦"}
+{"text": "猎人贷是一家互联网理财、借贷服务平台，由南京人人互信信息技术有限公司建立运营。", "labels": [[6, 8, "domain"], [8, 11, "domain"], [12, 16, "domain"]], "meta": {"model_predict": 1, "name": "猎人贷"}, "name": "猎人贷"}
+{"text": "约车吧是一款结伴拼车APP，除了约车，还有约会功能，隶属于深圳约车信息技术有限公司。", "labels": [[8, 10, "domain"], [11, 12, "domain"]], "meta": {"model_predict": 1, "name": "约车吧"}, "name": "约车吧"}
+{"text": "引力波是专注于科技创业者的阅读APP，纯技术驱动，用机器学习的推荐引擎为用户推荐人和文章。北京雨恒矩阵科技有限公司旗下产品。", "labels": [[8, 9, "domain"], [10, 11, "domain"], [19, 20, "service"]], "meta": {"model_predict": 1, "name": "引力波"}, "name": "引力波"}
+{"text": "高友是一个高尔夫球友移动社交平台，隶属于广州誉高信息科技有限公司。", "labels": [[5, 7, "domain"], [7, 16, "domain"]], "meta": {"model_predict": 1, "name": "高友"}, "name": "高友"}
+{"text": "我的私厨（此前叫小灶）是一个提供私厨餐饮服务的O2O平台，杭州庆千科技有限公司旗下产品。", "labels": [[16, 22, "service"]], "meta": {"model_predict": 1, "name": "我的私厨"}, "name": "我的私厨"}
+{"text": "友车是一个主打汽车出行的P2P共享用车服务，基于LBS位置服务和社交功能，将现实生活中的闲置交通运力充分整合", "labels": [[12, 21, "service"], [24, 27, "service"]], "meta": {"model_predict": 1, "name": "友车"}, "name": "友车"}
+{"text": "从而让出行更便捷、更经济、更环保。", "labels": [], "meta": {"model_predict": 1, "name": "友车"}, "name": "友车"}
+{"text": "上海歌志网络是一家关注大众健身的创业公司，主打产品“轻元素”是一个减肥健身App。", "labels": [[14, 15, "domain"], [33, 37, "domain"]], "meta": {"model_predict": 1, "name": "歌志网络轻元素"}, "name": "歌志网络轻元素"}
+{"text": "会题库是四川学到教育旗下的会计无纸化仿真考试系统。针对会计从业资格、会计职称考试的考生提供考前真题真界面的在线模拟考试系统。", "labels": [[15, 24, "service"], [34, 36, "domain"], [36, 37, "service"], [37, 38, "domain"], [38, 40, "service"], [53, 61, "service"]], "meta": {"model_predict": 1, "name": "会题库"}, "name": "会题库"}
+{"text": "好厨师是一个私人厨师O2O预订服务平台，通过App可以预定私人厨师到家做饭，上海乐快信息技术有限公司旗下产品。", "labels": [[6, 8, "domain"], [8, 9, "service"], [9, 10, "domain"], [10, 11, "service"], [11, 12, "domain"], [12, 15, "domain"], [27, 28, "service"], [30, 33, "service"]], "meta": {"model_predict": 1, "name": "好厨师"}, "name": "好厨师"}
+{"text": "安个家是一个O2O模式的互联网买房与卖房服务平台，提供二手房交易知识、信息，实现O2O一带多看的连接", "labels": [[7, 8, "service"], [8, 9, "domain"], [9, 10, "service"], [12, 15, "domain"], [16, 17, "domain"], [18, 22, "domain"], [27, 34, "service"]], "meta": {"model_predict": 1, "name": "安个家"}, "name": "安个家"}
+{"text": "上海安个家信息技术有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "安个家"}, "name": "安个家"}
+{"text": "节点是一款轻量级的任务型管理软件，是一个完全开放式的任务平台及可视化的人脉地图。", "labels": [[35, 39, "service"]], "meta": {"model_predict": 1, "name": "节点"}, "name": "节点"}
+{"text": "云测练是一个连接师生、家长三方的在线练习平台，支持老师、学生以及家长围绕学生学习展开互动，主要由教育工作者控制", "labels": [], "meta": {"model_predict": 1, "name": "云测练"}, "name": "云测练"}
+{"text": "老师可以在线布置课外练习，让学生在线解答，同时还可发布学生的课堂表现、学校通知、日常提醒给学生和家长", "labels": [[5, 9, "service"], [33, 34, "service"], [35, 39, "service"]], "meta": {"model_predict": 1, "name": "云测练"}, "name": "云测练"}
+{"text": "隶属于拓欣菁优网络科技（北京）有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "云测练"}, "name": "云测练"}
+{"text": "萝卜兔是一家新成立的猎头服务平台，致力于打造H（猎头）B（企业）C（人才）之间的交易平台，提供海量高端人才库+", "labels": [[10, 14, "domain"], [52, 54, "service"]], "meta": {"model_predict": 1, "name": "萝卜兔"}, "name": "萝卜兔"}
+{"text": "自动化touch人才意向的工具。目前主打程序员猎头服务。北京民游宝合科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "萝卜兔"}, "name": "萝卜兔"}
+{"text": "百诺达是一家基于办公软件开发、电商平台打造和移动端定制产品研发等一系列主打产品等的公司", "labels": [[11, 12, "domain"], [22, 26, "service"]], "meta": {"model_predict": 1, "name": "百诺达"}, "name": "百诺达"}
+{"text": "致力于开发可满足多行业需求的灵活可拆卸功能模块产品，共同向社会全行业提供IT信息化建设一站式解决方案", "labels": [[21, 25, "service"], [36, 50, "service"]], "meta": {"model_predict": 1, "name": "百诺达"}, "name": "百诺达"}
+{"text": "成为集研发、咨询和产品为一体的特色服务供应商。", "labels": [[15, 17, "service"], [17, 18, "domain"], [18, 19, "service"]], "meta": {"model_predict": 1, "name": "百诺达"}, "name": "百诺达"}
+{"text": "邻家约车是一个基于邻里社区的、P2P共享模式的智能约车APP，提供精准的LBS定位、相似路线的智能匹配、约车后的及时推送", "labels": [[15, 22, "service"], [23, 27, "service"], [37, 40, "service"], [47, 51, "service"], [52, 55, "service"]], "meta": {"model_predict": 1, "name": "邻家约车"}, "name": "邻家约车"}
+{"text": "让你随时随地约到车，上海先先信息科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "邻家约车"}, "name": "邻家约车"}
+{"text": "新融网是一个专注于互联网金融的新媒体网站", "labels": [[9, 14, "domain"], [16, 17, "domain"], [18, 19, "domain"]], "meta": {"model_predict": 1, "name": "新融网"}, "name": "新融网"}
+{"text": "关注领域：传统金融互联网化、互联网公司涉足金融业务、网贷P2P、互联网理财、数字货币等。", "labels": [[6, 12, "service"], [21, 23, "service"], [23, 24, "domain"], [26, 28, "service"], [28, 29, "domain"], [29, 30, "service"], [30, 31, "domain"], [32, 35, "service"], [35, 36, "domain"], [36, 37, "service"], [38, 42, "service"]], "meta": {"model_predict": 1, "name": "新融网"}, "name": "新融网"}
+{"text": "装修我家是一家基于本地化装修服务的电商平台。苏州汇装网络信息技术有限公司旗下网站。", "labels": [[9, 16, "domain"]], "meta": {"model_predict": 1, "name": "装修我家网"}, "name": "装修我家网"}
+{"text": "荷花亲子是一家母婴产品特卖app，通过买手达人模式、提供母婴产品导购服务，隶属于深圳荷花亲子科技有限公司。", "labels": [[7, 9, "domain"], [10, 11, "domain"], [28, 33, "service"]], "meta": {"model_predict": 1, "name": "荷花亲子"}, "name": "荷花亲子"}
+{"text": "华平智慧是一个智慧家庭及智慧社区解决商，致力于系统和服务平台的研发、生产与销售，隶属于华平智慧科技(北京)有限公司。", "labels": [[7, 11, "service"], [12, 14, "service"], [14, 15, "domain"], [15, 16, "service"], [16, 17, "domain"], [17, 18, "service"], [18, 19, "domain"], [23, 25, "domain"], [26, 28, "domain"]], "meta": {"model_predict": 1, "name": "华平智慧"}, "name": "华平智慧"}
+{"text": "北京智慧立人教育科技有限公司是一家以技术开发为主导的科技服务公司", "labels": [], "meta": {"model_predict": 1, "name": "智慧金融"}, "name": "智慧金融"}
+{"text": "旗下拥有智慧教育、智慧文化、智慧金融、智慧健康、智慧咨询、智慧大数据等板块。", "labels": [[26, 27, "service"], [31, 34, "service"]], "meta": {"model_predict": 1, "name": "智慧金融"}, "name": "智慧金融"}
+{"text": "一品折是一家主打母婴产品的电商平台。隶属于杭州市龙席电子商务有限公司。", "labels": [[8, 10, "domain"], [10, 11, "service"], [11, 12, "domain"], [13, 15, "domain"]], "meta": {"model_predict": 1, "name": "一品折"}, "name": "一品折"}
+{"text": "华智公司是一家关注O2O及基于iBeacon的智能商场研发的初创公司。目前", "labels": [[23, 26, "domain"]], "meta": {"model_predict": 1, "name": "华智公司"}, "name": "华智公司"}
+{"text": "华智已经与青岛海上嘉年华、新华都东海湾生活广场等大型商场合作，为线下商家搭建智能化平台，创建o2o运营模式", "labels": [], "meta": {"model_predict": 1, "name": "华智公司"}, "name": "华智公司"}
+{"text": "同时采集线下消费者数据。", "labels": [], "meta": {"model_predict": 1, "name": "华智公司"}, "name": "华智公司"}
+{"text": "云众地产是一家专业的第三方地产众筹平台，让大众用户参与酒店、商业地产等项目的众筹和资金筹集服务", "labels": [[10, 12, "domain"], [13, 14, "domain"]], "meta": {"model_predict": 1, "name": "云众地产"}, "name": "云众地产"}
+{"text": "常州面包电子科技有限公司旗下网站。", "labels": [], "meta": {"model_predict": 1, "name": "云众地产"}, "name": "云众地产"}
+{"text": "油通网络是一个面向车主的网络加油站，通过手机和微信为车主提供周边加油、会员卡充值服务等，隶属于北京油通网络科技有限公司。", "labels": [[12, 14, "domain"], [14, 15, "service"], [15, 16, "domain"], [30, 34, "service"], [35, 42, "service"]], "meta": {"model_predict": 1, "name": "油通网络"}, "name": "油通网络"}
+{"text": "简单易点网络科技公司是一家专注于快递收发服务的初创公司，旗下开发有移动端产品“快递超人”，对接快递公司和用户。", "labels": [[16, 18, "domain"], [19, 20, "domain"], [21, 22, "domain"]], "meta": {"model_predict": 1, "name": "快递超人"}, "name": "快递超人"}
+{"text": "上海触创网络科技有限公司是一家专注商务社交和智慧展会、展馆、商场服务的公司", "labels": [[17, 21, "domain"]], "meta": {"model_predict": 1, "name": "汇客宝"}, "name": "汇客宝"}
+{"text": "该公司旗下产品汇客宝是一款用于智慧展会、展馆服务的产品。", "labels": [[15, 17, "domain"], [18, 19, "domain"], [20, 22, "domain"]], "meta": {"model_predict": 1, "name": "汇客宝"}, "name": "汇客宝"}
+{"text": "安徽投顾投资管理有限公司是一家投资理财公司，致力于为广大缺乏投资知识的人们提供专业、安全、便捷的理财方式", "labels": [[50, 52, "service"]], "meta": {"model_predict": 1, "name": "投顾资本"}, "name": "投顾资本"}
+{"text": "为精品项目、优质小微企业主、白领精英阶层和创业先锋们提供门槛低、手续简、速度快的融资方式。", "labels": [[32, 35, "service"], [37, 39, "service"], [40, 44, "service"]], "meta": {"model_predict": 1, "name": "投顾资本"}, "name": "投顾资本"}
+{"text": "淘车之家是一家专业的二手车电商平台，提供二手车寄卖服务，采取网上商城、移动客户端、线下连锁、客服中心“四位一体”", "labels": [[10, 15, "domain"], [20, 27, "service"], [33, 34, "service"], [35, 38, "service"]], "meta": {"model_predict": 1, "name": "淘车之家"}, "name": "淘车之家"}
+{"text": "的O2O经营模式，大连淘车之家二手车经纪有限公司旗下网站。", "labels": [[3, 4, "service"]], "meta": {"model_predict": 1, "name": "淘车之家"}, "name": "淘车之家"}
+{"text": "安徽小点网络科技有限公是一个互联网综合服务公司，致力于互联网产品开发及专业的客户服务", "labels": [[14, 18, "domain"], [19, 20, "domain"], [27, 28, "service"], [29, 30, "service"], [30, 31, "domain"]], "meta": {"model_predict": 1, "name": "小点网络"}, "name": "小点网络"}
+{"text": "为客户提供高端网站建设、微信营销、网页设计、平面设计、电商运营及系统开发、互联网整合运营策划等一系列网络服务。", "labels": [[5, 11, "service"], [12, 16, "service"], [17, 21, "service"], [22, 26, "service"], [27, 31, "service"], [32, 36, "service"], [37, 46, "service"], [50, 52, "service"], [52, 53, "domain"], [53, 54, "service"]], "meta": {"model_predict": 1, "name": "小点网络"}, "name": "小点网络"}
+{"text": "药给力是一家手机上的药品购买和移动健康平台，主打“1小时良药送上门”服务。北京思邈互联医药科技有限公司旗下产品。", "labels": [[10, 13, "domain"], [15, 18, "domain"], [18, 19, "service"], [19, 20, "domain"]], "meta": {"model_predict": 1, "name": "药给力"}, "name": "药给力"}
+{"text": "金易融(北京)网络科技有限公司是一个以融资租赁债权交易为基础的互联网金融撮合服务平台，隶属于安徽钰诚控股集团股份有限公司", "labels": [[31, 33, "domain"], [33, 35, "domain"]], "meta": {"model_predict": 1, "name": "金易融"}, "name": "金易融"}
+{"text": "主要产品是e租宝。", "labels": [], "meta": {"model_predict": 1, "name": "金易融"}, "name": "金易融"}
+{"text": "桔子热线是一个陌生人情感交流的APP，主要通过语音来进行沟通。上海假面信息科技有限公司旗下产品。", "labels": [[11, 12, "service"], [12, 13, "domain"]], "meta": {"model_predict": 1, "name": "桔子热线"}, "name": "桔子热线"}
+{"text": "牛油果科技是一家专注于智能电子消费品线上零售业务的公司，致力于智能穿戴、智能家居和智能健康医疗类的个人级和家庭级消费品", "labels": [[11, 12, "service"], [13, 15, "service"], [15, 16, "domain"], [16, 17, "service"], [17, 18, "domain"], [18, 19, "service"], [58, 59, "domain"]], "meta": {"model_predict": 1, "name": "牛油果科技"}, "name": "牛油果科技"}
+{"text": "创新驱动，引领未来。", "labels": [], "meta": {"model_predict": 1, "name": "牛油果科技"}, "name": "牛油果科技"}
+{"text": "佑米金融是一家互联网与金融信息中介撮合业务平台，专注于做车辆质押贷款，隶属于杭州优杨投资管理有限公司。", "labels": [[11, 17, "domain"], [18, 19, "domain"], [31, 34, "service"]], "meta": {"model_predict": 1, "name": "佑米金融"}, "name": "佑米金融"}
+{"text": "卡菲鱼是一家开发社区O2O产品的公司。致力于改变社区环境，将社区变得多元化，同时借助互联网思维和技术手段探索社区O2O商业模式", "labels": [[8, 9, "domain"], [9, 10, "service"], [10, 11, "domain"], [11, 12, "service"], [12, 13, "domain"], [13, 14, "service"], [14, 15, "domain"], [54, 55, "service"], [56, 63, "service"]], "meta": {"model_predict": 1, "name": "卡菲鱼"}, "name": "卡菲鱼"}

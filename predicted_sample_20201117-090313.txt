@@ -1,0 +1,100 @@
+{"text": "用户可以通过平台在线上观看格斗娱乐真人秀，也可以在线下到现场观看格斗竞技娱乐和格斗训练。", "labels": [[14, 18, "service"]], "meta": {"model_predict": 1, "name": "野兽体育"}, "name": "野兽体育"}
+{"text": "寻球团是球类运动的O2O平台，能够帮助球场及个人快速形成O2O(线上到线下)服务。", "labels": [[7, 8, "domain"]], "meta": {"model_predict": 1, "name": "寻球团"}, "name": "寻球团"}
+{"text": "悍途微电商是一家主打微商知名商品代理的电商网站，隶属于义乌市悍途电子商务有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "悍途微电商"}, "name": "悍途微电商"}
+{"text": "我快到是一个采用众包模式、解决本地电商3公里内配送的互联网同城物流公司，专注解决短距离高时效的配送问题。", "labels": [], "meta": {"model_predict": 1, "name": "我快到"}, "name": "我快到"}
+{"text": "泷升鑫是一家广告传媒公司，致力于为中小企业提供全方位的形象打造和营销运营服务，协助中小企业快速提升品牌价值和市场占有率", "labels": [[6, 11, "domain"]], "meta": {"model_predict": 1, "name": "泷升鑫"}, "name": "泷升鑫"}
+{"text": "公司旗下业务主要包含网络营销、文案策划、互联网与软件开发、企业培训、影视制作等。", "labels": [[10, 14, "service"], [15, 19, "service"], [20, 28, "service"], [29, 33, "service"], [34, 38, "service"]], "meta": {"model_predict": 1, "name": "泷升鑫"}, "name": "泷升鑫"}
+{"text": "鲲哲信息是一家工业4.0质量系统研发商，为用户提供了一款针对大批量离散制造企业的质量管理工具“Quality4.0”", "labels": [], "meta": {"model_predict": 1, "name": "鲲哲信息"}, "name": "鲲哲信息"}
+{"text": "可以用于汽车领域的贯穿质量规划、过程控制、投诉追溯三个阶段，以此形成数据的循环反馈。", "labels": [[4, 7, "domain"], [9, 12, "domain"]], "meta": {"model_predict": 1, "name": "鲲哲信息"}, "name": "鲲哲信息"}
+{"text": "家脉科技是一家计算机开发公司。公司主要从事计算机技术咨询，信息技术开发及技术咨询等服务。隶属于深圳家脉科技有限公司。", "labels": [[21, 28, "service"], [29, 33, "service"], [36, 40, "service"]], "meta": {"model_predict": 1, "name": "家脉科技"}, "name": "家脉科技"}
+{"text": "民商基金是中国证监会核准的基金销售公司。作为一家第三方金融服务方案提供商，民商基金专注于为个人投资者提供财富增值管理服务方案", "labels": [[24, 31, "service"]], "meta": {"model_predict": 1, "name": "民商基金"}, "name": "民商基金"}
+{"text": "为机构投资者搭建一站式投资交易平台。", "labels": [[13, 14, "domain"]], "meta": {"model_predict": 1, "name": "民商基金"}, "name": "民商基金"}
+{"text": "异构空间是一家生产收音设备的移动互联网公司，专注于提供远程拾音与音影合成的解决方案，公司的产品Goplay", "labels": [[9, 13, "domain"], [14, 18, "domain"], [27, 31, "service"], [32, 41, "service"]], "meta": {"model_predict": 1, "name": "异构空间"}, "name": "异构空间"}
+{"text": "致力于提供远程拾音及合成影音的智能消费级功能、提供捕捉远程音频的智能手机设备。", "labels": [[12, 19, "service"], [25, 37, "service"]], "meta": {"model_predict": 1, "name": "异构空间"}, "name": "异构空间"}
+{"text": "下班约是一款面向蓝领人群的工友社交App，能帮助工友解决下班后枯燥无聊的生活问题，快速建立线下约会", "labels": [[13, 17, "domain"], [18, 19, "domain"], [47, 49, "service"]], "meta": {"model_predict": 1, "name": "下班约"}, "name": "下班约"}
+{"text": "广州爱圈信息科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "下班约"}, "name": "下班约"}
+{"text": "面易是一个专门为求职者提供求职面试指导的平台，主要面向那些想提高面试成功率和专业能力的求职者。平台上的导师均来自于名企", "labels": [[13, 17, "service"], [31, 35, "service"]], "meta": {"model_predict": 1, "name": "面易"}, "name": "面易"}
+{"text": "为求职者提供简历优化、面试诊断、极速面试、咨询问答等服务。", "labels": [[11, 15, "service"], [16, 20, "service"], [21, 25, "service"]], "meta": {"model_predict": 1, "name": "面易"}, "name": "面易"}
+{"text": "秘密花园，基于地理位置，解决用户情感问题的共享互助社区。隶属于上海薇翔网络科技发展有限公司。", "labels": [[16, 20, "service"], [21, 27, "service"]], "meta": {"model_predict": 1, "name": "秘密花园"}, "name": "秘密花园"}
+{"text": "千迈，是一个旅游问答互助app。隶属于深圳市千迈尔斯网络信息技术有限公司。", "labels": [[6, 10, "service"], [10, 12, "domain"], [13, 14, "domain"]], "meta": {"model_predict": 1, "name": "千迈"}, "name": "千迈"}
+{"text": "优储理财是一家互联网理财平台，平台拥有优钱盈、企宝宝等多种灵活性短期理财产品，并且平台会采用小额分散的方式，降低理财人投资风险", "labels": [[7, 12, "domain"], [23, 26, "service"], [32, 38, "service"], [60, 63, "service"]], "meta": {"model_predict": 1, "name": "优储理财"}, "name": "优储理财"}
+{"text": "同时，平台在用户理财过程中为其提供随时查看资金流向、借款人信息、抵押物资料等功能。", "labels": [[26, 31, "service"], [32, 37, "service"]], "meta": {"model_predict": 1, "name": "优储理财"}, "name": "优储理财"}
+{"text": "玉德云康是一家移动医疗创业公司，融合医生集团与互联网+思维，在继承传统的基础上赋予互联网的技术和环境", "labels": [[7, 13, "domain"]], "meta": {"model_predict": 1, "name": "玉德云康"}, "name": "玉德云康"}
+{"text": "通过手机、PC等智能终端给所有临床医生打造专业而全面的医教研共享平台", "labels": [[27, 29, "domain"], [30, 32, "domain"], [33, 34, "domain"]], "meta": {"model_predict": 1, "name": "玉德云康"}, "name": "玉德云康"}
+{"text": "公司主要业务有医药、生物工程、医疗、护理、保健、卫生服务、医疗设备和器械销售等。", "labels": [[7, 9, "service"], [10, 14, "service"], [15, 17, "service"], [18, 20, "service"], [21, 23, "service"], [24, 28, "service"], [29, 38, "service"]], "meta": {"model_predict": 1, "name": "玉德云康"}, "name": "玉德云康"}
+{"text": "聚币网是一个区块链资产交易平台，平台支持多种数字货币交易投资买卖，包括比特币、莱特币、狗狗币等", "labels": [[6, 7, "domain"], [7, 13, "service"], [22, 30, "service"], [35, 38, "service"], [39, 42, "service"], [43, 46, "service"]], "meta": {"model_predict": 1, "name": "聚币网"}, "name": "聚币网"}
+{"text": "并为用户挑选出安全并具有投资价值的二代虚拟货币，致力于为用户提供优质的资产交易服务。", "labels": [[17, 23, "service"], [35, 41, "service"]], "meta": {"model_predict": 1, "name": "聚币网"}, "name": "聚币网"}
+{"text": "亲秘是一家主打一站式公司日常服务的O2O平台，用Magic模式整合各类办公室服务，包括日常采买、差旅出行、团建活动等", "labels": [[35, 40, "service"], [43, 46, "service"], [48, 52, "service"], [53, 57, "service"]], "meta": {"model_predict": 1, "name": "亲秘办公室管家"}, "name": "亲秘办公室管家"}
+{"text": "隶属于北京一手科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "亲秘办公室管家"}, "name": "亲秘办公室管家"}
+{"text": "创业猫是一家为创业公司提供服务的平台，致力于打造一站式创业服务平台，覆盖公司注册，财务，法务，技术服务等全方位创业服务", "labels": [[27, 29, "domain"], [47, 51, "service"]], "meta": {"model_predict": 1, "name": "创业猫"}, "name": "创业猫"}
+{"text": "广州喵创信息科技有限公司旗下网站。", "labels": [], "meta": {"model_predict": 1, "name": "创业猫"}, "name": "创业猫"}
+{"text": "北京舟济科技是一家提供消费金融与分期服务的普惠金融服务商，主打产品为“骆驼金融”", "labels": [[11, 15, "service"], [18, 20, "service"], [23, 27, "domain"]], "meta": {"model_predict": 1, "name": "骆驼金融"}, "name": "骆驼金融"}
+{"text": "为有房一族提供低门槛、低费率、值得信赖的装修款分期服务。公司旗下旗舰产品：骆驼装修分期", "labels": [], "meta": {"model_predict": 1, "name": "骆驼金融"}, "name": "骆驼金融"}
+{"text": "致力于为有房一族提供低门槛、低费率、值得信赖的装修款分期服务。", "labels": [], "meta": {"model_predict": 1, "name": "骆驼金融"}, "name": "骆驼金融"}
+{"text": "轩捷信息是一家以汽车为中心，集汽车评估、汽车抵押借款、汽车变现和购置新旧汽车贷款于一体的专业汽车金融服务企业", "labels": [[8, 10, "service"], [15, 19, "service"], [20, 26, "service"], [27, 31, "service"], [32, 40, "service"], [46, 52, "domain"]], "meta": {"model_predict": 1, "name": "轩捷信息"}, "name": "轩捷信息"}
+{"text": "致力于以车辆所有权抵押，为有短期资金周转或有资金需求的个人、经销商和4S店提供全方位专业、快捷和个性化的汽车金融服务。", "labels": [[52, 58, "domain"]], "meta": {"model_predict": 1, "name": "轩捷信息"}, "name": "轩捷信息"}
+{"text": "非农数据官网是一家专注于大宗商品与外汇投资的财经新媒体，提供全球外汇、期货、黄金、债券、证券等金融领域的实时新闻和市场行情报价", "labels": [[30, 34, "service"], [47, 49, "domain"]], "meta": {"model_predict": 1, "name": "非农数据"}, "name": "非农数据"}
+{"text": "以及经济数据播报，帮助中国投资者把握国际金融市场动态和投资方向。", "labels": [[20, 26, "service"]], "meta": {"model_predict": 1, "name": "非农数据"}, "name": "非农数据"}
+{"text": "多麦科技是一家手工艺品类电子商务服务公司，公司主要致力解放手艺人，让手艺人做自己的老板，发现好的手艺人、好的手工作品。", "labels": [[7, 17, "domain"], [29, 30, "domain"], [30, 32, "service"], [34, 36, "service"], [54, 55, "domain"], [55, 58, "service"]], "meta": {"model_predict": 1, "name": "苏州多麦网络"}, "name": "苏州多麦网络"}
+{"text": "学创科技是一家创新型公司。公司致力于成为每个客户身边的数字营销专家和软件开发商", "labels": [], "meta": {"model_predict": 1, "name": "学创科技"}, "name": "学创科技"}
+{"text": "它是以移动互联网产品形态为代表、集技术平台搭建、社交营销工具开发、互联网人才孵化于一体的的新锐企业。", "labels": [[3, 12, "service"], [18, 21, "domain"], [22, 23, "domain"], [24, 30, "domain"], [33, 35, "domain"]], "meta": {"model_predict": 1, "name": "学创科技"}, "name": "学创科技"}
+{"text": "遇见人工智能是一家专注人工智能的首席全媒体，专注于提供人工智能新闻及资讯，隶属于桂平市特写科技有限公司。", "labels": [[13, 15, "domain"], [27, 33, "service"]], "meta": {"model_predict": 1, "name": "遇见人工智能"}, "name": "遇见人工智能"}
+{"text": "趣学摄影网是一家线上和线下摄影培训平台，西安方格子广告文化传播有限责任公司旗下网站。", "labels": [[2, 5, "service"]], "meta": {"model_predict": 1, "name": "趣学摄影网"}, "name": "趣学摄影网"}
+{"text": "藏客是一个悦文玩，乐分享的平台，致力于打造无国界、全领域（文玩、古玩、艺术品）的社交（电商）平台", "labels": [[35, 38, "service"], [40, 42, "domain"]], "meta": {"model_predict": 1, "name": "藏客"}, "name": "藏客"}
+{"text": "隶属于杭州文玩界文化创意有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "藏客"}, "name": "藏客"}
+{"text": "豹便利是一家无人值守货架服务运营商，包括零食货架和无人柜两种，选品大多以辣条、饼干、薯片、奶茶、方便面等快消品为主", "labels": [[6, 12, "domain"], [20, 24, "service"], [25, 28, "service"], [39, 41, "service"], [42, 44, "service"], [45, 47, "service"]], "meta": {"model_predict": 1, "name": "豹便利"}, "name": "豹便利"}
+{"text": "猎豹移动旗下。", "labels": [], "meta": {"model_predict": 1, "name": "豹便利"}, "name": "豹便利"}
+{"text": "即利宝是一家互联网金融信息服务平台，2017年6月1日正式与海口联合农商银行签订银行存管，隶属于四川元通宝利网络科技有限公司。", "labels": [[6, 15, "domain"]], "meta": {"model_predict": 1, "name": "即利宝"}, "name": "即利宝"}
+{"text": "小丘机器人是一个主打AI（人工智能）的心理关怀师“机器人”，运用专业的知识和温暖的话语，陪你聊心事，给你快速的情绪帮助", "labels": [[19, 24, "service"]], "meta": {"model_predict": 1, "name": "小丘机器人"}, "name": "小丘机器人"}
+{"text": "北京陶阳之星科技有限公司旗下产品，此外还开发了暖丘、考拉山等。", "labels": [], "meta": {"model_predict": 1, "name": "小丘机器人"}, "name": "小丘机器人"}
+{"text": "菜到啦是一个平价生鲜食材供应商，整合线下菜场商户资源，让用户可以方便地通过手机下单。", "labels": [[6, 12, "service"], [18, 23, "service"]], "meta": {"model_predict": 1, "name": "菜到啦"}, "name": "菜到啦"}
+{"text": "车大大是一家汽车后市场O2O服务品牌，为车主提供汽车精洗、保养、美容等相关产品及服务，沈阳路野棕科技有限公司旗下产品。", "labels": [[6, 16, "domain"], [24, 28, "service"], [29, 31, "service"], [32, 34, "service"]], "meta": {"model_predict": 1, "name": "车大大"}, "name": "车大大"}
+{"text": "酷海淘是一个海淘代购网站，为用户提供一站式海外购物服务，北京酷海淘信息科技有限责任公司旗下网站。", "labels": [[18, 26, "service"]], "meta": {"model_predict": 1, "name": "酷海淘"}, "name": "酷海淘"}
+{"text": "舞吧是一个免费舞蹈教学分享平台，致力于为舞蹈爱好者提供不受时间、地点、费用、资源质量限制的在线舞蹈平台", "labels": [[6, 12, "domain"], [45, 49, "service"]], "meta": {"model_predict": 1, "name": "舞吧"}, "name": "舞吧"}
+{"text": "专门针对舞蹈零基础的用户，通过对用户意向的收集有针对性提供用户想要的舞蹈资源，隶属于指尖跳动（北京）科技有限公司。", "labels": [[4, 9, "service"], [34, 38, "service"]], "meta": {"model_predict": 1, "name": "舞吧"}, "name": "舞吧"}
+{"text": "一诺网是一家提供户外拓展训练服务的专业化平台，主要为企业、个人等的团队建设提供不同门类的专业化户外训练项目", "labels": [[8, 11, "domain"], [11, 16, "service"], [39, 42, "service"], [44, 50, "service"]], "meta": {"model_predict": 1, "name": "一诺网"}, "name": "一诺网"}
+{"text": "成都亿诺文化传播有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "一诺网"}, "name": "一诺网"}
+{"text": "知友是一个利用匹配引擎技术的大学生职业发展与招聘平台。自动匹配企业需求和学生经历和潜质。北京汉极科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "知友"}, "name": "知友"}
+{"text": "空天量子是一家致力于为青少年提供优质的VR教育辅助工具的公司，以助力青少年“德、智、体”全面发展为主旨", "labels": [[19, 27, "service"]], "meta": {"model_predict": 1, "name": "空天量子"}, "name": "空天量子"}
+{"text": "提供最优质的VR教育整体解决方案。", "labels": [[6, 16, "service"]], "meta": {"model_predict": 1, "name": "空天量子"}, "name": "空天量子"}
+{"text": "球迷邦是一个专注于足球的垂直移动社交应用，屹骋（上海）网络技术有限公司旗下产品。", "labels": [[12, 18, "domain"]], "meta": {"model_predict": 1, "name": "球迷邦"}, "name": "球迷邦"}
+{"text": "狂图动漫是一家专注于动画影视剧制作的公司。以“创意领先、服务领先”为理念，致力于开发具有中国文化特色的动画影视作品。", "labels": [[10, 16, "service"], [51, 57, "service"]], "meta": {"model_predict": 1, "name": "狂图动漫"}, "name": "狂图动漫"}
+{"text": "美味美礼是一款提供美食外卖和电影票务的线上预定以及就餐积分通兑的手机应用。北京美味美礼科技有限公司旗下产品。", "labels": [[9, 13, "service"], [14, 18, "service"], [25, 31, "service"], [32, 33, "domain"], [33, 34, "service"]], "meta": {"model_predict": 1, "name": "美味美礼"}, "name": "美味美礼"}
+{"text": "米线用车是一家主打境外接送机专车的服务平台，目前主要通过微信公共号mixianyongche提供服务。", "labels": [], "meta": {"model_predict": 1, "name": "米线用车"}, "name": "米线用车"}
+{"text": "爱贝科技是一家互联网教育公司，致力于0-14周岁中国儿童早期教育、艺体教育、亲子游乐、母婴产品等一切儿童需求", "labels": [[33, 37, "service"], [38, 42, "service"], [43, 47, "service"]], "meta": {"model_predict": 1, "name": "爱贝科技"}, "name": "爱贝科技"}
+{"text": "主要产品有爱贝《玩着学》，隶属于爱贝信息科技(上海)有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "爱贝科技"}, "name": "爱贝科技"}
+{"text": "雅堂小超是一个互联网社区超市连锁品牌", "labels": [[9, 11, "domain"]], "meta": {"model_predict": 1, "name": "雅堂小超"}, "name": "雅堂小超"}
+{"text": "其业务范围包含雅堂电商、雅堂金融、雅堂信息技术、雅堂支付、雅堂到家、盛世鸿雅、雅堂小超等七大分支业务", "labels": [[19, 23, "service"]], "meta": {"model_predict": 1, "name": "雅堂小超"}, "name": "雅堂小超"}
+{"text": "致力于打造以家具电商为核心打造家具产业链业务。", "labels": [], "meta": {"model_predict": 1, "name": "雅堂小超"}, "name": "雅堂小超"}
+{"text": "米金社是一个P2P借贷理财平台，围绕汽车金融上下游产业链，依托大数据和云计算", "labels": [[6, 13, "domain"], [18, 23, "domain"], [24, 25, "domain"], [35, 38, "service"]], "meta": {"model_predict": 1, "name": "米金社"}, "name": "米金社"}
+{"text": "以金融O2O的方式为中小企业和个人提供借贷信息中介与交易撮合服务，有闲置资金的用户可通过平台将资金出借给借款人或融资企业。", "labels": [[1, 6, "domain"], [19, 25, "service"], [26, 28, "service"], [50, 51, "domain"], [52, 55, "domain"], [56, 58, "domain"]], "meta": {"model_predict": 1, "name": "米金社"}, "name": "米金社"}
+{"text": "一会网是一个为企业提供有效的工具去更好的管理他们的商务会议的平台，致力于为商务会议的每一个环节提供可靠的系统资源", "labels": [[52, 56, "service"]], "meta": {"model_predict": 1, "name": "一会网"}, "name": "一会网"}
+{"text": "去优化他们的内部操作流程和外部的客户沟通，让他们准确地完成所有关键任务，为整个产业链带来更多的效率和价值", "labels": [], "meta": {"model_predict": 1, "name": "一会网"}, "name": "一会网"}
+{"text": "隶属于上海一会网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "一会网"}, "name": "一会网"}
+{"text": "直上是由新东方与ATA合资成立的职业教育产品，提供证券从业资格、期货从业资格、银行从业资格三个考试项目的服务", "labels": [[47, 51, "service"]], "meta": {"model_predict": 1, "name": "直上"}, "name": "直上"}
+{"text": "提供免费的模拟考试，用户可以直接针对所选择考试科目的知识点逐一进行免费练习，最终根据知识点练习结果", "labels": [[5, 9, "service"]], "meta": {"model_predict": 1, "name": "直上"}, "name": "直上"}
+{"text": "选择知识掌握存在问题的点进行单点课程购买。同时也提供视频课+练习的套餐。", "labels": [[13, 19, "service"], [26, 29, "service"]], "meta": {"model_predict": 1, "name": "直上"}, "name": "直上"}
+{"text": "绘本大王是一款儿童绘本有声故事及电子化阅读APP，隶属于珠海暴暴龙科技有限公司。", "labels": [[16, 24, "service"]], "meta": {"model_predict": 1, "name": "绘本大王"}, "name": "绘本大王"}
+{"text": "赏必应是一个基于共享经济的悬赏求助服务平台，用户上传求助，其他用户完成任务并领取悬赏。隶属于深圳市全民芯互动科技有限公司。", "labels": [[13, 17, "service"], [17, 19, "domain"]], "meta": {"model_predict": 1, "name": "赏必应"}, "name": "赏必应"}
+{"text": "翡冷翠材料是一家以高新材料科技为核心，专业从事创新型产品的开发、生产、销售以及技术服务的一体化企业", "labels": [[23, 28, "service"]], "meta": {"model_predict": 1, "name": "翡冷翠材料"}, "name": "翡冷翠材料"}
+{"text": "产品覆盖个人护理、化学原料、节能工程等。", "labels": [[9, 13, "service"]], "meta": {"model_predict": 1, "name": "翡冷翠材料"}, "name": "翡冷翠材料"}
+{"text": "小护师是一个一站式上门服务平台，主要针对亚健康人群，致力于为用户提供上门按摩服务", "labels": [[8, 12, "domain"], [36, 40, "service"]], "meta": {"model_predict": 1, "name": "小护师"}, "name": "小护师"}
+{"text": "用户可以在家里、办公室、咖啡厅等场所随时随地享受生活，隶属于北京普安微笑信息技术有限公司。", "labels": [[8, 11, "service"], [12, 15, "service"]], "meta": {"model_predict": 1, "name": "小护师"}, "name": "小护师"}
+{"text": "聚有钱理财是一款安全、高收益、低门槛的移动理财平台。阳光保险全程承保，隶属于聚有钱(北京)信息服务有限公司。", "labels": [[19, 24, "domain"], [26, 33, "service"]], "meta": {"model_predict": 1, "name": "聚有钱"}, "name": "聚有钱"}
+{"text": "岸木设计是一个工业设计平台，致力于智能产品、数码家电产品的设计，隶属于深圳市岸木工业设计有限公司。", "labels": [[7, 9, "domain"], [17, 21, "service"], [22, 28, "service"]], "meta": {"model_predict": 1, "name": "岸木设计"}, "name": "岸木设计"}
+{"text": "嘟嘟停车是一家互联网停车服务平台，通过改造停车场的形式来控制停车场的出入口，以获取车主用户数据，为公司汽车后服务市场建立数据库", "labels": [[7, 14, "domain"], [60, 63, "service"]], "meta": {"model_predict": 1, "name": "嘟嘟停车"}, "name": "嘟嘟停车"}
+{"text": "同时用数据重构汽车后服务行业的商业模式，调整产业结构和产品流通形态，为车主提供后市场增值服务。", "labels": [[3, 12, "service"], [39, 46, "service"]], "meta": {"model_predict": 1, "name": "嘟嘟停车"}, "name": "嘟嘟停车"}
+{"text": "智能万事屋是一款基于人工智能的个人生活助理App，向客服机器人说出自己的需求，从而抓取用户的需求，再匹配服务", "labels": [[18, 19, "domain"], [25, 30, "service"], [49, 54, "service"]], "meta": {"model_predict": 1, "name": "智能万事屋"}, "name": "智能万事屋"}
+{"text": "也可以发布自己的技能或服务，帮助他人。隶属于上海数朋网络科技有限公司", "labels": [[11, 13, "service"]], "meta": {"model_predict": 1, "name": "智能万事屋"}, "name": "智能万事屋"}
+{"text": "选牛网是一家互联网投资理财网站", "labels": [], "meta": {"model_predict": 1, "name": "选牛网络"}, "name": "选牛网络"}
+{"text": "向用户提供私募基金、公募基金、银行理财、互联网P2P理财、港股、美股、期货、贵金属、外汇等投资类理财产品的投资管理及在线交易服务", "labels": [[15, 16, "domain"], [16, 19, "service"], [20, 28, "service"], [32, 34, "service"], [35, 37, "service"], [38, 41, "service"], [42, 44, "service"], [45, 52, "service"], [53, 57, "service"], [58, 64, "service"]], "meta": {"model_predict": 1, "name": "选牛网络"}, "name": "选牛网络"}
+{"text": "大师之味是一个外卖平台，服务于追求高品质生活、高度关注个人健康的人群，隶属于北京小食厚餐饮管理有限公司。", "labels": [[7, 11, "domain"], [28, 31, "service"]], "meta": {"model_predict": 1, "name": "大师之味"}, "name": "大师之味"}
+{"text": "无人机基地是一个无人机玩家社区，发起好玩的无人机活动，分享无人机教程和知识，一站购买无人机整机和配件工具", "labels": [[21, 25, "service"], [29, 34, "service"], [40, 47, "service"], [48, 52, "service"]], "meta": {"model_predict": 1, "name": "无人机基地"}, "name": "无人机基地"}
+{"text": "无人机基地由江苏速趣信息科技有限公司发起。", "labels": [], "meta": {"model_predict": 1, "name": "无人机基地"}, "name": "无人机基地"}
+{"text": "小芽科技是一个机器人及其零件销售平台，致力于致力于中国机器人的发展，特别是在教育领域，隶属于北京小芽科技有限公司。", "labels": [[39, 40, "domain"]], "meta": {"model_predict": 1, "name": "小芽科技"}, "name": "小芽科技"}
+{"text": "北冥鱼科技是一家手机H5游戏研发商，负责对游戏内的界面、ICON等进行相关设计，将策划原画原型转化为实际的游戏DEMO", "labels": [[8, 14, "domain"], [28, 32, "service"], [53, 59, "service"]], "meta": {"model_predict": 1, "name": "北冥鱼游戏"}, "name": "北冥鱼游戏"}
+{"text": "致力于为手游玩家提供游戏作品。", "labels": [[10, 14, "service"]], "meta": {"model_predict": 1, "name": "北冥鱼游戏"}, "name": "北冥鱼游戏"}
+{"text": "阿呀学语是一个中文-韩语的语言培训平台，致力于搭建一个让大家可以在线快速找到可以交流韩语的韩国人、朝鲜族或者韩语老师的平台", "labels": [[13, 17, "domain"]], "meta": {"model_predict": 1, "name": "阿呀学语"}, "name": "阿呀学语"}
+{"text": "隶属于深圳市阿呀学语网络有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "阿呀学语"}, "name": "阿呀学语"}
+{"text": "阿诺传奇是一个健康食品提供商，致力于微笑曲线两端，以“原瓶进口——直营销售”的经营模式", "labels": [[7, 11, "domain"], [18, 22, "service"]], "meta": {"model_predict": 1, "name": "阿诺传奇"}, "name": "阿诺传奇"}
+{"text": "建立从源头供应到终端客户的一体化最短供应链，隶属于宁波阿诺传奇生物科技有限公司。", "labels": [[3, 5, "service"]], "meta": {"model_predict": 1, "name": "阿诺传奇"}, "name": "阿诺传奇"}

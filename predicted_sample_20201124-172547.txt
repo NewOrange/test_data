@@ -1,0 +1,100 @@
+{"text": "方便用户自我调养。未来还会针对个人体质检测结果，提供特色化的药食同源中草材选购服务。", "labels": [[30, 39, "service"]], "meta": {"model_predict": 1, "name": "中医宝"}, "name": "中医宝"}
+{"text": "蝉游记是一个结构化的旅游分享应用，提供景点游记、攻略等，上海蝉翼网络科技有限公司旗下。", "labels": [[10, 16, "domain"], [22, 23, "service"], [25, 26, "service"]], "meta": {"model_predict": 1, "name": "蝉游记"}, "name": "蝉游记"}
+{"text": "乐知英语(Hiknow)是一家在线英语培训机构，专注于为企业和个人提供专业的语言培训课程服务及解决方案。", "labels": [[16, 17, "service"], [17, 18, "domain"], [18, 19, "service"], [19, 22, "domain"], [38, 46, "service"], [48, 51, "service"]], "meta": {"model_predict": 1, "name": "乐知英语"}, "name": "乐知英语"}
+{"text": "异地家教网专注于网上中小学线上辅导服务", "labels": [[9, 10, "domain"], [10, 12, "service"], [13, 16, "service"]], "meta": {"model_predict": 1, "name": "异地家教网"}, "name": "异地家教网"}
+{"text": "面向全国中小学生提供一线教师、名师专家、北大清华等名校生网上互动一对一教学、答疑、励志等服务。", "labels": [[31, 32, "service"], [41, 43, "service"]], "meta": {"model_predict": 1, "name": "异地家教网"}, "name": "异地家教网"}
+{"text": "隶属于北京网拓佳育教育科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "异地家教网"}, "name": "异地家教网"}
+{"text": "陪读网是一个网络家教服务平台，面向K12阶段学生提供真人实时互动教学平台，隶属于北京网拓佳育教育科技有限公司（易第教育）。", "labels": [[6, 12, "domain"], [30, 33, "service"], [55, 56, "domain"], [57, 59, "domain"]], "meta": {"model_predict": 1, "name": "陪读网"}, "name": "陪读网"}
+{"text": "苏州赛富科技是一家供应链管理服务商，旗下有“一号链”分销平台，提供覆盖全国的商超、卖场、批发渠道的一站式供应链分销整合服务", "labels": [[10, 11, "domain"], [12, 13, "domain"], [13, 14, "service"], [54, 55, "service"], [56, 57, "service"]], "meta": {"model_predict": 1, "name": "赛富科技"}, "name": "赛富科技"}
+{"text": "为企业提供采销外包、渠道倍增、分销金融等服务。", "labels": [[5, 9, "service"], [10, 14, "service"], [15, 19, "service"]], "meta": {"model_predict": 1, "name": "赛富科技"}, "name": "赛富科技"}
+{"text": "人人红娘隶属于北京小甜米科技有限公司，是一款基于二度人脉的半熟人间的相亲app。把线下熟人介绍的相亲搬到线上", "labels": [[24, 25, "domain"], [25, 26, "service"], [26, 27, "domain"], [27, 28, "service"], [38, 39, "service"], [40, 46, "service"]], "meta": {"model_predict": 1, "name": "人人红娘"}, "name": "人人红娘"}
+{"text": "同时引入人人都是红娘的概念，打造红娘共享经济，让相亲变得更加安全、靠谱！", "labels": [], "meta": {"model_predict": 1, "name": "人人红娘"}, "name": "人人红娘"}
+{"text": "繁星优选是一家提出永远不卖广告位的社群电商平台，主打网红电商模式，打造了五岳散人、王小山、急诊室女超人于莺等名人电商。", "labels": [[17, 18, "domain"]], "meta": {"model_predict": 1, "name": "繁星优选"}, "name": "繁星优选"}
+{"text": "未来星是一个O2O教学平台，专注于K12教育的发展，业务涵盖智力开发、素质教育、培养自适应学习能力等领域", "labels": [[6, 11, "domain"], [18, 22, "service"], [30, 34, "service"], [35, 37, "service"], [37, 38, "domain"], [38, 39, "service"], [40, 44, "domain"], [44, 45, "service"]], "meta": {"model_predict": 1, "name": "未来星"}, "name": "未来星"}
+{"text": "致力于为学生提供教育信息咨询服务并构建家园互动平台。", "labels": [[8, 14, "service"], [15, 16, "service"], [20, 23, "service"]], "meta": {"model_predict": 1, "name": "未来星"}, "name": "未来星"}
+{"text": "健康猫是一个基于地理位置的运动社交平台，提供教练预约和课程预订服务，广州大象健康科技有限公司旗下产品。", "labels": [[14, 17, "domain"], [23, 24, "domain"], [24, 26, "service"], [27, 33, "service"]], "meta": {"model_predict": 1, "name": "健康猫"}, "name": "健康猫"}
+{"text": "鼎家网络致力发展成为一家C2B2C的品牌长租公寓运营商", "labels": [], "meta": {"model_predict": 1, "name": "鼎家网络"}, "name": "鼎家网络"}
+{"text": "营业务包括：分散式长租公寓、集中式长租公寓、“鼎寓”创业平台、金融产品以及电商商城", "labels": [[31, 32, "service"]], "meta": {"model_predict": 1, "name": "鼎家网络"}, "name": "鼎家网络"}
+{"text": "将传统的包租业务转化成具有“产品标准化、服务品质化、管理系统化、运营规模化”的长租公寓运营体系，是国内领先的网络信息技术", "labels": [[4, 12, "service"], [20, 22, "service"], [26, 28, "service"], [29, 30, "service"], [54, 56, "service"], [56, 60, "domain"]], "meta": {"model_predict": 1, "name": "鼎家网络"}, "name": "鼎家网络"}
+{"text": "从事房地产中介服务、房屋租赁、房屋买租、房地产信息咨询运营商。", "labels": [[2, 9, "service"], [10, 14, "service"], [15, 19, "service"], [20, 27, "service"]], "meta": {"model_predict": 1, "name": "鼎家网络"}, "name": "鼎家网络"}
+{"text": "远程视界是一家医疗健康企业，专注于专科远程医疗联合体的O2O平台，致力于打造专业的医院管理运营平台和专科远程医疗运营机构。", "labels": [[7, 11, "domain"], [19, 25, "domain"], [27, 29, "domain"], [29, 30, "service"], [41, 43, "service"], [43, 46, "domain"], [53, 57, "domain"]], "meta": {"model_predict": 1, "name": "远程视界"}, "name": "远程视界"}
+{"text": "瀑布协作是一个内测中的协作办公平台，主打“改变，从一句话开始”，目前正在内测中旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "瀑布协作"}, "name": "瀑布协作"}
+{"text": "邻家便利店隶属于邻里家（北京）商贸有限公司，公司成立于2015年5月5日。首期注册资金1亿元，以开设24小时营业的便利店为主", "labels": [], "meta": {"model_predict": 1, "name": "邻家便利店"}, "name": "邻家便利店"}
+{"text": "引进先进便利商店管理模式进入北京市场，力求为顾客提供优质、安全的服务和商品，是一家年轻且富有活力的企业", "labels": [], "meta": {"model_predict": 1, "name": "邻家便利店"}, "name": "邻家便利店"}
+{"text": "公司成立时就以自营便利店为主要经营方式。截止目前，邻家便利店已开业近80家，正步入快速成长期，全力扩大开店数量", "labels": [], "meta": {"model_predict": 1, "name": "邻家便利店"}, "name": "邻家便利店"}
+{"text": "不断壮大规模和完善企业管理制度，致力于提高服务质量，力争发展成为全国有影响的连锁便利店。", "labels": [], "meta": {"model_predict": 1, "name": "邻家便利店"}, "name": "邻家便利店"}
+{"text": "融数金服是一家专业账户托管，个性化金融解决方案提供商，基于用户多维度的数据源的场景支付和数据分析", "labels": [[16, 22, "service"], [35, 38, "service"], [40, 41, "service"], [42, 43, "service"], [44, 48, "service"]], "meta": {"model_predict": 1, "name": "融数金服"}, "name": "融数金服"}
+{"text": "对客户形成即时、主动、快捷的审核后，帮助客户获得与征信结果相对应的贷款的新型金融服务。", "labels": [[6, 7, "service"], [33, 34, "service"], [36, 37, "domain"], [38, 42, "domain"]], "meta": {"model_predict": 1, "name": "融数金服"}, "name": "融数金服"}
+{"text": "爱钱帮是一家在线理财借贷平台。用户可以在平台上挑选适合自己的理财平台，进行投资，也可以通过投资等赚取的钱帮币", "labels": [[7, 9, "domain"], [9, 10, "service"], [10, 11, "domain"], [11, 12, "service"], [30, 34, "service"], [35, 37, "service"], [37, 39, "service"], [46, 47, "service"], [53, 54, "service"]], "meta": {"model_predict": 1, "name": "爱钱帮"}, "name": "爱钱帮"}
+{"text": "在会员商城板块进行产品抽奖兑换服务。用户也可以通过抵押、质押等方式获得贷款服务。", "labels": [[4, 17, "service"], [26, 27, "service"], [29, 30, "service"], [35, 37, "service"]], "meta": {"model_predict": 1, "name": "爱钱帮"}, "name": "爱钱帮"}
+{"text": "利利金服是一家在线网络借贷信息中介平台，隶属于瑧盈(北京)资产管理有限公司。", "labels": [[9, 16, "domain"], [16, 17, "service"]], "meta": {"model_predict": 1, "name": "利利金服"}, "name": "利利金服"}
+{"text": "上海永利宝金融是一家P2P借贷服务平台，主要撮合中低风险与中等回报的投资交易，并引入各类小贷、典当、担保、投资公司作为保证人", "labels": [[10, 17, "domain"]], "meta": {"model_predict": 1, "name": "永利宝"}, "name": "永利宝"}
+{"text": "以降低项目还款风险。", "labels": [], "meta": {"model_predict": 1, "name": "永利宝"}, "name": "永利宝"}
+{"text": "金银猫是一家专业的网络借贷信息中介平台，致力于为有融资需求的中小企业提供高效、便捷的互联网金融服务", "labels": [[9, 17, "domain"], [42, 49, "service"]], "meta": {"model_predict": 1, "name": "金银猫"}, "name": "金银猫"}
+{"text": "同时为广大投资者提供稳健的一站式财富管理服务。", "labels": [[13, 20, "service"]], "meta": {"model_predict": 1, "name": "金银猫"}, "name": "金银猫"}
+{"text": "聚财猫是一个P2P理财平台，通过与第三方支付公司和平安保险公司合作，保证客户的理财资金不被盗用", "labels": [[6, 13, "domain"]], "meta": {"model_predict": 1, "name": "聚财猫"}, "name": "聚财猫"}
+{"text": "业务主要覆盖不良资产、应收账款保理业务、汽车金融业务、房贷四大类资产。", "labels": [[6, 9, "service"], [11, 19, "service"], [20, 26, "service"], [27, 31, "service"]], "meta": {"model_predict": 1, "name": "聚财猫"}, "name": "聚财猫"}
+{"text": "利民网是一家互联网金融信息服务平台，业务内容包括金融信息咨询、受托资产管理、投资管理、股权投资、投资咨询等", "labels": [[6, 15, "domain"], [24, 30, "service"], [31, 37, "service"], [38, 42, "service"], [43, 47, "service"], [48, 52, "service"]], "meta": {"model_predict": 1, "name": "利民网"}, "name": "利民网"}
+{"text": "致力于推动普惠金融事业的发展，为用户提供高效的互联网金融信息服务。", "labels": [[4, 10, "domain"], [23, 32, "service"]], "meta": {"model_predict": 1, "name": "利民网"}, "name": "利民网"}
+{"text": "银豆网（www.yindou.com）成立于2013年9月，注册资金8000万元人民币，总部位于北京。2014年2月", "labels": [], "meta": {"model_predict": 1, "name": "银豆网"}, "name": "银豆网"}
+{"text": "银豆网正式上线运营。2014年9月，银豆网完成由联想之星领投的千万元A轮融资。2016年4月", "labels": [[0, 4, "service"]], "meta": {"model_predict": 1, "name": "银豆网"}, "name": "银豆网"}
+{"text": "北京华信电子企业集团战略入股银豆网。银豆网所有用户资金均由江西银行存管。", "labels": [], "meta": {"model_predict": 1, "name": "银豆网"}, "name": "银豆网"}
+{"text": "君融贷是一个P2P网贷平台，以专业的银行金融服务经验和创新的互联网思维，致力于打造一个多方共赢的生态体系：一方面", "labels": [[1, 2, "domain"], [2, 3, "service"], [6, 7, "domain"], [7, 8, "service"], [8, 9, "domain"], [9, 10, "service"], [10, 11, "domain"], [11, 12, "service"], [19, 20, "domain"], [20, 21, "service"]], "meta": {"model_predict": 1, "name": "君融贷"}, "name": "君融贷"}
+{"text": "借款者能够快捷、低成本地获得融资，其中的小微企业有机会获得更多资源。", "labels": [], "meta": {"model_predict": 1, "name": "君融贷"}, "name": "君融贷"}
+{"text": "成都雅堂金融信息服务股份有限公司定位为雅堂电商供应链金融平台，专注家具产业链细分领域", "labels": [[21, 22, "domain"], [27, 28, "service"]], "meta": {"model_predict": 1, "name": "雅堂金融"}, "name": "雅堂金融"}
+{"text": "为雅堂电商家具产业链提供专业、可持续的金融服务。雅堂金融坚持以国家政策为导向，建立了服务家具电商与实体的多层次金融服务体系", "labels": [[19, 22, "service"], [42, 43, "domain"], [53, 54, "service"], [55, 57, "service"]], "meta": {"model_predict": 1, "name": "雅堂金融"}, "name": "雅堂金融"}
+{"text": "不断拓展雅堂家具电商供应链业务，为家具厂商、品牌商和消费者提供金融服务，以供应链金融打通雅堂家具电商上、中、下游环节", "labels": [[8, 12, "domain"], [12, 13, "service"], [14, 15, "service"], [31, 34, "service"]], "meta": {"model_predict": 1, "name": "雅堂金融"}, "name": "雅堂金融"}
+{"text": "重塑产业结构，是雅堂家具电商线上金融服务体系的主体。", "labels": [[12, 15, "domain"]], "meta": {"model_predict": 1, "name": "雅堂金融"}, "name": "雅堂金融"}
+{"text": "乐居财富是一个网络借贷信息中介服务平台，基于自有的风险管控及监管体系", "labels": [[7, 17, "domain"], [25, 29, "service"]], "meta": {"model_predict": 1, "name": "乐居财富"}, "name": "乐居财富"}
+{"text": "致力于为用户提供提供资信评估、信息交互、借贷撮合等系列服务，旨在通过连接投资者与借贷者", "labels": [[10, 14, "service"], [15, 19, "service"], [20, 24, "service"]], "meta": {"model_predict": 1, "name": "乐居财富"}, "name": "乐居财富"}
+{"text": "满足个人及企业用户短期资金需求与投资需要。", "labels": [], "meta": {"model_predict": 1, "name": "乐居财富"}, "name": "乐居财富"}
+{"text": "唐小僧理财是一家金融信息平台，为用户提供包含购物、学习、教育、聚会、旅游等多元化消费金融信息服务", "labels": [[8, 13, "domain"], [20, 22, "service"], [22, 24, "service"], [26, 27, "service"], [28, 30, "service"], [31, 33, "service"], [34, 36, "service"], [40, 41, "service"], [41, 42, "domain"], [42, 43, "service"], [43, 44, "domain"], [44, 45, "service"]], "meta": {"model_predict": 1, "name": "唐小僧理财"}, "name": "唐小僧理财"}
+{"text": "隶属于资邦元达（上海）互联网金融信息服务有限公司。", "labels": [[12, 17, "domain"]], "meta": {"model_predict": 1, "name": "唐小僧理财"}, "name": "唐小僧理财"}
+{"text": "投之家是一个p2p网贷垂直搜索引擎，旨在通过严格的风控管理和创新的互联网技术让用户的p2p网贷投资理财变得简单、便捷", "labels": [[9, 10, "domain"], [10, 11, "service"], [33, 38, "domain"], [42, 51, "service"]], "meta": {"model_predict": 1, "name": "投之家"}, "name": "投之家"}
+{"text": "上海盈灿商务咨询有限公司（网贷之家）旗下网站。", "labels": [[3, 4, "service"]], "meta": {"model_predict": 1, "name": "投之家"}, "name": "投之家"}
+{"text": "一财金融是一家以金融机构为背景，服务医药健康产业的专业互联网金融服务平台", "labels": [[8, 12, "domain"], [18, 24, "domain"], [27, 34, "domain"]], "meta": {"model_predict": 1, "name": "一财金融"}, "name": "一财金融"}
+{"text": "针对优质中小医药企业、医院、制药厂家以及服务于医药健康产业的个人诚信客户，而创建的互联网金融服务平台。", "labels": [[6, 7, "domain"], [7, 8, "service"], [15, 16, "domain"], [16, 18, "service"], [23, 26, "domain"], [26, 27, "service"], [41, 48, "domain"]], "meta": {"model_predict": 1, "name": "一财金融"}, "name": "一财金融"}
+{"text": "汇通易贷是一家P2P平台，平台平稳运营超过6年，见证了中国互联网金融创新的发展历程", "labels": [[1, 4, "domain"], [7, 12, "domain"]], "meta": {"model_predict": 1, "name": "汇通易贷"}, "name": "汇通易贷"}
+{"text": "先后获得“企业信用评价A级信用企业”、“诚信网站认证书”、“广东互联网金融协会副会长兼监事单位”等荣誉。", "labels": [], "meta": {"model_predict": 1, "name": "汇通易贷"}, "name": "汇通易贷"}
+{"text": "合力贷是一家SAAS化O2O模式的网络借贷云平台，以先进的SAAS化技术服务合作伙伴，通过专业的风控手段", "labels": [[17, 18, "domain"], [19, 23, "domain"]], "meta": {"model_predict": 1, "name": "合力贷"}, "name": "合力贷"}
+{"text": "将网络交易的优势和传统的风险控制进行有机结合，实现借贷风险的过程化管理和控制", "labels": [[1, 2, "domain"], [2, 3, "service"], [26, 27, "domain"], [27, 29, "service"], [31, 32, "service"]], "meta": {"model_predict": 1, "name": "合力贷"}, "name": "合力贷"}
+{"text": "为合格投资人及机构与分散在全国各地由当地合作授权机构监管的小微企业等借款人提供交易信息服务。", "labels": [[39, 41, "service"], [41, 42, "domain"], [42, 43, "service"]], "meta": {"model_predict": 1, "name": "合力贷"}, "name": "合力贷"}
+{"text": "石头理财是一个互联网理财平台，产品线覆盖了从大宗贸易、实物质押、股票配资、基金领域", "labels": [[7, 12, "domain"], [28, 31, "domain"], [32, 36, "domain"], [37, 39, "domain"]], "meta": {"model_predict": 1, "name": "石头理财"}, "name": "石头理财"}
+{"text": "主要产品有债券投融资类、公募基金理财产品两大类。", "labels": [[15, 16, "domain"], [16, 17, "service"]], "meta": {"model_predict": 1, "name": "石头理财"}, "name": "石头理财"}
+{"text": "天天财富网是一家主打P2P模式的互联网金融服务平台，帮助客户获得融资借款，或通过自主出借获得稳定收益", "labels": [[11, 15, "domain"], [16, 23, "domain"], [32, 35, "domain"], [35, 36, "service"]], "meta": {"model_predict": 1, "name": "天天财富"}, "name": "天天财富"}
+{"text": "广东天天财富股份有限公司旗下网站。", "labels": [], "meta": {"model_predict": 1, "name": "天天财富"}, "name": "天天财富"}
+{"text": "多融财富是一家专注过期供应链金融的互联网金融公司，背靠大型国有企业，以银行承兑汇票、知名国企商票为主营业务", "labels": [[13, 14, "domain"], [14, 15, "service"], [17, 18, "domain"], [46, 48, "service"]], "meta": {"model_predict": 1, "name": "多融财富"}, "name": "多融财富"}
+{"text": "为投资者提供票据安选、票据优选等投资品，隶属于上海银砖金融信息服务有限公司。", "labels": [[6, 10, "service"], [11, 15, "service"], [16, 19, "service"], [25, 29, "service"]], "meta": {"model_predict": 1, "name": "多融财富"}, "name": "多融财富"}
+{"text": "贝米钱包是一个互联网理财产品，专注于安全、便捷与高收益的平衡创新。支持100元起投、T+0实时赎回、100%保本保息", "labels": [[7, 9, "domain"], [9, 10, "service"], [10, 11, "domain"], [11, 12, "service"]], "meta": {"model_predict": 1, "name": "贝米钱包"}, "name": "贝米钱包"}
+{"text": "并在余额宝体验之上，独创分红收益模块。团队成员为金融及互联网领域资深人士，来自腾讯、摩根大通（JP", "labels": [[24, 25, "domain"], [27, 30, "domain"]], "meta": {"model_predict": 1, "name": "贝米钱包"}, "name": "贝米钱包"}
+{"text": "Morgan）、摩根士丹利（MorganStanley）等行业顶级机构，风控团队曾管理国内近两年收益排名第一的私募基金。", "labels": [], "meta": {"model_predict": 1, "name": "贝米钱包"}, "name": "贝米钱包"}
+{"text": "银狐财富是中房集团下属成员单位，是具有国资背景的互联网理财平台，专注于企业供应链融资业务。", "labels": [[24, 29, "domain"], [36, 38, "domain"], [38, 44, "service"]], "meta": {"model_predict": 1, "name": "银狐财富"}, "name": "银狐财富"}
+{"text": "蜂硕金融是一个创新型“P+N”模式投资理财平台，通过互联网、移动互联网和大数据技术为客户提供安全便捷的个人借款与理财咨询服务。", "labels": [[13, 14, "service"], [16, 17, "service"], [17, 19, "service"], [19, 20, "domain"], [20, 21, "service"], [30, 31, "domain"], [37, 38, "domain"], [38, 39, "service"], [51, 56, "service"], [56, 60, "service"]], "meta": {"model_predict": 1, "name": "蜂硕金融"}, "name": "蜂硕金融"}
+{"text": "聚胜财富是一家国资控股互联网金融信息平台。以实业投资，资产管理，投资咨询为主，为个人和中小企业提供理财服务以及贷款融资服务。", "labels": [[9, 18, "domain"], [27, 28, "service"], [32, 35, "service"], [49, 53, "service"], [55, 61, "service"]], "meta": {"model_predict": 1, "name": "聚胜财富"}, "name": "聚胜财富"}
+{"text": "众贷汇是一家提供金融，法律服务的综合服务型企业。公司为资金出借、客户提供借款、客户的资质评估、借款用途、法律咨询等全方位服务", "labels": [[8, 10, "domain"], [11, 12, "domain"], [16, 20, "domain"], [36, 38, "service"], [42, 46, "service"], [47, 51, "service"], [52, 56, "service"]], "meta": {"model_predict": 1, "name": "众贷汇"}, "name": "众贷汇"}
+{"text": "致力于为微型企业、个人及互联网用户提供网上借款和网上理财的服务", "labels": [[21, 23, "service"], [24, 28, "service"], [30, 31, "service"]], "meta": {"model_predict": 1, "name": "众贷汇"}, "name": "众贷汇"}
+{"text": "是深圳巨尊互联网金融服务有限公司、重庆通隆广电子商务有限公司旗下共有的服务平台。", "labels": [], "meta": {"model_predict": 1, "name": "众贷汇"}, "name": "众贷汇"}
+{"text": "智慧财神是一个中小企业信用借贷平台。专注于互联网金融信息服务，本着专业、高效、融合、创新的服务理念，致力于信息和资源的有效链接", "labels": [[12, 15, "domain"], [21, 28, "domain"]], "meta": {"model_predict": 1, "name": "智慧财神"}, "name": "智慧财神"}
+{"text": "为借款人提供低成本、高效率的融资服务，为投资人提供低风险、高回报的理财服务。", "labels": [[14, 17, "service"], [33, 37, "service"]], "meta": {"model_predict": 1, "name": "智慧财神"}, "name": "智慧财神"}
+{"text": "微米在线是一家互联网票据平台，专注于银行承兑汇票为主的低风险金融资产投资理财的细分市场", "labels": [[8, 12, "domain"], [30, 33, "domain"]], "meta": {"model_predict": 1, "name": "微米在线"}, "name": "微米在线"}
+{"text": "致力于为企业及个人打造票据融资、票据理财的服务平台，隶属于杭州昊晟科技有限公司。", "labels": [[11, 12, "domain"], [12, 13, "service"], [13, 14, "domain"], [14, 15, "service"], [16, 20, "service"], [21, 23, "service"]], "meta": {"model_predict": 1, "name": "微米在线"}, "name": "微米在线"}
+{"text": "投融家是一个基于互联网技术为用户提供多样化资产配置的综合互联网理财服务平台，公司以依法合规、安全透明为原则", "labels": [[8, 11, "domain"], [28, 33, "domain"]], "meta": {"model_predict": 1, "name": "投融家"}, "name": "投融家"}
+{"text": "秉持金融创新、普惠大众的理念，打造全新先进的综合理财模式。", "labels": [[22, 24, "service"], [25, 26, "domain"]], "meta": {"model_predict": 1, "name": "投融家"}, "name": "投融家"}
+{"text": "钱爸爸金融是一家专业财富管理机构，致力于以互联网金融为依托、以严谨的风险管控体系为基础，以财富管理、财智教育为主营业务", "labels": [[10, 11, "domain"], [34, 35, "service"], [36, 37, "service"], [45, 46, "service"], [50, 52, "service"], [52, 54, "domain"]], "meta": {"model_predict": 1, "name": "钱爸爸"}, "name": "钱爸爸"}
+{"text": "是目前国内为数不多的体系健全、风控严谨、模式新颖的机构。", "labels": [], "meta": {"model_predict": 1, "name": "钱爸爸"}, "name": "钱爸爸"}
+{"text": "点滴身边网络技术(北京)有限公司，总部位于北京CBD万通中心，是一家高效、透明、安全的互联网金融服务平台", "labels": [[43, 50, "domain"]], "meta": {"model_predict": 1, "name": "点滴身边"}, "name": "点滴身边"}
+{"text": "点滴身边坚持以技术和创新为驱动力，运用大数据、云计算及系统加密等技术，并与国内一线O2O平台深度合作", "labels": [[23, 27, "service"], [27, 31, "service"]], "meta": {"model_predict": 1, "name": "点滴身边"}, "name": "点滴身边"}
+{"text": "凭借稳健的商业模式和领先的技术能力，为投融资用户提供最安全、高效的场景化互联网金融服务。", "labels": [[36, 37, "service"], [37, 38, "domain"], [38, 39, "service"], [39, 40, "domain"], [40, 41, "service"]], "meta": {"model_predict": 1, "name": "点滴身边"}, "name": "点滴身边"}
+{"text": "多多理财是一个互联网理财平台，为广大企业与个人提供安全、专业、高效的理财产品服务及投融资顾问服务，运用金融大数据分析", "labels": [[7, 14, "domain"], [34, 40, "service"], [41, 48, "service"], [52, 53, "service"], [54, 58, "service"]], "meta": {"model_predict": 1, "name": "多多理财"}, "name": "多多理财"}
+{"text": "旨在打造一个为借款人与投资人同时提供安全便捷的资金对接信息平台。", "labels": [[7, 8, "domain"], [23, 25, "service"], [26, 29, "service"]], "meta": {"model_predict": 1, "name": "多多理财"}, "name": "多多理财"}
+{"text": "祺天优贷隶属于浙江广众金融服务外包有限公司，是一个互联网金融理财平台", "labels": [[1, 2, "service"], [3, 4, "service"], [25, 32, "domain"]], "meta": {"model_predict": 1, "name": "祺天优贷"}, "name": "祺天优贷"}
+{"text": "主要服务包括：为投资人提供安全、便捷、高收益的投资及理财产品，为企业及个人提供直接融资服务", "labels": [[23, 25, "service"], [26, 30, "service"], [39, 45, "service"]], "meta": {"model_predict": 1, "name": "祺天优贷"}, "name": "祺天优贷"}
+{"text": "为金融机构或类金融机构提供各类基于收益权转让和直接融资(居间)撮合服务。", "labels": [[1, 3, "domain"], [3, 4, "service"]], "meta": {"model_predict": 1, "name": "祺天优贷"}, "name": "祺天优贷"}
+{"text": "玺喜网是一家专注于文化艺术垂直领域的科技金融服务平台。自2014年成立以来", "labels": [[9, 15, "domain"], [18, 24, "domain"]], "meta": {"model_predict": 1, "name": "玺鉴"}, "name": "玺鉴"}
+{"text": "以解决艺术品市场“难辨真假、难以估值、难以变现”的三大痛点为出发点", "labels": [[4, 6, "service"]], "meta": {"model_predict": 1, "name": "玺鉴"}, "name": "玺鉴"}
+{"text": "致力于通过“科技＋金融”的服务能力提升传统文化艺术品投融资效率", "labels": [[22, 23, "domain"], [23, 24, "service"], [24, 25, "domain"], [25, 26, "service"]], "meta": {"model_predict": 1, "name": "玺鉴"}, "name": "玺鉴"}
+{"text": "更好的满足艺术品藏家短期的融资需求、降低普通大众对艺术品金融投资的门槛。", "labels": [[25, 32, "domain"]], "meta": {"model_predict": 1, "name": "玺鉴"}, "name": "玺鉴"}
+{"text": "云端金融是一家专注于超短期理财的财富管理平台，致力于为个体消费者、个体经营者、小微企业提供网络借贷信息中介服务", "labels": [[11, 15, "domain"], [16, 17, "domain"], [45, 55, "service"]], "meta": {"model_predict": 1, "name": "云端金融"}, "name": "云端金融"}
+{"text": "提供安全可靠、真实透明、便捷优质的贸易类融资项目。", "labels": [[7, 8, "service"], [9, 10, "service"], [17, 19, "service"], [21, 22, "service"]], "meta": {"model_predict": 1, "name": "云端金融"}, "name": "云端金融"}
+{"text": "佐助金服是一家提供金融理财投资服务的公司，为企业提供小额贷款、投融资管理、理财服务等", "labels": [[9, 15, "domain"], [15, 16, "service"], [26, 30, "service"], [31, 36, "service"], [37, 41, "service"]], "meta": {"model_predict": 1, "name": "佐助金服"}, "name": "佐助金服"}
+{"text": "开发了综合性互联网理财服务平台牛板金等金融产品，致力于为企业提供咨询服务与解决方案，推动金融行业的发展。", "labels": [[6, 15, "domain"], [15, 16, "domain"], [17, 18, "domain"], [19, 23, "domain"], [32, 36, "service"], [37, 41, "service"], [43, 44, "domain"], [44, 45, "service"], [45, 46, "domain"], [46, 47, "service"]], "meta": {"model_predict": 1, "name": "佐助金服"}, "name": "佐助金服"}

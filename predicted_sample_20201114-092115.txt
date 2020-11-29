@@ -1,0 +1,100 @@
+{"text": "使网站拥有永久的跨屏幕性能，不依赖第三方。", "labels": [], "meta": {"model_predict": 1, "name": "跨无忧"}, "name": "跨无忧"}
+{"text": "壹亩良田是一家专注于农业众筹的服务网站，提供有机农产品众筹服务，隶属于无锡康曦健康管理咨询有限公司。", "labels": [[11, 12, "domain"], [22, 28, "service"]], "meta": {"model_predict": 1, "name": "壹亩良田"}, "name": "壹亩良田"}
+{"text": "笑心盒子，让打拼的年轻人更好的尽孝。", "labels": [[0, 2, "service"]], "meta": {"model_predict": 1, "name": "笑心盒子"}, "name": "笑心盒子"}
+{"text": "多金网是一家专注于互联网金融领域的新媒体网站。", "labels": [[9, 14, "domain"], [18, 19, "domain"]], "meta": {"model_predict": 1, "name": "多金网"}, "name": "多金网"}
+{"text": "要嘛网络是一个兼职和自由职业工作者平台，西安摇嘛网络科技有限公司旗下网站。", "labels": [], "meta": {"model_predict": 1, "name": "要嘛网络"}, "name": "要嘛网络"}
+{"text": "拍拍酱是一家C2C直播购物平台，为全球用户提供一个边看直播边购物的全新平台，支持用户一键生成产品，在直播过程中用户完成下单购买", "labels": [[7, 8, "domain"], [9, 12, "domain"], [27, 28, "service"], [28, 29, "domain"]], "meta": {"model_predict": 1, "name": "拍拍酱"}, "name": "拍拍酱"}
+{"text": "北京拍店电子商务有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "拍拍酱"}, "name": "拍拍酱"}
+{"text": "啊喔鹅是一家提供玩具服务的互联网公司，致力于为用户提供一站式儿童玩具用品的指导和体验，隶属于啊喔鹅信息科技（北京）有限公司。", "labels": [[8, 9, "domain"], [9, 12, "service"], [30, 32, "service"]], "meta": {"model_predict": 1, "name": "啊喔鹅"}, "name": "啊喔鹅"}
+{"text": "瓜粉网，一个农产品交易平台。", "labels": [[6, 11, "domain"]], "meta": {"model_predict": 1, "name": "瓜粉网"}, "name": "瓜粉网"}
+{"text": "铜仁生活网是一个本地生活服务平台。隶属于铜仁生活网。", "labels": [[9, 14, "domain"]], "meta": {"model_predict": 1, "name": "铜仁生活网"}, "name": "铜仁生活网"}
+{"text": "世纪长鸿是一家网络宣传平台。隶属于黔西南州世纪长鸿广告传媒有限公司。", "labels": [[8, 9, "domain"], [10, 11, "domain"]], "meta": {"model_predict": 1, "name": "世纪长鸿"}, "name": "世纪长鸿"}
+{"text": "听囊是一个为音乐爱好者、打造的专属旅行必备的音乐行囊，不久后将再添加出售音乐必备器材，打造一个综合销售音乐器材及音乐分享", "labels": [[18, 19, "domain"], [36, 37, "service"], [39, 41, "service"], [48, 55, "service"], [56, 60, "service"]], "meta": {"model_predict": 1, "name": "听囊"}, "name": "听囊"}
+{"text": "交流为主的网站平台。", "labels": [], "meta": {"model_predict": 1, "name": "听囊"}, "name": "听囊"}
+{"text": "车保姆是一家汽车服务平台。主要有美容服务、维修服务、保养服务、查询服务等功能。隶属于长沙宏昌圣网络科技有限公司。", "labels": [[6, 10, "domain"], [16, 20, "service"], [21, 25, "service"], [26, 30, "service"], [31, 35, "service"]], "meta": {"model_predict": 1, "name": "车保姆"}, "name": "车保姆"}
+{"text": "通宝文化是一家专业从事线上及线下收藏品交易的公司，在北京潘家园拥有公司直营的博物馆山水珍宝博物馆", "labels": [[11, 12, "service"], [14, 17, "service"], [42, 43, "domain"]], "meta": {"model_predict": 1, "name": "通宝文化"}, "name": "通宝文化"}
+{"text": "公司主营的钱币、邮票、贵金属、字画等上千种藏品，合作伙伴包含国内外收藏机构和收藏组织、浙江华策影视股份有限公司等。", "labels": [[5, 7, "service"], [8, 10, "service"], [11, 14, "service"], [15, 17, "service"], [22, 23, "service"], [30, 36, "service"]], "meta": {"model_predict": 1, "name": "通宝文化"}, "name": "通宝文化"}
+{"text": "悟空单车是一家新成立的短途单车服务品牌，采用无桩共享单车模式，为用户提供高效率的出行服务。重庆战国科技有限公司旗下产品。", "labels": [[11, 18, "domain"], [22, 23, "service"], [24, 28, "service"], [36, 37, "service"]], "meta": {"model_predict": 1, "name": "悟空单车"}, "name": "悟空单车"}
+{"text": "取资有道是一款创新性理财产品，涵盖定期理财、活期理财、私募产品。此前是一个股票投资及互联网股票配资服务平台", "labels": [[6, 13, "service"], [22, 26, "service"], [27, 31, "service"], [37, 41, "service"], [42, 46, "service"], [46, 51, "domain"]], "meta": {"model_predict": 1, "name": "取资有道"}, "name": "取资有道"}
+{"text": "上海米记互联网金融信息服务有限公司旗下网站。", "labels": [[4, 5, "domain"], [5, 11, "service"]], "meta": {"model_predict": 1, "name": "取资有道"}, "name": "取资有道"}
+{"text": "华泰金融是一家专注于珠宝供应链金融的互联网创新平台，隶属于上海安民互联网金融信息服务有限公司。", "labels": [[10, 17, "domain"], [18, 19, "domain"], [20, 21, "domain"], [22, 23, "domain"], [33, 34, "domain"], [37, 38, "domain"]], "meta": {"model_predict": 1, "name": "华泰金融"}, "name": "华泰金融"}
+{"text": "小鸣单车是一家新成立的自行车共享租赁服务品牌，先从校园开始投放，进而扩散到核心CBD等高人群密度区域。", "labels": [[11, 12, "service"], [12, 20, "domain"], [46, 47, "domain"], [48, 50, "service"]], "meta": {"model_predict": 1, "name": "小鸣单车"}, "name": "小鸣单车"}
+{"text": "业务蜘蛛是一个专注于服务企业及市场开发人员的信息交流互动平台，致力于让商家的业务难题得到解决、让业务员得到钞票和成长", "labels": [[11, 12, "domain"], [22, 23, "domain"], [25, 26, "domain"], [27, 28, "domain"]], "meta": {"model_predict": 1, "name": "业务蜘蛛"}, "name": "业务蜘蛛"}
+{"text": "深圳市国云电子商务有限公司旗下网站。", "labels": [], "meta": {"model_predict": 1, "name": "业务蜘蛛"}, "name": "业务蜘蛛"}
+{"text": "美美搭家居是一家家居软装服务平台，专注于家居软装行业的O2O模式", "labels": [[9, 10, "domain"], [11, 14, "domain"], [23, 24, "domain"], [27, 32, "service"]], "meta": {"model_predict": 1, "name": "美美搭家居"}, "name": "美美搭家居"}
+{"text": "主要为用户提供软装方案设计、家居定制采购、配送安装、售后保障等一站式家居服务体验", "labels": [[7, 12, "service"], [14, 20, "service"], [21, 25, "service"], [26, 30, "service"]], "meta": {"model_predict": 1, "name": "美美搭家居"}, "name": "美美搭家居"}
+{"text": "致力于打造以业主、设计师、家居供应商、物流与安装提供商为需求的综合性服务平台。", "labels": [[31, 32, "domain"]], "meta": {"model_predict": 1, "name": "美美搭家居"}, "name": "美美搭家居"}
+{"text": "三不租是一家致力于通过移动互联技术开发与智能家居的布设解决城市住房出租市场各种乱象的公司", "labels": [[11, 12, "domain"], [12, 16, "service"]], "meta": {"model_predict": 1, "name": "三不租"}, "name": "三不租"}
+{"text": "公司业务将主要包括租赁市场撮合交易、租约资产金融、人工智能家居和居住安全管理。", "labels": [[9, 17, "service"], [18, 21, "service"], [26, 29, "service"], [29, 31, "domain"], [32, 33, "domain"], [33, 38, "service"]], "meta": {"model_predict": 1, "name": "三不租"}, "name": "三不租"}
+{"text": "小狗管家是一个O2O家政管家服务公司，通过价格透明、消费保障机制，为用户提供标准化轻度管家服务。", "labels": [[7, 15, "domain"], [23, 24, "service"], [26, 27, "service"], [41, 45, "service"]], "meta": {"model_predict": 1, "name": "小狗管家"}, "name": "小狗管家"}
+{"text": "宠呗宠物是一个宠物共享平台和社区，人们可以在线发掘和预定周边的宠物，共处一段美好时光。以及更多具有更高商用价值的特殊宠物共享。", "labels": [[0, 4, "service"], [7, 13, "domain"], [14, 15, "domain"], [22, 25, "service"], [26, 30, "service"], [31, 33, "service"], [34, 36, "service"], [38, 42, "service"], [56, 62, "service"]], "meta": {"model_predict": 1, "name": "宠呗宠物"}, "name": "宠呗宠物"}
+{"text": "棒小店是一个区域生态共建型的快消品B2B电商平台，提供商超百货、粮油副食、酒水饮料、糖果零食等商品", "labels": [[9, 12, "domain"], [14, 22, "domain"], [27, 31, "service"], [32, 35, "service"], [37, 41, "service"]], "meta": {"model_predict": 1, "name": "棒小店"}, "name": "棒小店"}
+{"text": "致力于打造线上智能交易、运营服务，线下智能仓储、物流配送等一站式服务，隶属于武汉快至易客电子商务有限公司。", "labels": [[5, 11, "service"], [17, 18, "service"], [19, 23, "service"], [24, 28, "service"]], "meta": {"model_predict": 1, "name": "棒小店"}, "name": "棒小店"}
+{"text": "深圳发财猪是一家互联网金融服务提供商，旗下自主研发发财猪网贷APP，于2016年正式上线。公司专注于以健全的风险管控体系为基础", "labels": [[8, 9, "domain"], [10, 13, "domain"], [28, 30, "domain"]], "meta": {"model_predict": 1, "name": "发财猪"}, "name": "发财猪"}
+{"text": "为广大有融资需求的中小企业及个人投资者提供专业、可信赖的投融资服务，帮助他们实现便捷高效的低成本融资和财富增值。", "labels": [[29, 30, "domain"], [31, 32, "domain"]], "meta": {"model_predict": 1, "name": "发财猪"}, "name": "发财猪"}
+{"text": "中祎正脊是一家颈腰椎疼痛智能诊疗及运动康复服务提供商，结合智能硬件、物联网和云计算等技术，为用户提供对患者进行智能评估", "labels": [[13, 16, "service"], [31, 32, "service"], [34, 37, "service"], [38, 41, "service"], [56, 59, "service"]], "meta": {"model_predict": 1, "name": "中祎正脊"}, "name": "中祎正脊"}
+{"text": "定制化治疗和运动康复等服务，并为患者提供中医康复和颈腰椎健康管理解决方案。", "labels": [[0, 6, "service"], [6, 10, "service"], [20, 24, "service"], [25, 28, "service"], [28, 36, "service"]], "meta": {"model_predict": 1, "name": "中祎正脊"}, "name": "中祎正脊"}
+{"text": "链行是一家数字资产管理和钱包技术服务商，主要经营的数字资产包括BTC、ETC、ETH、Zcash以及数字化IP等品种", "labels": [[5, 11, "domain"], [13, 18, "domain"], [25, 29, "service"], [50, 55, "service"]], "meta": {"model_predict": 1, "name": "链行"}, "name": "链行"}
+{"text": "为专业用户和机构提供安全的分布式钱包技术、冷热钱包机制、硬钱包定制服务等，保障数字资产安全存储。", "labels": [[21, 27, "service"], [28, 35, "service"], [37, 47, "service"]], "meta": {"model_predict": 1, "name": "链行"}, "name": "链行"}
+{"text": "助学优品是一家服务于大学生群体的互联网消费金融平台，为大学生提供便捷的助学金融、电商代购服务等", "labels": [[16, 23, "domain"], [35, 39, "service"], [40, 46, "service"]], "meta": {"model_predict": 1, "name": "助学优品"}, "name": "助学优品"}
+{"text": "助学优品（北京）互联网信息科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "助学优品"}, "name": "助学优品"}
+{"text": "懂购网是一个天门本地的网络购物平台", "labels": [[12, 13, "domain"], [14, 15, "domain"]], "meta": {"model_predict": 1, "name": "懂购网"}, "name": "懂购网"}
+{"text": "主营网络商品零售、农产品进城、网络代购、大宗农资用品团购、收发快递、农村劳务市场中介、宣传天门市相关农业、农村政策信息以及农业科", "labels": [[2, 8, "service"], [9, 14, "service"], [15, 19, "service"], [20, 26, "service"], [53, 58, "service"]], "meta": {"model_predict": 1, "name": "懂购网"}, "name": "懂购网"}
+{"text": "信息等。", "labels": [], "meta": {"model_predict": 1, "name": "懂购网"}, "name": "懂购网"}
+{"text": "河马充电是一家新成立的移动电源充电租赁服务品牌，河马充电的产品属于桌牌式，即布设在B端商家店内，不可带走，定价1", "labels": [[11, 20, "domain"]], "meta": {"model_predict": 1, "name": "河马充电"}, "name": "河马充电"}
+{"text": "元/小时，无需押金，内置充电线。", "labels": [[10, 12, "service"], [14, 15, "service"]], "meta": {"model_predict": 1, "name": "河马充电"}, "name": "河马充电"}
+{"text": "旅兔是一个境外定制旅行服务提供商，专注于为出境自由行的用户提供当地向导、机场接送和私人订制等服务", "labels": [[5, 9, "service"], [9, 13, "domain"], [41, 42, "service"]], "meta": {"model_predict": 1, "name": "旅兔"}, "name": "旅兔"}
+{"text": "用户可以在旅兔APP上选择心仪的向导，并说明自己的需求，向导会为旅行者提供定制化行程。", "labels": [[5, 11, "service"]], "meta": {"model_predict": 1, "name": "旅兔"}, "name": "旅兔"}
+{"text": "大象人事是一家人⼒资本管理平台，将云端数据可视化，可对人力资源数据进行控制和管理，还可以通过技术帮助HR减少业务量，简化步骤", "labels": [[7, 8, "domain"], [9, 13, "domain"], [17, 18, "service"], [20, 21, "domain"], [29, 33, "service"]], "meta": {"model_predict": 1, "name": "大象人事"}, "name": "大象人事"}
+{"text": "杭州威象科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "大象人事"}, "name": "大象人事"}
+{"text": "必盈金融是一家互联网金融公司，首创操盘人和投资人线上合作交易模式，让有能力的操盘人提供交易买卖指令，有资金的投资人提供交易资金", "labels": [[7, 12, "domain"], [43, 44, "service"], [59, 63, "service"]], "meta": {"model_predict": 1, "name": "必盈金融"}, "name": "必盈金融"}
+{"text": "双方按约定共享收益共担风险。", "labels": [[3, 7, "service"], [9, 13, "service"]], "meta": {"model_predict": 1, "name": "必盈金融"}, "name": "必盈金融"}
+{"text": "点秋香是一家主打上门按摩服务的O2O电商服务平台，用户可以通过APP和微信在线预约保健按摩师服务到家", "labels": [[15, 22, "domain"], [38, 46, "service"]], "meta": {"model_predict": 1, "name": "点秋香按摩"}, "name": "点秋香按摩"}
+{"text": "北京点秋香网络科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "点秋香按摩"}, "name": "点秋香按摩"}
+{"text": "十一平米车养护是一家汽车后服务公司，主要为车主提供汽车清洁和养护服务，隶属于武汉十一平米科技有限责任公司。", "labels": [[10, 14, "domain"], [25, 30, "service"], [30, 34, "service"]], "meta": {"model_predict": 1, "name": "十一平米车养护"}, "name": "十一平米车养护"}
+{"text": "盖房子是一个农村建材B2B电商平台，主要为农民提供建筑设计、建材、家电、家具、化肥、饲料、生活用品等", "labels": [[6, 15, "domain"], [25, 29, "service"], [30, 32, "service"], [33, 35, "service"], [36, 38, "service"], [39, 41, "service"], [42, 44, "service"], [45, 49, "service"]], "meta": {"model_predict": 1, "name": "盖房子"}, "name": "盖房子"}
+{"text": "农民可以通过盖房子网站和盖房子线下加盟店，便捷的采购到品质和售后服务有保证的产品。", "labels": [[7, 8, "service"], [13, 14, "domain"], [14, 16, "service"]], "meta": {"model_predict": 1, "name": "盖房子"}, "name": "盖房子"}
+{"text": "拇指金融是一个理财产品聚合平台，提供互联网理财、P2P、基金、信托、银行等最新的收益播报", "labels": [[8, 9, "domain"], [10, 11, "domain"], [12, 13, "domain"], [18, 23, "service"], [24, 27, "service"], [28, 30, "service"], [31, 33, "service"], [34, 35, "service"]], "meta": {"model_predict": 1, "name": "拇指金融"}, "name": "拇指金融"}
+{"text": "产品列表包括提供理财产品的合作基金、发售平台、7日年化收益率、万份收益、较上日变化、今年以来年化收益率、近3月年化收益率、目前规", "labels": [[8, 12, "service"]], "meta": {"model_predict": 1, "name": "拇指金融"}, "name": "拇指金融"}
+{"text": "等详尽的数据。", "labels": [], "meta": {"model_predict": 1, "name": "拇指金融"}, "name": "拇指金融"}
+{"text": "蚂蚁圈是一个O2O电商平台，专注于男装、女装、箱包、红酒、母婴、玩具、汽车配件、化妆品的销售，支持在线支付，提供积分优惠服务", "labels": [[6, 12, "domain"], [17, 19, "service"], [20, 22, "service"], [23, 25, "service"], [26, 28, "service"], [29, 31, "service"], [32, 34, "service"], [35, 39, "service"], [40, 43, "service"], [56, 62, "service"]], "meta": {"model_predict": 1, "name": "蚂蚁圈"}, "name": "蚂蚁圈"}
+{"text": "隶属于广州市蚁众步同电子商务有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "蚂蚁圈"}, "name": "蚂蚁圈"}
+{"text": "跨屏测是一款工具类的产品，目的是为了帮助你查看你的网站的跨屏幕（响应式）效果，跨屏测收集了主流屏幕的尺寸大小", "labels": [], "meta": {"model_predict": 1, "name": "跨屏测"}, "name": "跨屏测"}
+{"text": "方便你快速了解网站在不同设备下的样子。", "labels": [], "meta": {"model_predict": 1, "name": "跨屏测"}, "name": "跨屏测"}
+{"text": "陪你动是一个专注于羽毛球的技能分享社区平台，聚集各个水平的羽球爱好者，提供社区约球，签约球馆，教练指导，技能分享等服务", "labels": [[10, 12, "domain"], [13, 19, "domain"], [37, 41, "service"], [42, 46, "service"], [47, 50, "service"], [52, 56, "service"]], "meta": {"model_predict": 1, "name": "陪你动"}, "name": "陪你动"}
+{"text": "隶属于上海所邦信息科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "陪你动"}, "name": "陪你动"}
+{"text": "纳豆旅行网是一家致力于为纳豆用户提供服务的企业，nadoutrip为用户提供与境外导游一对一的交流平台", "labels": [[39, 40, "domain"], [40, 43, "service"], [48, 49, "domain"]], "meta": {"model_predict": 1, "name": "纳豆旅行网"}, "name": "纳豆旅行网"}
+{"text": "隶属于沈阳趣游科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "纳豆旅行网"}, "name": "纳豆旅行网"}
+{"text": "安徽秒秒科技是一家微信解决方案服务商，专业针对零售企业、提供微信营销系统方案服务商。", "labels": [[9, 10, "service"], [10, 17, "domain"], [30, 40, "service"]], "meta": {"model_predict": 1, "name": "安徽秒秒科技"}, "name": "安徽秒秒科技"}
+{"text": "闪电快递是一家快递公司。拍下你要发送的货物，发送需求，通过读取你的地理位置信息，实时显示你附近的快递师傅，师傅上门揽收", "labels": [[20, 21, "domain"]], "meta": {"model_predict": 1, "name": "闪电快递"}, "name": "闪电快递"}
+{"text": "并提供免费包装服务。", "labels": [[3, 9, "service"]], "meta": {"model_predict": 1, "name": "闪电快递"}, "name": "闪电快递"}
+{"text": "北京优练科技有限公司专注于可穿戴设备的软件开发与数据服务", "labels": [[15, 18, "service"], [20, 21, "service"], [24, 28, "service"]], "meta": {"model_predict": 1, "name": "优练科技"}, "name": "优练科技"}
+{"text": "我们相信智能可穿戴设备与大数据技术将会在运动健身、健康预警、慢病管理等诸多领域为人们带来前所未有的体验", "labels": [[13, 14, "domain"], [14, 17, "service"], [21, 24, "domain"], [25, 29, "domain"], [30, 31, "domain"], [31, 34, "service"]], "meta": {"model_predict": 1, "name": "优练科技"}, "name": "优练科技"}
+{"text": "旗下主打产品“推神”是一个运动健身应用。", "labels": [[15, 17, "domain"], [18, 19, "domain"]], "meta": {"model_predict": 1, "name": "优练科技"}, "name": "优练科技"}
+{"text": "上海登贯投资管理有限公司（登贯投资）成立于2016年，由胡兴华先生独资创办。专注于提供理财策划咨询服务。", "labels": [[43, 51, "service"]], "meta": {"model_predict": 1, "name": "贯通金服"}, "name": "贯通金服"}
+{"text": "奔奔物流是一家物流云数据服务商，为发货企业、物流部、司机等提供智能化物流信息及撮合交易服务。江西奔奔网络服务有限公司旗下产品。", "labels": [[7, 14, "domain"], [31, 38, "service"]], "meta": {"model_predict": 1, "name": "奔奔物流"}, "name": "奔奔物流"}
+{"text": "一枚硬币是一个游戏玩家专属互联网金融平台。致力于为游戏玩家提供专业的金融理财服务，针对游戏玩家的需求开发消费金融产品", "labels": [[7, 18, "domain"], [34, 35, "service"], [35, 40, "domain"], [44, 45, "domain"], [49, 50, "domain"], [52, 53, "domain"]], "meta": {"model_predict": 1, "name": "一枚硬币"}, "name": "一枚硬币"}
+{"text": "让游戏玩家享受更多的游戏乐趣。隶属于北京东方聚和科技有限公司。", "labels": [[1, 2, "domain"], [2, 6, "service"], [10, 11, "domain"], [11, 14, "service"]], "meta": {"model_predict": 1, "name": "一枚硬币"}, "name": "一枚硬币"}
+{"text": "易联校园是一个专注高校活动赞助服务的平台，让大学生花最少的时间与精力成功拉取活动经费，而企业也可以借助高校平台的宣传", "labels": [[9, 10, "service"], [10, 16, "domain"], [49, 50, "domain"], [50, 53, "service"]], "meta": {"model_predict": 1, "name": "易联校园"}, "name": "易联校园"}
+{"text": "快速进入有广阔前景的大学生市场。", "labels": [], "meta": {"model_predict": 1, "name": "易联校园"}, "name": "易联校园"}
+{"text": "易卡帮是一家同城闲置礼品卡在线交易服务平台，用户可以将卡券兑换成现金。", "labels": [[8, 10, "domain"], [11, 12, "domain"], [16, 17, "domain"]], "meta": {"model_predict": 1, "name": "易卡帮"}, "name": "易卡帮"}
+{"text": "城市助手是一家致力于打造互联网休闲保健类信息服务平台，提供按摩、推拿、足浴、中医理疗等信息的服务", "labels": [[12, 24, "domain"], [36, 37, "service"], [38, 42, "service"]], "meta": {"model_predict": 1, "name": "城市助手"}, "name": "城市助手"}
+{"text": "隶属于深圳市智慧兄弟网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "城市助手"}, "name": "城市助手"}
+{"text": "壹工坊，是一家立志用互联网改造传统媒体业的互联网公司。", "labels": [[9, 13, "domain"], [14, 20, "domain"]], "meta": {"model_predict": 1, "name": "壹工坊"}, "name": "壹工坊"}
+{"text": "华汽羽悦（北京）汽车服务有限公司是一个汽车维修连锁（联盟）机构，致力于全面推广“同质配件”，打造“放心汽修”社区连锁机构", "labels": [[19, 24, "domain"], [51, 53, "domain"], [54, 55, "domain"]], "meta": {"model_predict": 1, "name": "华汽羽悦"}, "name": "华汽羽悦"}
+{"text": "为广大消费者提供移动（上门）保养服务。", "labels": [[9, 10, "domain"], [15, 18, "domain"]], "meta": {"model_predict": 1, "name": "华汽羽悦"}, "name": "华汽羽悦"}
+{"text": "溜溜地球是一个选择海外华人作为当地人提供陪游服务的平台，以海外特色旅游为主", "labels": [[21, 22, "domain"], [22, 24, "service"], [31, 35, "service"]], "meta": {"model_predict": 1, "name": "溜溜地球"}, "name": "溜溜地球"}
+{"text": "当地华人向导在平台上注册并上传基本资料、提供旅游路线及报价，平台审核通过后，用户可在线购买陪游服务", "labels": [[22, 26, "service"], [28, 29, "service"], [42, 49, "service"]], "meta": {"model_predict": 1, "name": "溜溜地球"}, "name": "溜溜地球"}
+{"text": "隶属于重庆凡旅网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "溜溜地球"}, "name": "溜溜地球"}
+{"text": "动次科技是一家致力于用互联网、运动、社交、娱乐结合来治愈懒癌者的创业公司，主打产品“动次”一分钟运动减压，轻松保持健康", "labels": [[12, 13, "domain"]], "meta": {"model_predict": 1, "name": "动次科技"}, "name": "动次科技"}
+{"text": "为你带来有趣、有爱的健康生活方式。", "labels": [], "meta": {"model_predict": 1, "name": "动次科技"}, "name": "动次科技"}
+{"text": "猿团网是一家帮助创业者快速实现其产品创意并得到投资人的资产的平台，旨在于将创业者们的优秀创意和投资人的资金做一个对接", "labels": [], "meta": {"model_predict": 1, "name": "猿团网"}, "name": "猿团网"}
+{"text": "隶属于成都猿团科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "猿团网"}, "name": "猿团网"}
+{"text": "奥凡互动是一家手机游戏发行公司，产品包括《全民飘移hotrace》、国服版《大富豪2》等。", "labels": [[7, 13, "domain"]], "meta": {"model_predict": 1, "name": "奥凡互动"}, "name": "奥凡互动"}
+{"text": "得宝理财是一个投资理财平台，平台内提供活期、定期两种不同理财产品，通过智能操作系统帮助用户分散投资", "labels": [[8, 11, "domain"], [25, 26, "service"], [26, 32, "service"]], "meta": {"model_predict": 1, "name": "得宝理财"}, "name": "得宝理财"}
+{"text": "实现闲散资金流动性及财富增值。", "labels": [[0, 8, "service"]], "meta": {"model_predict": 1, "name": "得宝理财"}, "name": "得宝理财"}
+{"text": "小右充电宝是一家共享充电宝服务商，用户缴纳99元押金后即可免费使用1年，到期后选择是否续租，采用“人肉充电桩”模式", "labels": [[8, 15, "domain"]], "meta": {"model_predict": 1, "name": "小右共享充电宝"}, "name": "小右共享充电宝"}
+{"text": "用户间可通过App有偿转租。", "labels": [], "meta": {"model_predict": 1, "name": "小右共享充电宝"}, "name": "小右共享充电宝"}
+{"text": "呀比呀比是一款主打才艺展示的兴趣交友社区。北京领祈石诣软件科技有限公司开发，主要产品有好奇喵、呀比呀比两款社交app", "labels": [[14, 20, "domain"], [53, 54, "domain"], [56, 57, "domain"], [57, 58, "service"]], "meta": {"model_predict": 1, "name": "呀比呀比"}, "name": "呀比呀比"}
+{"text": "此外也接受各种网站、app外包业务。", "labels": [[6, 9, "service"], [10, 17, "service"]], "meta": {"model_predict": 1, "name": "呀比呀比"}, "name": "呀比呀比"}
+{"text": "野兽体育是一个格斗竞技娱乐公司，通过组织格斗比赛，打造了原创格斗竞技类IP《热血格斗》", "labels": [[9, 12, "domain"]], "meta": {"model_predict": 1, "name": "野兽体育"}, "name": "野兽体育"}

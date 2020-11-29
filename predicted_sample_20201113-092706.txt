@@ -1,0 +1,100 @@
+{"text": "傅氏康科技是一家专注于美国最新最潮亚洲购物服务网站，主要为用户提供最全最健康的中国及亚洲零食及美妆产品。", "labels": [], "meta": {"model_predict": 1, "name": "摇啊摇零食网"}, "name": "摇啊摇零食网"}
+{"text": "天助婴才是一个专门为幼儿、线下幼儿园而生的资源整合移动平台。长春易云网络科技有限公司旗下产品。", "labels": [[21, 23, "service"]], "meta": {"model_predict": 1, "name": "天助婴才"}, "name": "天助婴才"}
+{"text": "苏州初夏时光网络科技有限公司成立于2015年，是一家移动社交领域的创业公司。", "labels": [[26, 32, "domain"]], "meta": {"model_predict": 1, "name": "初夏时光"}, "name": "初夏时光"}
+{"text": "金柚金服是一家P2P互联网金融及借贷服务网站，隶属于杭州金柚互联网科技有限公司。", "labels": [[7, 15, "service"], [16, 20, "service"]], "meta": {"model_predict": 1, "name": "金柚金服"}, "name": "金柚金服"}
+{"text": "七只考拉是一家零食和饮品提供商，公司致力于将零售业务与互联网相结合，免费给企业安装零食货架和冰箱，提供零食、饮料给员工", "labels": [[39, 45, "service"], [46, 48, "service"]], "meta": {"model_predict": 1, "name": "七只考拉"}, "name": "七只考拉"}
+{"text": "为企业员工提供便利的购物体验。", "labels": [], "meta": {"model_predict": 1, "name": "七只考拉"}, "name": "七只考拉"}
+{"text": "这是一个分享平台", "labels": [[7, 8, "domain"]], "meta": {"model_predict": 1, "name": "晒油网"}, "name": "晒油网"}
+{"text": "去乐购是一家众筹型趣味电商，用户通过付费1元玩游戏或者其他趣味性活动，当商品众筹人数足够时", "labels": [[9, 13, "domain"], [23, 25, "domain"]], "meta": {"model_predict": 1, "name": "去乐购"}, "name": "去乐购"}
+{"text": "进行竞技、抽取幸运号码等方式抽取获得用户。", "labels": [], "meta": {"model_predict": 1, "name": "去乐购"}, "name": "去乐购"}
+{"text": "壹吉购是一家酒类B2B平台，为零售终端门店提供掌上订货平台，北京壹吉网络科技有限公司旗下产品。", "labels": [[6, 7, "service"], [7, 8, "domain"], [8, 12, "domain"]], "meta": {"model_predict": 1, "name": "壹吉购"}, "name": "壹吉购"}
+{"text": "乐跑屋是一款智能健身设备＋手机App＋云平台的运动产品，在线上，用户先通过基于LBS的乐跑吧App搜索身边跑吧", "labels": [[8, 10, "service"], [13, 22, "service"], [23, 27, "service"]], "meta": {"model_predict": 1, "name": "乐跑屋"}, "name": "乐跑屋"}
+{"text": "然后预约设备、选择场景，并购买运动点卡。来到线下跑吧后，无需手动设置，扫码即可开始运动。", "labels": [[0, 5, "service"], [30, 34, "service"], [35, 39, "service"]], "meta": {"model_predict": 1, "name": "乐跑屋"}, "name": "乐跑屋"}
+{"text": "关注原油必看的金融网站。", "labels": [[2, 5, "service"]], "meta": {"model_predict": 1, "name": "原油指数"}, "name": "原油指数"}
+{"text": "财经日历一个专业实时更新全球财经数据的网站。", "labels": [[14, 15, "domain"]], "meta": {"model_predict": 1, "name": "财经日历"}, "name": "财经日历"}
+{"text": "神奇百货是一个青少年消费电子商务平台，专注于95后青少年，根据兴趣标签和推荐算法为年轻用户提供高品质高逼格商品", "labels": [[9, 16, "domain"]], "meta": {"model_predict": 1, "name": "神奇百货"}, "name": "神奇百货"}
+{"text": "深圳大爆炸科技有限公司旗下网站。", "labels": [], "meta": {"model_predict": 1, "name": "神奇百货"}, "name": "神奇百货"}
+{"text": "尺寸是一个帮助年轻一代消费者垂直对接全球独立设计师的时尚概念内容电商平台。通过消费者直接对接设计师、去中间商模式", "labels": [[26, 28, "domain"], [28, 29, "service"]], "meta": {"model_predict": 1, "name": "尺寸"}, "name": "尺寸"}
+{"text": "解决用户购买、货源、清关、售后等问题；同时帮助设计师解决营销资源匮乏、缺乏供应链资源支持等问题。", "labels": [[0, 5, "service"], [7, 9, "service"], [13, 15, "service"], [16, 18, "service"], [19, 34, "service"], [35, 43, "service"]], "meta": {"model_predict": 1, "name": "尺寸"}, "name": "尺寸"}
+{"text": "犀牛小姐是一个顾问式内衣品牌，致力于帮助更多女性找到适合自己的文胸。北京恐龙加科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "犀牛小姐"}, "name": "犀牛小姐"}
+{"text": "口袋自考是一个自考学习工具软件，为用户整理各类自考的考试、课程资讯，并实时推送到手机上，主打自考专升本一站式学习服务", "labels": [[26, 28, "service"], [29, 33, "service"], [53, 58, "service"]], "meta": {"model_predict": 1, "name": "口袋自考"}, "name": "口袋自考"}
+{"text": "隶属于北京口袋学习科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "口袋自考"}, "name": "口袋自考"}
+{"text": "小牛学社一家为中国大学生提供选校择师和高效提分的专业化学习平台", "labels": [], "meta": {"model_predict": 1, "name": "小牛学社"}, "name": "小牛学社"}
+{"text": "为用户提供了大学考试、语言培训、出国留学和职业技能四大类考试服务。提供用户选课报名、百科复习和效果评测的全链条学习管理。", "labels": [[11, 15, "service"], [28, 30, "service"]], "meta": {"model_predict": 1, "name": "小牛学社"}, "name": "小牛学社"}
+{"text": "倾城派是一个专注于室内设计的o2o平台，整合线下专业设计师资源和优质装饰公司，为用户提供家装专业服务", "labels": [[9, 11, "service"], [27, 31, "service"], [33, 36, "service"], [44, 50, "service"]], "meta": {"model_predict": 1, "name": "倾城派"}, "name": "倾城派"}
+{"text": "南京荻花网络科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "倾城派"}, "name": "倾城派"}
+{"text": "金盈所是一家线上网络借贷信息中介平台，隶属于金砖财富信息科技有限公司。", "labels": [[9, 12, "service"], [12, 14, "domain"], [14, 15, "service"], [15, 16, "domain"]], "meta": {"model_predict": 1, "name": "金盈所"}, "name": "金盈所"}
+{"text": "创宏利是一家以债权质押性向的创新型P2P平台.公司专注于为客户提供全方位理财顾问服务,协助客户实现合理的理财规划配置,并致力于帮", "labels": [[18, 20, "domain"], [52, 58, "service"]], "meta": {"model_predict": 1, "name": "创宏利"}, "name": "创宏利"}
+{"text": "客户实现资产持续稳定的增值.", "labels": [], "meta": {"model_predict": 1, "name": "创宏利"}, "name": "创宏利"}
+{"text": "光速借款是一家金融服务机构，一家基于互联网大数据，刻画借款用户画像，开发大数据信贷模型", "labels": [[7, 10, "domain"], [18, 21, "domain"], [22, 24, "domain"], [25, 33, "service"], [37, 43, "service"]], "meta": {"model_predict": 1, "name": "光速借款"}, "name": "光速借款"}
+{"text": "为蓝领用户提供快速信用评估并撮合微额短期借款和链接优质用户的Fintech服务平台。", "labels": [[34, 39, "service"]], "meta": {"model_predict": 1, "name": "光速借款"}, "name": "光速借款"}
+{"text": "嘀嘀配件是一家主打电动车配件的O2O电商，经营电动车配件、电池、轮胎、控制器、各类配件等。", "labels": [[9, 10, "service"], [10, 11, "domain"], [11, 12, "service"], [12, 14, "domain"], [15, 16, "service"], [16, 17, "domain"], [17, 18, "service"], [18, 19, "domain"], [19, 20, "service"], [23, 28, "service"], [29, 31, "service"], [32, 34, "service"], [35, 38, "service"], [39, 43, "service"]], "meta": {"model_predict": 1, "name": "嘀嘀配件"}, "name": "嘀嘀配件"}
+{"text": "小丸子理财是一家基于消费金融的借贷理财网站，目前已关闭服务。", "labels": [[15, 19, "service"], [19, 20, "domain"]], "meta": {"model_predict": 1, "name": "小丸子理财"}, "name": "小丸子理财"}
+{"text": "安学网是一个在线免费学习平台，通过整理大量专业知识，职业资料、考试资料，视频教程，考试复习指导，试题资料等给大家分享", "labels": [[26, 30, "service"], [31, 35, "service"], [36, 40, "service"], [41, 47, "service"], [48, 52, "service"]], "meta": {"model_predict": 1, "name": "安学网"}, "name": "安学网"}
+{"text": "致力于提供学习互动交流，更好的帮助大家学习。", "labels": [[7, 11, "service"]], "meta": {"model_predict": 1, "name": "安学网"}, "name": "安学网"}
+{"text": "影视网是一个影视众筹平台，集众筹（股权、债券、回报）、影视伯乐于一体，在解决影视项目投融资的基础上", "labels": [[6, 8, "domain"]], "meta": {"model_predict": 1, "name": "影视网"}, "name": "影视网"}
+{"text": "为优秀的影视项目提供专业的影视制作、发行指导。", "labels": [[13, 17, "service"]], "meta": {"model_predict": 1, "name": "影视网"}, "name": "影视网"}
+{"text": "玩转招聘是一个专注于年轻人、创业企业的招聘求职网站。", "labels": [], "meta": {"model_predict": 1, "name": "玩转招聘"}, "name": "玩转招聘"}
+{"text": "上海朵信金融是一家主打汽车金融和分期购车的公司，与汽车之家、海淘车、51进口车、51信用卡等国内知名企业达成战略合作", "labels": [[11, 15, "domain"]], "meta": {"model_predict": 1, "name": "朵信金融"}, "name": "朵信金融"}
+{"text": "提供汽车分期购买服务。", "labels": [[2, 10, "service"]], "meta": {"model_predict": 1, "name": "朵信金融"}, "name": "朵信金融"}
+{"text": "兜哒玩具是一个玩具租赁连锁机构，采用线下体验+线上商城的模式。致力于为0-4岁宝宝提供一站式玩具新体验。", "labels": [[7, 11, "service"]], "meta": {"model_predict": 1, "name": "兜哒玩具"}, "name": "兜哒玩具"}
+{"text": "币赢网是一个数字货币交易平台，采用冷存储、SSL、多重加密等银行级别安全技术，高速撮合引擎与分布式集群技术", "labels": [[6, 12, "domain"], [30, 36, "service"]], "meta": {"model_predict": 1, "name": "币赢网"}, "name": "币赢网"}
+{"text": "提供数字货币交易行情，为用户提供注册充值、提现、数字货币交易等服务。", "labels": [[2, 9, "service"], [24, 30, "service"]], "meta": {"model_predict": 1, "name": "币赢网"}, "name": "币赢网"}
+{"text": "每日兼职是一个大学生兼职平台，力求解决大学生的兼职实习等社会实践问题，成为大学生兼职神器。", "labels": [[7, 10, "domain"]], "meta": {"model_predict": 1, "name": "每日兼职"}, "name": "每日兼职"}
+{"text": "直播帝是一家体育领域的内容聚合平台，旨在成为体育领域的今日头条。隶属于北京糖果网络技术有限公司。", "labels": [[11, 17, "domain"], [23, 24, "domain"]], "meta": {"model_predict": 1, "name": "直播帝"}, "name": "直播帝"}
+{"text": "轻触（qingchu.com）致力于为广大用户提供全球旅行住宿服务，依托人工智能（Artificial", "labels": [[27, 28, "domain"], [28, 33, "service"]], "meta": {"model_predict": 1, "name": "轻触旅行"}, "name": "轻触旅行"}
+{"text": "Intelligence）技术最精准的为用户推荐最适合的民宿房源，隶属于北京轻触未来科技有限公司。", "labels": [[28, 32, "service"]], "meta": {"model_predict": 1, "name": "轻触旅行"}, "name": "轻触旅行"}
+{"text": "医度健康是一款手机App，为医生提供全方位的医疗数据服务", "labels": [[7, 9, "domain"], [22, 24, "service"], [24, 25, "domain"], [25, 28, "service"]], "meta": {"model_predict": 1, "name": "医度健康"}, "name": "医度健康"}
+{"text": "可用于查看病历、预约体检、查看体检报告、用药提醒、健康资讯、医患交流等功能。", "labels": [[8, 11, "service"], [17, 19, "service"], [20, 24, "service"], [25, 29, "service"], [30, 34, "service"]], "meta": {"model_predict": 1, "name": "医度健康"}, "name": "医度健康"}
+{"text": "职达文化是一家关于教育领域的市场运营公司，致力于为同学们提供教学服务，激励学生们追求卓越，挖掘自己的潜能", "labels": [[9, 11, "domain"]], "meta": {"model_predict": 1, "name": "职达文化"}, "name": "职达文化"}
+{"text": "也为学员提供新加坡国际学校入学、英美大学升学考试培训和申请服务。", "labels": [[21, 26, "service"]], "meta": {"model_predict": 1, "name": "职达文化"}, "name": "职达文化"}
+{"text": "本地云为创业公司以及传统企业的提供O2O云平台企业服务，旗下有云打印API、云配送API、云商城API等多款产品", "labels": [[17, 27, "service"], [31, 37, "service"], [38, 44, "service"], [45, 51, "service"]], "meta": {"model_predict": 1, "name": "本地云"}, "name": "本地云"}
+{"text": "隶属本地科技（北京）有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "本地云"}, "name": "本地云"}
+{"text": "右脑人是一个主打奇葩的陌生人社交应用，希望把那些别人眼中的疯子、奇葩、怪胎、神经病聚集起来，发现真正懂自己的朋友与伙伴。", "labels": [[14, 16, "domain"]], "meta": {"model_predict": 1, "name": "右脑人"}, "name": "右脑人"}
+{"text": "宠托托是一个家庭式宠物寄训P2P平台，帮宠物找到最合适的寄训家庭，所有寄训家庭均经平台严格认证和专业培训。", "labels": [[6, 17, "domain"]], "meta": {"model_predict": 1, "name": "宠托托"}, "name": "宠托托"}
+{"text": "进货宝是一家手机上的社区商业B2B采购平台，接链接品牌厂商和亿万社区小微商家，为小微商家提供采购、送货等服务", "labels": [[10, 12, "domain"], [46, 48, "service"], [49, 51, "service"]], "meta": {"model_predict": 1, "name": "进货宝"}, "name": "进货宝"}
+{"text": "隶属于北京大卫之选网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "进货宝"}, "name": "进货宝"}
+{"text": "蜗行旅游致力于为自由行游客解决一切自由行途中遇到的困难。郑州蜗之行文化传媒有限公司旗下。", "labels": [], "meta": {"model_predict": 1, "name": "蜗行旅游"}, "name": "蜗行旅游"}
+{"text": "家园网是一个综合性家庭消费服务平台，为用户提供房产、家电家具买卖和家政维修、家园旅游等信息服务", "labels": [[6, 15, "domain"], [26, 30, "service"], [33, 37, "service"], [38, 41, "service"], [41, 42, "domain"], [43, 47, "domain"]], "meta": {"model_predict": 1, "name": "家园网"}, "name": "家园网"}
+{"text": "行业涉及租房购房、装修装饰、保姆评选以及在线支付等行业。同时为企业提供软件开发、资产管理等服务。", "labels": [[4, 8, "service"], [9, 13, "service"], [35, 39, "service"], [40, 44, "service"]], "meta": {"model_predict": 1, "name": "家园网"}, "name": "家园网"}
+{"text": "文峰华路企业管理咨询有限公司是一个国内互联网金融行业解决方案提供商，有众筹平台、P2P平台、互联网加风险管理及投融资平台等", "labels": [[19, 27, "service"], [40, 45, "service"], [46, 54, "service"]], "meta": {"model_predict": 1, "name": "文峰华路"}, "name": "文峰华路"}
+{"text": "致力于国内互联网金融全方位的专业服务。", "labels": [[5, 11, "domain"]], "meta": {"model_predict": 1, "name": "文峰华路"}, "name": "文峰华路"}
+{"text": "晒宝是一款针对于稀缺或垄断商品的售卖app平台，重新定义拍卖流程和交易模式，利用移动互联网的碎片时间，聚集大量用户", "labels": [[12, 14, "domain"], [19, 21, "domain"], [33, 35, "service"]], "meta": {"model_predict": 1, "name": "晒宝"}, "name": "晒宝"}
+{"text": "使用户即时淘到喜爱的宝贝和珍品。", "labels": [], "meta": {"model_predict": 1, "name": "晒宝"}, "name": "晒宝"}
+{"text": "空之国是一家动漫，小说，游戏，文学摄影论坛，分成不同模块进行作品以及心得交流，隶属于杭州有极科技有限公司。", "labels": [[7, 8, "domain"]], "meta": {"model_predict": 1, "name": "空之国"}, "name": "空之国"}
+{"text": "邻厨是一个美食分享平台，用户可以在上面找到认证的阿姨的美食，包装和食材由平台方准备。", "labels": [[5, 11, "domain"]], "meta": {"model_predict": 1, "name": "邻厨"}, "name": "邻厨"}
+{"text": "快马乐学是一个学车O2O平台，专注于提供建立企业与驾校，消费者与驾校之间的沟通交流，致力于为驾考消费者提供优质贴心的服务。", "labels": [[9, 12, "domain"], [25, 27, "service"]], "meta": {"model_predict": 1, "name": "快马乐学"}, "name": "快马乐学"}
+{"text": "爱房筹是一家主打房产众筹的大众房地产投资平台，运用\"房地产、互联网、金融\"三位一体的众筹模式，致力用技术改变传统房地产投资", "labels": [[15, 22, "domain"], [25, 29, "domain"], [30, 33, "domain"], [34, 36, "domain"], [56, 57, "domain"], [57, 61, "service"]], "meta": {"model_predict": 1, "name": "爱房筹"}, "name": "爱房筹"}
+{"text": "打造一个让社会大众也能投资大宗物业，享受高收益的平台。", "labels": [[11, 16, "service"]], "meta": {"model_predict": 1, "name": "爱房筹"}, "name": "爱房筹"}
+{"text": "洋葱范是一家关注印度市场的科技媒体，致力于打造连接中国投资人和印度创业者的科技媒体和服务平台。一方面，面向印度创业者", "labels": [[37, 39, "domain"], [39, 41, "domain"]], "meta": {"model_predict": 1, "name": "洋葱范"}, "name": "洋葱范"}
+{"text": "传递互联网创业和投资新闻，组织创业活动；另一方面，面向中国投资人，提供印度创业资讯、商业及咨询服务。", "labels": [[35, 41, "service"], [42, 49, "service"]], "meta": {"model_predict": 1, "name": "洋葱范"}, "name": "洋葱范"}
+{"text": "特买客是一家主打零食特卖的电商网站，为白领提供家美食特买，隶属于深圳市前海美上未来科技有限公司。", "labels": [[11, 12, "domain"], [23, 28, "service"]], "meta": {"model_predict": 1, "name": "特买客"}, "name": "特买客"}
+{"text": "当妈啦是一个主打母婴类的消费分享与导购服务网站，提供怀孕期妈妈囤货指南、母婴用品优惠打折信息等", "labels": [[8, 11, "service"], [12, 16, "service"], [26, 35, "service"], [36, 46, "service"]], "meta": {"model_predict": 1, "name": "当妈啦网络"}, "name": "当妈啦网络"}
+{"text": "隶属于北京当妈啦网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "当妈啦网络"}, "name": "当妈啦网络"}
+{"text": "人人趣学是人人网新晋推出的一家主打艺术与体育类培训课程服务的O2O平台，可为用户提供80多个科目的一线老师在线预约上课服务", "labels": [[17, 19, "service"], [20, 29, "service"], [30, 35, "service"], [49, 61, "service"]], "meta": {"model_predict": 1, "name": "人人趣学"}, "name": "人人趣学"}
+{"text": "隶属于北京千橡网景科技发展有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "人人趣学"}, "name": "人人趣学"}
+{"text": "生物型社交+利益驱动型社交，以汽车为载体，实现高效精准的异性社交", "labels": [[1, 4, "service"], [4, 5, "domain"]], "meta": {"model_predict": 1, "name": "嘚嘚"}, "name": "嘚嘚"}
+{"text": "微溪金融是一家信贷风控服务全流程解决方案提供商，致力于提供小微金融整体解决方案，为金融机构提供优质信贷资产", "labels": [[0, 4, "service"], [7, 16, "service"], [29, 39, "service"], [47, 53, "service"]], "meta": {"model_predict": 1, "name": "微溪金融"}, "name": "微溪金融"}
+{"text": "依靠领先的信贷技术和出色的风控能力，为金融机构提供包括获客、尽职调查、风险评估、贷后管理等在内的全流程风险解决方案", "labels": [[5, 9, "domain"], [13, 15, "domain"], [27, 29, "service"], [30, 34, "service"], [35, 39, "service"], [40, 44, "service"], [48, 53, "service"]], "meta": {"model_predict": 1, "name": "微溪金融"}, "name": "微溪金融"}
+{"text": "高效对接小微客户和资金提供方。", "labels": [[9, 11, "service"]], "meta": {"model_predict": 1, "name": "微溪金融"}, "name": "微溪金融"}
+{"text": "投食儿隶属于北京花间独酌科技有限公司，是一个联系餐饮创业者和食客的平台，平台通过以餐厅或餐饮人为核心的精细内容，介绍餐厅的特色", "labels": [[24, 28, "domain"], [41, 43, "service"]], "meta": {"model_predict": 1, "name": "投食儿"}, "name": "投食儿"}
+{"text": "展现餐厅的成长，并通过一系列活动把用户吸引到餐厅的“建设”中来。", "labels": [], "meta": {"model_predict": 1, "name": "投食儿"}, "name": "投食儿"}
+{"text": "良医互联是一家专业从事互联网医疗领域的软件服务提供商，旗下产品良医互联App为临床科研提供整体解决方案，实现患者管理", "labels": [[11, 17, "domain"], [19, 21, "service"], [39, 41, "service"]], "meta": {"model_predict": 1, "name": "良医互联"}, "name": "良医互联"}
+{"text": "数据收集和分析。", "labels": [[0, 3, "service"]], "meta": {"model_predict": 1, "name": "良医互联"}, "name": "良医互联"}
+{"text": "e橙优品商城是撮合企业运营耗材在线交易的专业网购平台，隶属于深圳市橙橙网络科技有限公司", "labels": [[12, 18, "service"]], "meta": {"model_predict": 1, "name": "橙橙网络科技"}, "name": "橙橙网络科技"}
+{"text": "是服务于中国制造的专业一站式批量采购B2B工业电商平台。", "labels": [], "meta": {"model_predict": 1, "name": "橙橙网络科技"}, "name": "橙橙网络科技"}
+{"text": "多啦衣梦是一家主打【日常女装、礼服】等租赁服务电商网站，整合设计、生产、物流、洗涤等版块，支持月租（包年）或单次出租形式", "labels": [[10, 14, "service"], [15, 17, "service"], [19, 26, "service"], [39, 40, "service"]], "meta": {"model_predict": 1, "name": "多啦衣梦"}, "name": "多啦衣梦"}
+{"text": "隶属于成都必酷科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "多啦衣梦"}, "name": "多啦衣梦"}
+{"text": "乐电充电提供充电宝免费租借服务，平台现阶段主要是针对智能充电宝租借终端，业务主体已经覆盖BRT公交站、商场、KTV、酒店等区域", "labels": [[7, 15, "service"], [26, 35, "service"]], "meta": {"model_predict": 1, "name": "乐电充电"}, "name": "乐电充电"}
+{"text": "平台隶属于杭州兔兔帮科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "乐电充电"}, "name": "乐电充电"}
+{"text": "嗨家网是一个家装平台，以装饰装修为入口，打造以家为核心的生态圈，未来所有关于家的需求都可以在嗨家网实现。", "labels": [[13, 14, "service"], [14, 15, "domain"]], "meta": {"model_predict": 1, "name": "嗨家网"}, "name": "嗨家网"}
+{"text": "微记是一个连接亲密好友，共同记录生活的产品，致力于成为生活版的印象笔记。", "labels": [], "meta": {"model_predict": 1, "name": "微记"}, "name": "微记"}
+{"text": "莘荣投资是一家金融企业服务公司", "labels": [[7, 13, "domain"]], "meta": {"model_predict": 1, "name": "莘荣投资"}, "name": "莘荣投资"}
+{"text": "业务包括融资租赁业务;自贸区注册、商业保理、股权基金及咨询服务;企业上市、孵化等业务和办公楼出租，平行进口车等四大板块。", "labels": [[4, 10, "service"], [11, 16, "service"], [17, 21, "service"], [22, 31, "service"], [32, 36, "service"]], "meta": {"model_predict": 1, "name": "莘荣投资"}, "name": "莘荣投资"}
+{"text": "宅家里/隆田欣贵是一家专业的网络技术开发和信息技术服务为主导的社区O2O电子商务平台，基于移动互联网及LBS定位技术", "labels": [[14, 18, "service"], [21, 27, "service"], [31, 40, "service"]], "meta": {"model_predict": 1, "name": "宅家里"}, "name": "宅家里"}
+{"text": "以小区便利店为核心，为社区用户提供生活用品、家用百货、生鲜食品的购买与配送服务。", "labels": [[17, 21, "service"], [22, 26, "service"], [27, 39, "service"]], "meta": {"model_predict": 1, "name": "宅家里"}, "name": "宅家里"}
+{"text": "广州图扑网络是一家微信社交相册开发商，专注于打造最好用的社交相册。", "labels": [[9, 15, "domain"]], "meta": {"model_predict": 1, "name": "广州图扑网络"}, "name": "广州图扑网络"}
+{"text": "爱哭网是一个正确方法引导哭泣可以排解压力修复健康的平台，致力于利用线上论坛交流", "labels": [[16, 24, "service"]], "meta": {"model_predict": 1, "name": "爱哭网"}, "name": "爱哭网"}
+{"text": "名师课程、主题活动等方式教育引导客户接受“哭、笑、静是人最原始的情绪表象，缺一不可。隶属于上海吾爱酷信息技术有限公司。", "labels": [[1, 4, "service"], [5, 9, "service"], [10, 15, "service"]], "meta": {"model_predict": 1, "name": "爱哭网"}, "name": "爱哭网"}
+{"text": "壹壹租车是宜租集团旗下P2P模式的私家车分时租赁共享平台，用户可以自由取还停放在公共车位上的车辆。", "labels": [[0, 2, "service"], [17, 19, "domain"], [19, 26, "domain"], [41, 43, "service"]], "meta": {"model_predict": 1, "name": "壹壹租车"}, "name": "壹壹租车"}
+{"text": "跨无忧是一个网站跨屏幕整体解决方案提供商，基于css3mediaquery多媒体查询技术为企业的网站提供二次的开发", "labels": [[6, 11, "service"], [36, 44, "service"], [52, 54, "service"]], "meta": {"model_predict": 1, "name": "跨无忧"}, "name": "跨无忧"}

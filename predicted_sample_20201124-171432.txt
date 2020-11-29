@@ -1,0 +1,100 @@
+{"text": "为商家、物业公司和社区业主搭建体验式服务平台，力求激活庞大的社区商业资源。", "labels": [[4, 6, "domain"], [30, 36, "service"]], "meta": {"model_predict": 1, "name": "卡菲鱼"}, "name": "卡菲鱼"}
+{"text": "深圳希品科技是一家远程医疗服务平台，目前产品开发中。", "labels": [[9, 11, "domain"], [11, 15, "domain"]], "meta": {"model_predict": 1, "name": "深圳希品科技"}, "name": "深圳希品科技"}
+{"text": "题钱是专注于整合移动端调研及营销活动的工具平台，主要业务有3部分。1.VIP企业用户的定制调研", "labels": [[8, 12, "service"], [16, 18, "service"], [19, 21, "service"], [35, 37, "service"], [37, 38, "domain"], [38, 41, "service"]], "meta": {"model_predict": 1, "name": "题钱移动调研"}, "name": "题钱移动调研"}
+{"text": "营销等系统解决方案2.面向创业者的开放式调研营销工具平台。创业者和一般企业可以使用平台的免费调研和营销服务", "labels": [[0, 2, "service"], [44, 47, "service"]], "meta": {"model_predict": 1, "name": "题钱移动调研"}, "name": "题钱移动调研"}
+{"text": "3.题钱有章法是一款用户忠诚度管理工具。通过我们的专利智能硬件“超声波电子图章”直接在题钱手机app上盖章", "labels": [], "meta": {"model_predict": 1, "name": "题钱移动调研"}, "name": "题钱移动调研"}
+{"text": "替代使用不便的会员卡，积分卡，优惠券等服务。", "labels": [[7, 8, "service"], [11, 14, "service"]], "meta": {"model_predict": 1, "name": "题钱移动调研"}, "name": "题钱移动调研"}
+{"text": "玲动智能风是一款智能电风扇，通过下载手机APP即可进行控制和设定，能够为用户提供不同的自然风体验。隶属于玲动风尚科技有限公司", "labels": [[11, 12, "domain"], [43, 46, "service"]], "meta": {"model_predict": 1, "name": "玲动智能风"}, "name": "玲动智能风"}
+{"text": "北京启迪创意艺术设计有限公司是一家从事幼儿园设计装修工程、幼儿园VI策划,幼儿园配套设施销售等综合性公司", "labels": [[19, 25, "service"], [33, 36, "service"], [37, 41, "service"]], "meta": {"model_predict": 1, "name": "启迪创意"}, "name": "启迪创意"}
+{"text": "致力于幼儿园设计装修,幼儿园VI设计,大型玩具,EPDM地面,幼儿家具,塑料玩具,淘气堡,PVC地面,复合地板,感统器材,波波池", "labels": [[47, 50, "service"], [51, 55, "service"], [56, 60, "service"], [61, 64, "service"]], "meta": {"model_predict": 1, "name": "启迪创意"}, "name": "启迪创意"}
+{"text": "艺术攀岩,健身器材等。", "labels": [[0, 4, "service"], [5, 9, "service"]], "meta": {"model_predict": 1, "name": "启迪创意"}, "name": "启迪创意"}
+{"text": "简玩校园是一个大学生特色旅行服务平台，专注于为大学生提供各类特惠旅游产品", "labels": [[10, 14, "domain"], [30, 32, "domain"], [32, 36, "service"]], "meta": {"model_predict": 1, "name": "简玩校园"}, "name": "简玩校园"}
+{"text": "目前已经开发了草莓采摘烧烤游、百元苏州一日游、厦门鼓浪屿半自助游等近10项旅游产品，用户通过微信即可预定。", "labels": [[7, 9, "service"], [37, 41, "domain"], [47, 49, "domain"]], "meta": {"model_predict": 1, "name": "简玩校园"}, "name": "简玩校园"}
+{"text": "微观，一款专业微信息搜罗移动应用。成都点趣网络科技有限责任公司旗下产品。", "labels": [[7, 9, "service"], [9, 15, "domain"]], "meta": {"model_predict": 1, "name": "微观资讯"}, "name": "微观资讯"}
+{"text": "淘汽配是一家主打汽车后市场的垂直电商平台，主营汽车配件一站式采购服务的B2B、汽车维修和保养等O2O服务。", "labels": [[12, 13, "domain"], [14, 18, "domain"], [23, 30, "service"], [35, 37, "domain"], [37, 38, "service"], [39, 41, "domain"], [41, 43, "service"], [44, 46, "service"], [47, 52, "service"]], "meta": {"model_predict": 1, "name": "淘汽配"}, "name": "淘汽配"}
+{"text": "创由科技是一个大数据道路定价系统服务商，专注于解决城市交通拥堵问题。主要产品大数据道路定价系统，其技术原理由三大板块构成", "labels": [[7, 9, "service"], [9, 10, "domain"], [10, 17, "service"], [25, 27, "service"], [27, 28, "domain"], [28, 29, "service"], [41, 47, "service"]], "meta": {"model_predict": 1, "name": "创由科技"}, "name": "创由科技"}
+{"text": "即数据采集、道路模型、道路定价。目前，提供了三种解决方案，分别是全城拥堵定价方案、车道拥堵定价方案及路口拥堵定价方案。", "labels": [[0, 4, "service"], [6, 10, "service"], [11, 13, "service"], [32, 38, "service"], [41, 49, "service"], [50, 58, "service"]], "meta": {"model_predict": 1, "name": "创由科技"}, "name": "创由科技"}
+{"text": "众咖朋啡是一家咖啡领域的电子商务平台，该公司致力于打造咖啡与其周边业态的供应链", "labels": [[7, 9, "domain"], [12, 16, "domain"]], "meta": {"model_predict": 1, "name": "众咖朋啡"}, "name": "众咖朋啡"}
+{"text": "专注于如何从万千咖啡品类中选出只属于客户自己的咖啡品，致力打造一个咖啡指导平台。", "labels": [[8, 11, "service"], [33, 35, "service"], [35, 36, "domain"], [36, 37, "service"], [37, 38, "domain"], [38, 39, "service"]], "meta": {"model_predict": 1, "name": "众咖朋啡"}, "name": "众咖朋啡"}
+{"text": "拓欣菁优是一家专注K12阶段移动互联网教育服务的公司，旗下产品有菁优数学—中小学试题解析服务应用", "labels": [[14, 22, "service"], [43, 46, "service"]], "meta": {"model_predict": 1, "name": "菁优数学"}, "name": "菁优数学"}
+{"text": "隶属于拓欣菁优（北京）科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "菁优数学"}, "name": "菁优数学"}
+{"text": "咻是一款移动社交应用。隶属于北京天桐互动科技有限公司。", "labels": [[2, 4, "service"], [4, 9, "domain"]], "meta": {"model_predict": 1, "name": "咻"}, "name": "咻"}
+{"text": "上海派喔得广告公司是一家集媒体、设计、研发、销售等一体的现代化互联网媒体综合服务商", "labels": [[31, 32, "domain"], [34, 35, "domain"]], "meta": {"model_predict": 1, "name": "派喔得"}, "name": "派喔得"}
+{"text": "致力于提供设计、制作、代理、发布各类广告等服务。", "labels": [[14, 18, "service"], [18, 20, "service"]], "meta": {"model_predict": 1, "name": "派喔得"}, "name": "派喔得"}
+{"text": "载歌载舞是一个主打换房旅游的自助游服务网站，会员和本地商家可以提供各类旅游、换房服务，隶属于北京三头六臂网络技术有限公司。", "labels": [[10, 11, "domain"], [11, 12, "service"], [12, 13, "domain"], [14, 16, "service"], [16, 19, "domain"], [35, 37, "service"], [38, 42, "service"]], "meta": {"model_predict": 1, "name": "载歌载舞旅游网"}, "name": "载歌载舞旅游网"}
+{"text": "七楼网是一个创业创意集结平台", "labels": [], "meta": {"model_predict": 1, "name": "七楼网"}, "name": "七楼网"}
+{"text": "为所有对创业梦想的追求人提供创业资讯、创业指导、创业合伙人招募、投资人招募、诚信认证等各类可靠的创业服务", "labels": [[24, 30, "service"]], "meta": {"model_predict": 1, "name": "七楼网"}, "name": "七楼网"}
+{"text": "隶属于深圳市七楼网络有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "七楼网"}, "name": "七楼网"}
+{"text": "微师是一个面向中学生的学习辅导移动应用，拥有千万道附带详细解析的试题库，大量的一线名师实时在线辅导，量化的个性话学习分析模型", "labels": [[27, 31, "service"], [42, 45, "service"], [45, 48, "service"], [58, 59, "service"]], "meta": {"model_predict": 1, "name": "微师"}, "name": "微师"}
+{"text": "是中学生辅导和提分必备利器。北京众智新育信息技术有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "微师"}, "name": "微师"}
+{"text": "烧饭饭是一个基于地理位置为用户提供上门厨师及烧饭服务的O2O平台，汇聚专业厨师、烹饪达人为您提供上门烧饭服务", "labels": [[17, 19, "service"], [19, 20, "domain"], [20, 21, "service"], [22, 26, "service"], [27, 29, "service"], [29, 30, "domain"], [48, 54, "service"]], "meta": {"model_predict": 1, "name": "烧饭饭"}, "name": "烧饭饭"}
+{"text": "上海耶客网络科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "烧饭饭"}, "name": "烧饭饭"}
+{"text": "\"口袋育儿\"是一个专业的育儿问答社区，通过简洁的提问和回答交互，及时的推送通知以及几十位认证用户", "labels": [[12, 14, "service"], [14, 15, "domain"], [15, 16, "service"], [16, 17, "domain"]], "meta": {"model_predict": 1, "name": "口袋育儿社区"}, "name": "口袋育儿社区"}
+{"text": "让妈妈们的问题5分钟就可以得到答案。", "labels": [], "meta": {"model_predict": 1, "name": "口袋育儿社区"}, "name": "口袋育儿社区"}
+{"text": "靠谱汇是一个主打互联网领域的高端商务平台和社交网络。上海高派信息科技有限公司旗下网站。", "labels": [[8, 12, "domain"], [14, 16, "domain"], [16, 18, "domain"]], "meta": {"model_predict": 1, "name": "靠谱汇"}, "name": "靠谱汇"}
+{"text": "博湃养车是一家主打高端汽车上门保养服务的平台，以高端汽车上门保养为基础，扩展各项汽车使用过程代办业务的增值服务内容", "labels": [[11, 13, "domain"], [13, 14, "service"], [14, 19, "domain"], [40, 42, "service"], [51, 55, "service"]], "meta": {"model_predict": 1, "name": "博湃养车"}, "name": "博湃养车"}
+{"text": "为高端车主提供用车、养车、爱车体系化的有力支撑。捷威（北京）汽车技术服务有限公司旗下。", "labels": [[10, 12, "service"], [13, 18, "service"]], "meta": {"model_predict": 1, "name": "博湃养车"}, "name": "博湃养车"}
+{"text": "唯品国际是一家致力于电子烟产品的开发、设计、销售的企业，主要产品有可充电式电子烟、一次性电子烟、烟油、雾化器等", "labels": [[10, 14, "service"]], "meta": {"model_predict": 1, "name": "唯品国际"}, "name": "唯品国际"}
+{"text": "并提供电子烟的在线销售购买。", "labels": [[7, 10, "service"]], "meta": {"model_predict": 1, "name": "唯品国际"}, "name": "唯品国际"}
+{"text": "心跳是一个新发布的交友移动应用，可以基于用户兴趣爱好、为你一键推送有相同兴趣的人。北京甄科网络技术有限公司旗下产品。", "labels": [[9, 14, "domain"]], "meta": {"model_predict": 1, "name": "心跳"}, "name": "心跳"}
+{"text": "猫萌是一个手机上手绘交易分享平台，杭州猫萌网络科技有限公司旗下产品。", "labels": [[5, 13, "service"]], "meta": {"model_predict": 1, "name": "猫萌网络"}, "name": "猫萌网络"}
+{"text": "喵喵是一个手机上的女性整形美容服务平台，提供整容分享、咨询、交流等，福能科技旗下产品。", "labels": [[5, 7, "domain"], [9, 11, "domain"], [11, 12, "service"], [12, 13, "domain"], [13, 14, "service"], [14, 16, "domain"], [16, 17, "service"], [22, 26, "service"], [27, 29, "service"], [30, 32, "service"]], "meta": {"model_predict": 1, "name": "喵喵"}, "name": "喵喵"}
+{"text": "深圳蜂与鸟是一家游戏开发公司，专注于游戏原画，海报，卡牌，场景，二维动作及特效，3D角色及场景制作，3D角色动作及特效", "labels": [[8, 11, "domain"], [18, 22, "domain"]], "meta": {"model_predict": 1, "name": "深圳蜂与鸟"}, "name": "深圳蜂与鸟"}
+{"text": "UI等游戏外包全流程服务并游戏研发整套美术解决方案。", "labels": [[0, 2, "service"], [3, 5, "service"], [5, 6, "domain"], [6, 12, "service"], [13, 19, "service"], [19, 25, "service"]], "meta": {"model_predict": 1, "name": "深圳蜂与鸟"}, "name": "深圳蜂与鸟"}
+{"text": "装备公园是一个运动装备和食品的测评导购网站，网站主要内容是个人健康管理和运动训练相关的资讯。", "labels": [[12, 14, "service"], [31, 35, "service"], [36, 39, "service"]], "meta": {"model_predict": 1, "name": "装备公园"}, "name": "装备公园"}
+{"text": "妈妈和我是一个家庭医疗健康服务平台，通过放心宝智能蓝牙体温计等，为妈妈、孩子们提供医疗健康服务", "labels": [[7, 16, "domain"], [41, 47, "service"]], "meta": {"model_predict": 1, "name": "放心宝"}, "name": "放心宝"}
+{"text": "深圳市宇君康科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "放心宝"}, "name": "放心宝"}
+{"text": "机器猫口袋是一个付费语音视频问答C2C平台，对接专业人士和有资讯需求的用户，并通过平台的担保仲裁系统解决用户纠纷问题。", "labels": [[8, 17, "service"]], "meta": {"model_predict": 1, "name": "机器猫口袋"}, "name": "机器猫口袋"}
+{"text": "探宝是一个集商务社交、生活消费、投资理财、跨境金融服务为一体的综合性平台，隶属于深圳市未来时贷互联网金融服务有限公司。", "labels": [[5, 9, "service"], [9, 10, "domain"], [11, 13, "service"], [13, 14, "domain"], [14, 15, "service"], [16, 19, "service"], [19, 20, "domain"], [22, 23, "domain"], [23, 24, "service"], [24, 25, "domain"], [25, 26, "service"], [26, 27, "domain"], [33, 34, "domain"], [47, 50, "domain"]], "meta": {"model_predict": 1, "name": "探宝"}, "name": "探宝"}
+{"text": "潘多拉锁屏是一个手机上的互动锁屏工具和移动应用，隶属于北京智美点心科技有限公司。", "labels": [[12, 14, "service"]], "meta": {"model_predict": 1, "name": "潘多拉锁屏"}, "name": "潘多拉锁屏"}
+{"text": "玲动风尚是一个以智能小家电为研发方向的跨界创业团队，主要为客户和消费者提供整套智能家电解决方案及智能家电产品", "labels": [[39, 47, "service"], [48, 54, "service"]], "meta": {"model_predict": 1, "name": "玲动风尚"}, "name": "玲动风尚"}
+{"text": "公司目前已经开发完成智能风扇、智能电烤箱、智能电炖锅、智能取暖器、智能空调扇等产品，所有智能家电可通过一个APP统一控制", "labels": [[10, 14, "service"], [15, 20, "service"], [21, 26, "service"], [27, 32, "service"], [33, 38, "service"], [53, 56, "service"]], "meta": {"model_predict": 1, "name": "玲动风尚"}, "name": "玲动风尚"}
+{"text": "并可实现多种不同需求的智能化操作。其中智能风扇已经实现小规模量产。", "labels": [], "meta": {"model_predict": 1, "name": "玲动风尚"}, "name": "玲动风尚"}
+{"text": "广州市奥怡信息技术有限公司是一家信息技术公司，致力于发展电商平台，特别是移动平台的解决方案", "labels": [[16, 20, "domain"], [28, 30, "domain"], [33, 35, "service"], [36, 40, "service"]], "meta": {"model_predict": 1, "name": "奥怡信息"}, "name": "奥怡信息"}
+{"text": "同时也为不同行业不同规模的企业提供专业的解决方案服务。", "labels": [[20, 26, "service"]], "meta": {"model_predict": 1, "name": "奥怡信息"}, "name": "奥怡信息"}
+{"text": "血糖宝是一个面向糖尿病患者的智能血糖检测仪、血糖管理手机APP，天津观颐生物科技有限公司旗下产品。", "labels": [[22, 24, "domain"], [24, 25, "service"], [25, 26, "domain"], [26, 28, "service"]], "meta": {"model_predict": 1, "name": "血糖宝"}, "name": "血糖宝"}
+{"text": "一修工作室是一个主要从事移动应用、网站开发，致力于构建一个年轻、充满创新精神的团队，把握移动互联网的机遇", "labels": [[12, 16, "domain"], [19, 20, "domain"], [46, 47, "domain"]], "meta": {"model_predict": 1, "name": "一修工作室"}, "name": "一修工作室"}
+{"text": "把下一个绝妙的IDEA变为现实。隶属于南京一修网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "一修工作室"}, "name": "一修工作室"}
+{"text": "印色是一个提供个性化设计物品的网站，消费者可以在印色设计自己属于自己的礼品，设计师可以通过设计作品为自己赚取收益。", "labels": [[7, 14, "service"], [35, 37, "service"]], "meta": {"model_predict": 1, "name": "印色"}, "name": "印色"}
+{"text": "八融宝是一个虚拟资产投融资平台", "labels": [[6, 8, "service"], [8, 14, "domain"]], "meta": {"model_predict": 1, "name": "八融宝"}, "name": "八融宝"}
+{"text": "眯眯生活是一个专注于高校生活的服务APP，为在校学生提供社交、O2O本地生活服务等，隶属于广州市斯古迈信息科技有限公司。", "labels": [[10, 14, "domain"], [15, 16, "domain"], [31, 40, "service"]], "meta": {"model_predict": 1, "name": "眯眯生活"}, "name": "眯眯生活"}
+{"text": "特贰是一个基于地理位置的物品交换社区，隶属于北京风泽科技有限公司。", "labels": [[12, 14, "service"], [14, 15, "domain"], [16, 17, "domain"]], "meta": {"model_predict": 1, "name": "特贰"}, "name": "特贰"}
+{"text": "野薄荷是一家知识内容聚合分享众包服务平台，为用户提供同步阅读和探究全球最有趣、最有思想、最深入的话题", "labels": [[12, 18, "domain"], [28, 30, "service"], [34, 36, "service"]], "meta": {"model_predict": 1, "name": "野薄荷"}, "name": "野薄荷"}
+{"text": "凭条可从英文互联网撷取优质内容，通过众包翻译共享知识和内容。", "labels": [[20, 26, "service"], [27, 29, "service"]], "meta": {"model_predict": 1, "name": "野薄荷"}, "name": "野薄荷"}
+{"text": "正点办公是一家企业服务提供商，为协同办公提供解决方案，通过打造云平台，解决办公协同，隶属于广州驿元信息科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "正点办公"}, "name": "正点办公"}
+{"text": "车兔是一个学车驾考移动应用，提供集驾校报名团购、题库和学车交流社区为一体的服务，北京美车天下科技有限公司旗下产品。", "labels": [[5, 12, "domain"], [18, 22, "service"], [24, 26, "service"], [27, 33, "service"]], "meta": {"model_predict": 1, "name": "车兔"}, "name": "车兔"}
+{"text": "优活乐选高尔夫是一家针对高尔夫人群的产品平台，汇集高尔夫俱乐部与中高端产品商家，为商家和俱乐部提供方便快捷的交流合作模式。", "labels": [[14, 15, "domain"]], "meta": {"model_predict": 1, "name": "优活乐选高尔夫"}, "name": "优活乐选高尔夫"}
+{"text": "安妮妹妹网是一个女性时尚网购平台，致力于营造快捷、形象、最前沿的时尚体验，根据女性不同特色定制女神", "labels": [[8, 14, "domain"], [43, 45, "service"], [47, 49, "service"]], "meta": {"model_predict": 1, "name": "安妮妹妹网"}, "name": "安妮妹妹网"}
+{"text": "每天在网站推荐几百款热门鞋服、化妆品和几百条时尚信息和健身养颜秘诀，并以远低于市场价折扣限量出售", "labels": [[6, 7, "service"], [7, 8, "service"], [8, 10, "service"], [10, 14, "service"], [15, 18, "service"]], "meta": {"model_predict": 1, "name": "安妮妹妹网"}, "name": "安妮妹妹网"}
+{"text": "隶属于上海腾族网络科技有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "安妮妹妹网"}, "name": "安妮妹妹网"}
+{"text": "工作趣是一家致力于团队协作产品研发的初创公司。", "labels": [], "meta": {"model_predict": 1, "name": "工作趣"}, "name": "工作趣"}
+{"text": "轻客是一个轻威客任务平台，一方面平台自身会发布诸多任务等用户来完成，另一方面用户也可以主动发布任务，让大家来帮自己达成心愿", "labels": [], "meta": {"model_predict": 1, "name": "轻客"}, "name": "轻客"}
+{"text": "杭州微语科技有限公司旗下产品，此前主打产品为对爱网。", "labels": [], "meta": {"model_predict": 1, "name": "轻客"}, "name": "轻客"}
+{"text": "叮叮交友是一款基于校园的交友软件，隶属于北京奇客创想信息技术有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "叮叮交友"}, "name": "叮叮交友"}
+{"text": "寓见城市青年公寓是一个面向都市青的公寓住宿连锁品牌，支持实现线上房源展示和预定、线下体验和交易的模式", "labels": [[19, 21, "domain"], [28, 36, "service"], [37, 39, "service"], [40, 44, "service"]], "meta": {"model_predict": 1, "name": "寓见城市青年公寓"}, "name": "寓见城市青年公寓"}
+{"text": "上海小寓信息科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "寓见城市青年公寓"}, "name": "寓见城市青年公寓"}
+{"text": "信捷转运是一个电子商务和国际物流平台，专注于提供一站式、便捷海外购物解决方案", "labels": [[7, 11, "domain"], [12, 16, "domain"], [24, 27, "service"], [28, 30, "service"], [30, 38, "service"]], "meta": {"model_predict": 1, "name": "信捷转运"}, "name": "信捷转运"}
+{"text": "网站有电子数码、服装箱包、日用百货和食品保健等多种产品分类。隶属于江门市蓬江区网胜科技有限公司。", "labels": [[0, 2, "service"], [3, 7, "service"], [8, 12, "service"], [13, 18, "service"], [18, 22, "service"], [23, 25, "service"], [25, 27, "service"]], "meta": {"model_predict": 1, "name": "信捷转运"}, "name": "信捷转运"}
+{"text": "简米系统（简米桌面）是一个主打老人机、父母智能手机解决方案的公司，致力于构建以老人为核心的家庭沟通和健康娱乐平台", "labels": [[19, 26, "service"], [45, 48, "service"], [52, 54, "domain"]], "meta": {"model_predict": 1, "name": "简米系统"}, "name": "简米系统"}
+{"text": "上海饭米力信息科技有限公司旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "简米系统"}, "name": "简米系统"}
+{"text": "索度互联是一家专注于儿童教育的初创公司，旗下产品有：有童会APP软件、儿童健康手环、智能鞋、艾果网等。", "labels": [[42, 45, "service"], [46, 49, "service"]], "meta": {"model_predict": 1, "name": "索度互联"}, "name": "索度互联"}
+{"text": "专业的企业化财税行业定制化的服务提供商，帮助解决行业的难点痛点。", "labels": [[5, 10, "service"]], "meta": {"model_predict": 1, "name": "新餐馆"}, "name": "新餐馆"}
+{"text": "杭州多听科技是一家专注于移动互联网音频分享的公司，核心产品主要有：“音频分享平台”、“多听单行本”、“点播电台”", "labels": [[12, 14, "domain"], [14, 15, "service"], [15, 21, "domain"], [34, 40, "service"]], "meta": {"model_predict": 1, "name": "多听网络"}, "name": "多听网络"}
+{"text": "此外还有硬件产品多听V电台等。", "labels": [[4, 8, "service"]], "meta": {"model_predict": 1, "name": "多听网络"}, "name": "多听网络"}
+{"text": "车听宝是多听FM推出了一款基于点烟器的车载音频智能硬件", "labels": [[0, 1, "service"], [26, 27, "service"]], "meta": {"model_predict": 1, "name": "车听宝"}, "name": "车听宝"}
+{"text": "用户只需通过移动App和该硬件（插入电脑）即可实现互联网音乐和节目的控收听和控制。", "labels": [[6, 8, "domain"], [25, 30, "service"]], "meta": {"model_predict": 1, "name": "车听宝"}, "name": "车听宝"}
+{"text": "摩科生物是一家肿瘤精准诊疗服务商，专注于建立肺癌肿瘤新抗原的预测研发平台以及数据库。通过对每一位病人进行个体化的新抗原预测", "labels": [[22, 23, "service"], [23, 24, "domain"], [24, 25, "service"], [38, 40, "service"]], "meta": {"model_predict": 1, "name": "摩科生物"}, "name": "摩科生物"}
+{"text": "睿宝金服是文化消费和理财投资等服务的管理平台，聚合图书出版、数字出版、书店零售、新媒体传播等中信出版集团的优质资源", "labels": [[8, 9, "domain"], [11, 12, "domain"], [12, 14, "domain"], [18, 20, "domain"], [23, 29, "service"], [30, 34, "service"], [35, 39, "service"], [40, 45, "service"], [53, 57, "service"]], "meta": {"model_predict": 1, "name": "睿宝金服"}, "name": "睿宝金服"}
+{"text": "专注于打造独具特色、高品质、高粘度的会员服务体系。以千万量级的读者为服务对象", "labels": [[18, 22, "service"]], "meta": {"model_predict": 1, "name": "睿宝金服"}, "name": "睿宝金服"}
+{"text": "为用户构建一个兼具文化消费和理财投资等服务功能的“超级账户管理平台”。信睿宝会员账户兼具文化服务与交易支付等金融服务功能。", "labels": [[10, 11, "domain"], [11, 12, "service"], [12, 13, "domain"], [14, 18, "service"], [27, 28, "domain"], [44, 48, "service"], [49, 53, "service"], [54, 58, "service"]], "meta": {"model_predict": 1, "name": "睿宝金服"}, "name": "睿宝金服"}
+{"text": "“借点儿”是一个基于关系链做征信和传播的金融平台，主要基于用户在社交中的自己沉淀的信誉为基础", "labels": [[20, 22, "domain"], [23, 24, "domain"], [33, 34, "domain"]], "meta": {"model_predict": 1, "name": "借点儿"}, "name": "借点儿"}
+{"text": "由借款人自主设定借款金额、借款期限、借款理由并主动向好友提供一定的利息回报", "labels": [], "meta": {"model_predict": 1, "name": "借点儿"}, "name": "借点儿"}
+{"text": "由出借人通过对借款项目的个人审核和对借款人的社交中中信用进行自主评定，再根据个人能力提供借款", "labels": [[44, 46, "service"]], "meta": {"model_predict": 1, "name": "借点儿"}, "name": "借点儿"}
+{"text": "实现对朋友的帮助和闲置资金的安全增值。除此之外，还具有“成熟社交网络信息流”“众筹分包””增值服务“等模式。", "labels": [[28, 34, "service"], [45, 49, "service"]], "meta": {"model_predict": 1, "name": "借点儿"}, "name": "借点儿"}
+{"text": "二一美银电子商务是一家主打21MASK面膜的电子商务公司。", "labels": [[0, 1, "service"], [20, 21, "service"], [22, 23, "domain"]], "meta": {"model_predict": 1, "name": "二一美银电子商务"}, "name": "二一美银电子商务"}
+{"text": "威海宣杨光电科技有限公司是一家高清尖端摄像头模组研发公司，为国内大型摄像头模组提供配套服务。", "labels": [[15, 18, "service"]], "meta": {"model_predict": 1, "name": "威海宣杨光电"}, "name": "威海宣杨光电"}
+{"text": "优居客装修网是一家一站式装修O2O服务，为装修业主提供更省心、更放心、更划算的装修服务。上海欢居信息技术有限公司旗下网站。", "labels": [[13, 19, "domain"]], "meta": {"model_predict": 1, "name": "优居客装修网"}, "name": "优居客装修网"}
+{"text": "深圳小闪快送是一个互联网新零售快送平台，面向O2O无店面新零售企业提供城市3H快送服务，小闪的智能化物流体系和城市快速配送网", "labels": [[13, 14, "domain"], [35, 37, "domain"], [37, 41, "service"], [47, 53, "service"], [55, 59, "service"], [59, 60, "domain"]], "meta": {"model_predict": 1, "name": "深圳小闪快送"}, "name": "深圳小闪快送"}
+{"text": "将为新零售品牌快速扩张提供全新的物流基础及渠道新零售服务，目前公司的主要业务包括园区定点配送、全城快送服务。", "labels": [[16, 20, "service"], [40, 46, "service"], [47, 53, "service"]], "meta": {"model_predict": 1, "name": "深圳小闪快送"}, "name": "深圳小闪快送"}
+{"text": "乃大传媒是一家短视频营销智能匹配、精准投放平台，隶属于深圳乃大传媒信息技术有限公司。", "labels": [[7, 10, "service"], [10, 11, "domain"], [12, 13, "domain"]], "meta": {"model_predict": 1, "name": "乃大传媒"}, "name": "乃大传媒"}
+{"text": "中医宝是一个在线中医问诊平台，除了提供挂号预约功能之外，“中医宝”App提供了特色化的养生资讯及知识，供用户掌握养生知识", "labels": [[9, 10, "domain"], [19, 27, "service"], [43, 46, "service"], [59, 60, "service"]], "meta": {"model_predict": 1, "name": "中医宝"}, "name": "中医宝"}

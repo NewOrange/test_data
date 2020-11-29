@@ -1,0 +1,100 @@
+{"text": "银票网是一个金融信息发布平台，旗下开发的银票理财是一个P2B模式的票据理财业务。", "labels": [[6, 11, "domain"], [27, 31, "service"], [33, 34, "service"], [34, 38, "domain"]], "meta": {"model_predict": 1, "name": "银票网"}, "name": "银票网"}
+{"text": "映贝金服是一个专业互联网金融平台，主要进行大型国企、央企的银行承兑汇票或商业承兑汇票的债券及收益权转让、票据质押", "labels": [[9, 14, "domain"], [36, 45, "service"], [46, 50, "service"], [52, 56, "service"]], "meta": {"model_predict": 1, "name": "映贝金服"}, "name": "映贝金服"}
+{"text": "隶属于上海华荻资产管理有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "映贝金服"}, "name": "映贝金服"}
+{"text": "惠盈理财是由杭州广惠投资管理有限公司开发和运营的互联网金融平台，让广大投资人轻松实现投资理财。", "labels": [[24, 25, "domain"], [25, 29, "service"], [41, 46, "service"]], "meta": {"model_predict": 1, "name": "惠盈理财"}, "name": "惠盈理财"}
+{"text": "小九金服是领先的互联网金融P2P网贷、p2p理财、p2p货款的投资理财平台，汽车抵押贷款服务平台。小九金服聚焦小微金融", "labels": [[8, 9, "domain"], [10, 18, "service"], [19, 20, "service"], [20, 24, "domain"], [25, 26, "service"], [26, 30, "domain"], [31, 32, "service"], [32, 33, "domain"], [38, 46, "service"]], "meta": {"model_predict": 1, "name": "小九金服"}, "name": "小九金服"}
+{"text": "以小额、抵押、直营、分散的风控原则服务广大小微客户，", "labels": [[13, 19, "service"]], "meta": {"model_predict": 1, "name": "小九金服"}, "name": "小九金服"}
+{"text": "联璧科技成立于2012年，注册资本1亿元，实缴资金1亿元，总部位于中国上海，是较早提出场景互联网整体解决方案的运营商", "labels": [[43, 52, "service"]], "meta": {"model_predict": 1, "name": "联璧金融"}, "name": "联璧金融"}
+{"text": "联璧科技秉承“致力于帮助传统行业实现O2O转型“这一使命，与上海某知名通信企业联手，实现资源战略对接", "labels": [[18, 23, "service"]], "meta": {"model_predict": 1, "name": "联璧金融"}, "name": "联璧金融"}
+{"text": "构建以“端、管、应用、云、运营”五大元素为核心的O2O产品闭环型整体解决方案，向世人展示了联璧科技的产品研发和运营实力", "labels": [[24, 29, "service"]], "meta": {"model_predict": 1, "name": "联璧金融"}, "name": "联璧金融"}
+{"text": "基于强大的科技基因，公司于2014年组建成立互联网金融事业部，并投入研发力量进行互联网理财平台的开发", "labels": [[40, 46, "domain"]], "meta": {"model_predict": 1, "name": "联璧金融"}, "name": "联璧金融"}
+{"text": "微信版理财平台“联璧钱包”及APP产品“联璧金融”藉此而生，平台启动股本金1亿元", "labels": [[0, 5, "domain"], [14, 19, "service"]], "meta": {"model_predict": 1, "name": "联璧金融"}, "name": "联璧金融"}
+{"text": "平台诞生之初便与上海某知名通信企业在个人消费数码领域开展了成功的跨界合作，平台上线伊始即获得大量用户资源", "labels": [[14, 15, "domain"], [19, 23, "domain"], [51, 52, "service"]], "meta": {"model_predict": 1, "name": "联璧金融"}, "name": "联璧金融"}
+{"text": "联璧平台由专业的金融技术团队、运营管理团队悉心打造，至2016年初，联璧互联网金融事业部拟独立成为金融信息服务公司", "labels": [[9, 12, "domain"], [49, 55, "domain"]], "meta": {"model_predict": 1, "name": "联璧金融"}, "name": "联璧金融"}
+{"text": "依托联璧与上海某知名通信企业及其上市公司旗下智慧城市布局，基于高科技产业链内优质基础资产", "labels": [], "meta": {"model_predict": 1, "name": "联璧金融"}, "name": "联璧金融"}
+{"text": "面向互联网理财用户提供专业的投资咨询与金融信息服务，并对润滑产业链、振兴实体科技起到引擎及支撑作用。在联璧的未来三年规划当中", "labels": [[2, 3, "domain"], [14, 19, "service"], [19, 25, "service"]], "meta": {"model_predict": 1, "name": "联璧金融"}, "name": "联璧金融"}
+{"text": "一款陌生人交友软件，遇见你的唯一，帮助单身的童鞋们找到对的Ta~麦檬科技出品。", "labels": [[5, 6, "domain"]], "meta": {"model_predict": 1, "name": "木枝"}, "name": "木枝"}
+{"text": "秋菠网，一个以送为主题的校园互助分享交友平台，通过送东西的方式帮助你认识更多的朋友。北京麦檬科技有限公司旗下产品。", "labels": [[12, 13, "service"], [13, 22, "domain"]], "meta": {"model_predict": 1, "name": "秋菠网"}, "name": "秋菠网"}
+{"text": "麦檬是一家简单、有趣、创造价值的移动互联网公司，主要关注新型社交应用和产品。代表产品有QA恋和秋菠网。", "labels": [[28, 34, "domain"], [36, 37, "domain"]], "meta": {"model_predict": 1, "name": "麦檬科技"}, "name": "麦檬科技"}
+{"text": "咸鱼理财是一个专注于互联网供应链金融的移动端理财信息中介平台，主要致力于移动互联网理财服务平台的建设与运营，让钱包翻倍", "labels": [[19, 26, "domain"], [36, 45, "domain"]], "meta": {"model_predict": 1, "name": "咸鱼理财"}, "name": "咸鱼理财"}
+{"text": "致力于深圳中银华融金融控股有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "咸鱼理财"}, "name": "咸鱼理财"}
+{"text": "小诸葛科技（深圳）有限公司是一家专注于第三方支付的科技公司，为商家打造新的赢利能力。", "labels": [[19, 20, "service"], [20, 22, "domain"]], "meta": {"model_predict": 1, "name": "小诸葛金服"}, "name": "小诸葛金服"}
+{"text": "哈米科技是一家为自助零食贩卖平台，旗下产品哈米魔方是哈米推出的办公室mini茶水间美食业务，结合移动支付和开放自选模式", "labels": [[10, 14, "domain"], [37, 45, "service"], [46, 47, "service"], [47, 48, "service"], [48, 52, "service"], [53, 59, "service"]], "meta": {"model_predict": 1, "name": "哈米科技"}, "name": "哈米科技"}
+{"text": "针对企业白领，可以自助选购零食、自助支付。为办公室提供高品质私人定制美食的运营服务。", "labels": [[9, 15, "service"], [16, 20, "service"], [27, 36, "service"]], "meta": {"model_predict": 1, "name": "哈米科技"}, "name": "哈米科技"}
+{"text": "越游网络是一家手机游戏开发商，产品有ChaosRage(混沌之怒)、赤壁风云等。", "labels": [[7, 8, "domain"], [9, 11, "domain"], [28, 29, "service"], [34, 35, "service"]], "meta": {"model_predict": 1, "name": "越游网络"}, "name": "越游网络"}
+{"text": "种钱网是一家上市公司控股股东战略入股理财平台，致力于为投资者提供更加安全透明的互联网投融资撮合服务，发展普惠金融", "labels": [[55, 56, "service"]], "meta": {"model_predict": 1, "name": "种钱网"}, "name": "种钱网"}
+{"text": "公司将市场定位于小微投资群体和借贷群体，为民间投融资双方搭建信息服务平台，将原先的信用借贷转型为动产抵押借贷，进行市场细分。", "labels": [[11, 14, "service"], [15, 19, "service"], [30, 34, "service"], [44, 45, "service"], [52, 54, "domain"]], "meta": {"model_predict": 1, "name": "种钱网"}, "name": "种钱网"}
+{"text": "叮当钱包致力于打造年轻人专属的信用零钱包，给年轻人（学生）提供小额信用贷款服务。北京玖富时代投资顾问有限公司旗下产品。", "labels": [[15, 19, "domain"], [31, 39, "service"]], "meta": {"model_predict": 1, "name": "叮当钱包"}, "name": "叮当钱包"}
+{"text": "丫丫网是上海丫丫信息科技有限公司旗下网站，是一个全国性的育儿网站。", "labels": [], "meta": {"model_predict": 1, "name": "丫丫网"}, "name": "丫丫网"}
+{"text": "贝果金融是一家金融服务公司，依托大数据、云计算致力于为投资者提供最真实、可靠的企业债权信息与信息披露", "labels": [[7, 11, "domain"]], "meta": {"model_predict": 1, "name": "贝果金融"}, "name": "贝果金融"}
+{"text": "帮助投资者通过购买债权的方式，投资优质企业实现财富增值。隶属于贵州中融普惠互联网金融服务有限公司", "labels": [], "meta": {"model_predict": 1, "name": "贝果金融"}, "name": "贝果金融"}
+{"text": "金牌理财网是一个网上金融理财平台，以车辆质押融资业务为基础，为用户提供大数据征信和增值服务，隶属于河南恒元进金融服务有限公司。", "labels": [[8, 9, "domain"], [10, 14, "domain"], [20, 26, "service"], [35, 45, "service"]], "meta": {"model_predict": 1, "name": "金牌理财"}, "name": "金牌理财"}
+{"text": "智慧矩阵是一家商业智能客户管理解决方案提供商，公司致力于为企业打造商业智能客户管理解决方案", "labels": [[7, 16, "service"], [33, 34, "service"], [34, 35, "service"], [35, 45, "service"]], "meta": {"model_predict": 1, "name": "智慧矩阵"}, "name": "智慧矩阵"}
+{"text": "为企业提供新一代的Saas服务以及搭建IaaS基础设施私有云平台", "labels": [[21, 25, "service"]], "meta": {"model_predict": 1, "name": "智慧矩阵"}, "name": "智慧矩阵"}
+{"text": "公司核心产品是帮助各类企业解决利用移动社交应用管理客户存在的信息碎片化、统一化管理难实现、客户信息安全性低等问题", "labels": [[17, 25, "domain"]], "meta": {"model_predict": 1, "name": "智慧矩阵"}, "name": "智慧矩阵"}
+{"text": "针对移动社交应用客户关系网络的管理、分析及维护的解决方案。公司的产品可有效利用移动社交作为客户触达管理工具，可有效提高安全性", "labels": [[0, 1, "service"], [2, 9, "service"], [12, 14, "service"], [15, 17, "service"], [18, 20, "service"], [22, 23, "service"], [25, 28, "service"], [59, 62, "service"]], "meta": {"model_predict": 1, "name": "智慧矩阵"}, "name": "智慧矩阵"}
+{"text": "提升客户满意度，帮助企业真正实现无忧客户管理。", "labels": [], "meta": {"model_predict": 1, "name": "智慧矩阵"}, "name": "智慧矩阵"}
+{"text": "行加是一家付费制经验交易一站式解决方案提供商，支持同时在多个城市进行运营", "labels": [[6, 12, "service"]], "meta": {"model_predict": 1, "name": "行加"}, "name": "行加"}
+{"text": "提供资料审核、私信聊天、在线支付、统计分析以及业务管理等服务，隶属于北京绿葡科技有限公司。", "labels": [[2, 6, "service"], [7, 11, "service"], [12, 16, "service"], [17, 27, "service"]], "meta": {"model_predict": 1, "name": "行加"}, "name": "行加"}
+{"text": "野狗API应用于各种实时通信场景，野狗是国内领先的实时后端云，为应用提供基础的通信服务。野狗科技（北京）有限公司旗下产品。", "labels": [[36, 38, "service"], [39, 43, "service"]], "meta": {"model_predict": 1, "name": "野狗实时通信云"}, "name": "野狗实时通信云"}
+{"text": "成都技慕奇乐科技有限公司是一家从事手持移动设备游戏研发的企业，研发了《黄泉道》、《七夜》、《天地道》等手机游戏。", "labels": [[17, 25, "domain"]], "meta": {"model_predict": 1, "name": "技慕奇乐游戏"}, "name": "技慕奇乐游戏"}
+{"text": "热葫芦是一家专注于iOS榜单优化、ASO搜索优化的顾问式服务商。热葫芦在为移动广告主和应用开发者提供专家级营销整合方案的同时", "labels": [[25, 27, "service"], [37, 38, "domain"], [38, 41, "service"], [53, 59, "service"]], "meta": {"model_predict": 1, "name": "热葫芦"}, "name": "热葫芦"}
+{"text": "通过真实用户的真实搜索行为引导APP下载激活，迅速提高应用商店榜单排名或搜索排名，从而吸引大量的自然下载或精准用户。", "labels": [], "meta": {"model_predict": 1, "name": "热葫芦"}, "name": "热葫芦"}
+{"text": "多拍APP是一款15秒美颜视频、即时聊天分享应用，提供多款美颜滤镜、支持视频点拍方式。深圳多拍科技有限公司旗下产品。", "labels": [[4, 5, "service"], [11, 15, "service"], [17, 24, "service"], [27, 33, "service"], [34, 35, "service"], [36, 42, "service"]], "meta": {"model_predict": 1, "name": "多拍科技"}, "name": "多拍科技"}
+{"text": "企销销是一家专注企业大数据的挖掘工作的企业，企销销企业大数据系统获取9000+万企业数据信息", "labels": [[11, 13, "domain"], [19, 20, "domain"], [43, 46, "service"]], "meta": {"model_predict": 1, "name": "企销销"}, "name": "企销销"}
+{"text": "开发的潜客挖掘系统能在5秒内为您推荐出最有价值的相关企业。", "labels": [[3, 5, "service"]], "meta": {"model_predict": 1, "name": "企销销"}, "name": "企销销"}
+{"text": "法兰游戏是一个游戏开发商，专注于IOS、Android双平台移动游戏研发及海外发行", "labels": [[7, 10, "domain"], [30, 35, "domain"], [38, 41, "domain"]], "meta": {"model_predict": 1, "name": "法兰游戏"}, "name": "法兰游戏"}
+{"text": "《使命召唤online》、《逆战》等是旗下射击类网游游戏，团队核心成员均为腾讯、金山、Gameloft、动视暴雪等。", "labels": [[25, 28, "domain"]], "meta": {"model_predict": 1, "name": "法兰游戏"}, "name": "法兰游戏"}
+{"text": "趣拍堂是一个微信文玩拍卖平台，博闻易评信息技术（北京）有限公司旗下产品。", "labels": [[6, 12, "domain"], [19, 23, "service"]], "meta": {"model_predict": 1, "name": "趣拍堂"}, "name": "趣拍堂"}
+{"text": "停止运营！", "labels": [], "meta": {"model_predict": 1, "name": "北京公司"}, "name": "北京公司"}
+{"text": "高德中彩是一家专注于移动互联网与生活服务的科技公司，主营业务包括彩票行业产品研发、系统运营、电子商务和彩票连锁机构品牌运营等", "labels": [[10, 16, "service"], [16, 20, "domain"], [32, 40, "service"], [41, 45, "service"], [46, 50, "service"], [51, 54, "service"], [55, 56, "service"]], "meta": {"model_predict": 1, "name": "高德中彩"}, "name": "高德中彩"}
+{"text": "旗下的“彩乐瀑”一个全国性彩票专营连锁品牌，主要业务包括实体店业务、即开型彩票业务、以及线上增值服务业务等。", "labels": [[13, 16, "domain"], [28, 33, "service"], [34, 41, "service"], [44, 52, "service"]], "meta": {"model_predict": 1, "name": "高德中彩"}, "name": "高德中彩"}
+{"text": "华能成长宝是一个专业的金融理财平台，覆盖货币基金、基金理财、定期理财、小额信贷、票据理财、保险等业务。", "labels": [[11, 15, "domain"], [20, 24, "service"], [25, 29, "service"], [30, 34, "service"], [35, 39, "service"], [40, 44, "service"], [45, 46, "service"], [46, 47, "domain"]], "meta": {"model_predict": 1, "name": "华能成长宝"}, "name": "华能成长宝"}
+{"text": "面包旅行是一款记录你探索世界轨迹，分享旅途中点点滴滴的手机应用。北京道玺优讯科技有限公司旗下产品。", "labels": [[24, 26, "service"], [27, 30, "service"]], "meta": {"model_predict": 1, "name": "面包旅行"}, "name": "面包旅行"}
+{"text": "掌上游是一家拥有自主3D引擎的移动设备游戏研发团队，研发的《黄泉道》、《七夜》、《天地道》等产品", "labels": [[15, 21, "domain"]], "meta": {"model_predict": 1, "name": "掌上游"}, "name": "掌上游"}
+{"text": "手机游戏“金鱼奖”3D单机游戏等。", "labels": [[0, 4, "service"], [5, 8, "service"], [9, 15, "service"]], "meta": {"model_predict": 1, "name": "掌上游"}, "name": "掌上游"}
+{"text": "零重力是一家专注于游戏研发与运营的公司。秉持多平台与独立玩法的手游拓展战略", "labels": [[9, 11, "domain"]], "meta": {"model_predict": 1, "name": "零重力游戏"}, "name": "零重力游戏"}
+{"text": "致力于为用户提供经营养成与策略休闲类游戏及其相关资讯与服务。", "labels": [[10, 12, "service"], [13, 20, "service"]], "meta": {"model_predict": 1, "name": "零重力游戏"}, "name": "零重力游戏"}
+{"text": "美约是一个基于LBS和熟人推荐的婚恋社交应用，隶属于北京易美乐触科技有限公司。", "labels": [[16, 17, "service"], [17, 22, "domain"]], "meta": {"model_predict": 1, "name": "美约"}, "name": "美约"}
+{"text": "从客户的衣食住行开始，打造全方位一体化服务体系。", "labels": [], "meta": {"model_predict": 1, "name": "邸诺共享旅行"}, "name": "邸诺共享旅行"}
+{"text": "海对面是一个原创海外短视频内容的自媒体平台，节目形态覆盖直播、短视频、记录片、真人秀、大电影等。", "labels": [[7, 14, "service"], [14, 15, "domain"], [16, 17, "service"], [17, 19, "domain"], [22, 23, "service"], [28, 30, "service"], [31, 34, "service"], [35, 38, "service"], [39, 42, "service"], [43, 46, "service"]], "meta": {"model_predict": 1, "name": "海对面"}, "name": "海对面"}
+{"text": "水水网络是一家从事互联网技术服务，计算机软件开发及应用，金融行业营销服务外包于一体的营销性互联网企业", "labels": [[9, 10, "service"], [10, 16, "domain"], [19, 22, "service"], [28, 36, "service"], [44, 50, "domain"]], "meta": {"model_predict": 1, "name": "水水网络"}, "name": "水水网络"}
+{"text": "企业提供的服务包括SEM服务，SEO服务，微信、微博营销等。", "labels": [[9, 14, "service"], [15, 20, "service"], [21, 23, "service"], [24, 28, "service"]], "meta": {"model_predict": 1, "name": "水水网络"}, "name": "水水网络"}
+{"text": "快推是一个提供移动招聘服务的平台。上海快推网络科技有限公司旗下产品。", "labels": [[6, 13, "domain"], [22, 23, "domain"]], "meta": {"model_predict": 1, "name": "快推"}, "name": "快推"}
+{"text": "指引是一家商业经验共享平台，平台致力于对职场员工和创业人士提供服务，平台以用户需求和体验为导向，专注于做个性化商业咨询服务", "labels": [[8, 11, "domain"], [55, 61, "service"]], "meta": {"model_predict": 1, "name": "指引未来"}, "name": "指引未来"}
+{"text": "着力解决用户来自创业和职场中的压力，问题，烦恼，研究并判断和发现用户的需求和体验方向，平台提供专家团", "labels": [[15, 16, "service"]], "meta": {"model_predict": 1, "name": "指引未来"}, "name": "指引未来"}
+{"text": "让专家能力到价值的转换更加方便，快速，有效，让有能力的人，得到一份增加收入的机会，平台隶属于四川指引未来电子商务有限公司。", "labels": [], "meta": {"model_predict": 1, "name": "指引未来"}, "name": "指引未来"}
+{"text": "果巾巾是一家自营的海外女性生理期产品网站，目前经营全球姨妈巾、私处清洁护理、经期调养产品。温州班布鹿科技有限公司旗下产品。", "labels": [[10, 18, "service"], [28, 30, "service"], [31, 37, "service"], [38, 44, "service"]], "meta": {"model_predict": 1, "name": "果巾巾"}, "name": "果巾巾"}
+{"text": "环球美联英语是一家个性化英语培训专家，提供成人英语学习培训服务，隶属于环球美联（北京）教育咨询有限公司。", "labels": [[13, 15, "domain"], [23, 31, "service"]], "meta": {"model_predict": 1, "name": "环球美联英语"}, "name": "环球美联英语"}
+{"text": "名车贷是一家专注于汽车抵押借款服务的互联网金融P2P平台。上海众待金融信息服务有限公司旗下网站。", "labels": [[10, 17, "service"], [18, 26, "domain"], [34, 38, "domain"]], "meta": {"model_predict": 1, "name": "名车贷"}, "name": "名车贷"}
+{"text": "淘摄影是一个约拍及分销平台，以独立摄影小组的形式为客户提供更美照片、更低价格、更好服务。", "labels": [], "meta": {"model_predict": 1, "name": "淘摄影"}, "name": "淘摄影"}
+{"text": "木瓜金融(聚优理财)是一家互联网理财服务提供商，上海广度金融信息服务有限公司旗下网站。", "labels": [[13, 19, "service"], [19, 20, "domain"]], "meta": {"model_predict": 1, "name": "木瓜金融"}, "name": "木瓜金融"}
+{"text": "德问网致力于帮程序员解答各类编程问题，交流与扩展专业知识及技能，构建一个为专业难题提供高效解答的社群", "labels": [[14, 15, "service"], [25, 28, "service"], [43, 47, "service"], [48, 50, "service"]], "meta": {"model_predict": 1, "name": "德问网"}, "name": "德问网"}
+{"text": "帮助用户分享实践中的经验与知识，构建一个互动的开源知识库。", "labels": [[21, 22, "service"], [23, 28, "service"]], "meta": {"model_predict": 1, "name": "德问网"}, "name": "德问网"}
+{"text": "美乐网是一个基于兴趣社交的音乐视听、分享服务平台，旗下有移动APP美乐时光等。爱美乐（北京）科技发展有限公司旗下产品。", "labels": [[10, 12, "domain"], [28, 37, "service"]], "meta": {"model_predict": 1, "name": "美乐网"}, "name": "美乐网"}
+{"text": "布拉旅行是一个旅行度假导购移动应用，每日推荐高性价比的度假旅行产品。悦行信息科技(上海)有限公司旗下。", "labels": [[12, 15, "domain"], [27, 33, "service"]], "meta": {"model_predict": 1, "name": "布拉旅行"}, "name": "布拉旅行"}
+{"text": "乐乐订，是一个在线点菜、订桌、支付、分享网站。", "labels": [[8, 11, "service"], [12, 14, "service"], [15, 17, "service"]], "meta": {"model_predict": 1, "name": "乐乐订"}, "name": "乐乐订"}
+{"text": "郑州安仁电子科技有限公司是一家高端网站建设和品牌传播的网络服务构，致力于为企业提供全面、丰富的网络解决方案。", "labels": [[15, 16, "domain"], [17, 18, "domain"], [47, 53, "service"]], "meta": {"model_predict": 1, "name": "安仁科技"}, "name": "安仁科技"}
+{"text": "俏花旦是一个限时限量的搭配女装B2C网站。", "labels": [[11, 20, "service"]], "meta": {"model_predict": 1, "name": "俏花旦"}, "name": "俏花旦"}
+{"text": "主厨严选（前身是好菜网）是一个每日精选新鲜食材电商网站，台湾创业家兄弟股份有限公司(郭家兄弟)旗下产品。", "labels": [], "meta": {"model_predict": 1, "name": "主厨严选"}, "name": "主厨严选"}
+{"text": "站台是一款基于地铁的移动社交应用，北京友宝昂莱科技有限公司开发。", "labels": [[10, 14, "domain"]], "meta": {"model_predict": 1, "name": "站台"}, "name": "站台"}
+{"text": "锐码是一款商品供应链信息追溯平台，通过制造商、品牌商信息追溯平台和广大消费者手机APP将形成有效的防伪追溯链条体系", "labels": [[5, 7, "domain"], [9, 11, "domain"], [49, 51, "service"], [56, 57, "service"]], "meta": {"model_predict": 1, "name": "锐码"}, "name": "锐码"}
+{"text": "从而有效解决假冒防伪问题。", "labels": [[6, 11, "service"]], "meta": {"model_predict": 1, "name": "锐码"}, "name": "锐码"}
+{"text": "翻漫画，是一个在线漫画网站。", "labels": [[0, 3, "service"], [7, 13, "service"]], "meta": {"model_predict": 1, "name": "翻漫画"}, "name": "翻漫画"}
+{"text": "专利众筹网是一个主打专利等创新项目的众筹网站，北京一点科技有限公司旗下网站。", "labels": [], "meta": {"model_predict": 1, "name": "专利众筹网"}, "name": "专利众筹网"}
+{"text": "魔方手机助手，一款在Mac上连接Android的手机助手，提供App下载，SD卡文件管理，音乐视频资源。", "labels": [[24, 25, "service"], [32, 36, "service"], [37, 44, "service"], [45, 51, "service"]], "meta": {"model_predict": 1, "name": "魔方手机助手"}, "name": "魔方手机助手"}
+{"text": "嘀嘀呜/车语是一家主打汽车服务及消费的移动应用，隶属于好卡（北京）网络技术有限公司。", "labels": [[11, 12, "service"], [12, 15, "domain"], [16, 17, "domain"], [19, 22, "domain"]], "meta": {"model_predict": 1, "name": "嘀嘀呜"}, "name": "嘀嘀呜"}
+{"text": "稳收宝是一家定期固定收益理财服务平台，提出“百元理财”口号，上海为名投资管理有限公司旗下网站。", "labels": [[8, 9, "domain"], [9, 16, "service"]], "meta": {"model_predict": 1, "name": "稳收宝"}, "name": "稳收宝"}
+{"text": "天品网是一个主打时尚品牌折扣特价的电商网站，上海赢富电子商务有限公司旗下。", "labels": [[14, 16, "service"], [17, 18, "service"], [18, 19, "domain"]], "meta": {"model_predict": 1, "name": "天品网"}, "name": "天品网"}
+{"text": "星期送是基于互联网的在线订餐平台。星期送拥有自己的中央厨房，拥有自己完整的配送链。现阶段主要订餐方式有：400电话、网站、微信", "labels": [], "meta": {"model_predict": 1, "name": "星期送"}, "name": "星期送"}
+{"text": "主要的用户群体为高校大学生。", "labels": [], "meta": {"model_predict": 1, "name": "星期送"}, "name": "星期送"}
+{"text": "暖丘是一个心理互助平台，以心理咨询为切入点帮助大众管理心理及情绪问题，旗下有小丘机器人等，北京陶阳之星科技有限公司旗下产品。", "labels": [[5, 6, "domain"], [6, 7, "service"], [7, 9, "domain"], [32, 34, "service"]], "meta": {"model_predict": 1, "name": "暖丘"}, "name": "暖丘"}
+{"text": "粉多客是一个生活社交平台商城，以分享生活图片为切入点，通过图片和商家为基点产生互动和交友，形成生活商家的图片化点评", "labels": [[6, 11, "domain"], [16, 22, "service"]], "meta": {"model_predict": 1, "name": "粉多客"}, "name": "粉多客"}
+{"text": "并促进商家提升业绩。", "labels": [], "meta": {"model_predict": 1, "name": "粉多客"}, "name": "粉多客"}
+{"text": "某某是一个基于社交网络的好友配对约会应用，让用户可以约会朋友的朋友。原子互动(北京)科技有限公司旗下。", "labels": [[16, 20, "domain"], [26, 30, "service"]], "meta": {"model_predict": 1, "name": "某某"}, "name": "某某"}
+{"text": "今日爆款网，是一个精选促销商品网站。", "labels": [], "meta": {"model_predict": 1, "name": "今日爆款"}, "name": "今日爆款"}
+{"text": "宏图，是一个用户创造内容的平台。", "labels": [], "meta": {"model_predict": 1, "name": "宏图"}, "name": "宏图"}
+{"text": "壹路听，一款专为乘用车车内空间设计的环境音乐服务软件。基于音乐心理学", "labels": [[18, 24, "service"]], "meta": {"model_predict": 1, "name": "壹路听"}, "name": "壹路听"}
+{"text": "为车载环境音乐用户提供：不同对象、不同情境、不同状态、不同条件、不同天气的车内环境音乐服务。", "labels": [[38, 43, "service"]], "meta": {"model_predict": 1, "name": "壹路听"}, "name": "壹路听"}
+{"text": "美图手机是一个美图秀秀出品的自有品牌智能手机，主打美颜手机，厦门美图移动科技有限公司旗下产品。", "labels": [[0, 4, "service"], [14, 15, "domain"], [16, 22, "domain"], [25, 26, "service"], [26, 28, "domain"]], "meta": {"model_predict": 1, "name": "美图手机"}, "name": "美图手机"}
+{"text": "美腿团是一个基于微博的美女社区，侦探民间美女，帮她们达到最大的曝光率，提供模特经济、摄影、影视、广告、大型展会等服务。", "labels": [[11, 15, "domain"], [21, 22, "service"], [31, 34, "service"], [37, 41, "service"], [42, 44, "service"], [45, 47, "service"], [48, 50, "service"], [51, 55, "service"]], "meta": {"model_predict": 1, "name": "美腿团"}, "name": "美腿团"}
